@@ -1,70 +1,54 @@
 {
- "generated": "2026-09-13T22:04:53.934Z",
+ "generated": "2026-09-14T10:02:03.093Z",
  "window": {
-  "start": "2026-08-30",
-  "end": "2027-10-18"
+  "start": "2026-08-31",
+  "end": "2027-10-19"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 85,
-   "ms": 3,
+   "count": 84,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 32,
-   "ms": 7,
+   "count": 33,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 52,
-   "ms": 429,
+   "ms": 540,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 91,
-   "ms": 1092,
+   "ms": 913,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6750,
+   "ms": 4916,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "notable": 55,
   "major": 39,
+  "notable": 55,
   "routine": 159,
   "marquee": 7
  },
  "events": [
-  {
-   "date": "2026-08-30",
-   "time": null,
-   "title": "U.S. Open begins",
-   "note": "The main draw begins on a Sunday under the 15-day format and runs through Sept. 13. Qualifying and Fan Week start the week before. Major tourism and transit impact for Queens.",
-   "strand": "city-life",
-   "source": "Curated",
-   "sourceUrl": "https://www.usopen.org/",
-   "significance": 62,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
   {
    "date": "2026-08-31",
    "time": null,
@@ -4125,6 +4109,24 @@
    "anniversaryYears": 60,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2027-10-19",
+   "time": null,
+   "title": "Prospect Park opens in Brooklyn — 160th anniversary",
+   "note": "The first section of Prospect Park, designed by Olmsted and Vaux, opened to the public in Brooklyn.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://www.prospectpark.org/creation-prospect-park/",
+   "significance": 58,
+   "importance": 2,
+   "why": [
+    "160th anniversary"
+   ],
+   "historyYear": 1867,
+   "anniversaryYears": 160,
+   "live": true,
+   "tier": "notable"
   }
  ]
 }
