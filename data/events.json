@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T10:02:03.093Z",
+ "generated": "2026-09-14T22:05:07.596Z",
  "window": {
   "start": "2026-08-31",
   "end": "2027-10-19"
@@ -17,35 +17,35 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 6,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 52,
-   "ms": 540,
+   "ms": 5,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 91,
-   "ms": 913,
+   "ms": 1334,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 55,
+   "ms": 2720,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4916,
+   "ms": 8343,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 39,
   "notable": 55,
-  "routine": 159,
+  "routine": 162,
   "marquee": 7
  },
  "events": [
@@ -1287,6 +1287,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-09-16",
+   "time": null,
+   "title": "September 16, 2026 Public Hearing",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-09-17",
    "time": null,
    "title": "Chelsea bombing injures 31 — 10th anniversary",
@@ -1733,6 +1746,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-09-22",
+   "time": null,
+   "title": "BERS EXECUTIVE COMMITTEE MEETING",
+   "note": "Board of Education Retirement System · 55 Water Street",
+   "strand": "hearings",
+   "source": "Board of Education Retirement System",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-09-23",
    "time": "1:00 PM",
    "title": "Committee on Mental Health and Substance Use",
@@ -1987,7 +2013,7 @@
   },
   {
    "date": "2026-09-28",
-   "time": "10:00 AM",
+   "time": "11:00 AM",
    "title": "Committee on Cultural Affairs, Libraries and International Relations",
    "note": "Off Site Hearing · The New York Public Library at 515 Malcolm X Boulevard, New York, NY 10037 (135th Street and Malcolm X Boulevard)",
    "strand": "hearings",
@@ -2395,6 +2421,21 @@
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-05",
+   "time": null,
+   "title": "Board of Standards and Appeals Public Hearing Notice",
+   "note": "Board of Standards and Appeals · 22 Reade Street",
+   "strand": "hearings",
+   "source": "Board of Standards and Appeals",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 30,
+   "why": [
+    "Board of Standards and Appeals sets policy the public feels directly"
+   ],
    "live": true,
    "tier": "routine"
   },
