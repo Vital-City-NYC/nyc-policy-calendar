@@ -1,70 +1,54 @@
 {
- "generated": "2026-09-14T22:05:07.596Z",
+ "generated": "2026-09-15T10:02:24.695Z",
  "window": {
-  "start": "2026-08-31",
-  "end": "2027-10-19"
+  "start": "2026-09-01",
+  "end": "2027-10-20"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 84,
-   "ms": 2,
+   "count": 83,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 5,
-   "note": null
-  },
-  {
-   "name": "City Council",
-   "ok": true,
-   "count": 91,
-   "ms": 1334,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 55,
-   "ms": 2720,
+   "ms": 963,
+   "note": null
+  },
+  {
+   "name": "City Council",
+   "ok": true,
+   "count": 91,
+   "ms": 1127,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8343,
+   "ms": 8983,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 39,
   "notable": 55,
   "routine": 162,
+  "major": 38,
   "marquee": 7
  },
  "events": [
-  {
-   "date": "2026-08-31",
-   "time": null,
-   "title": "One year until Rikers must close",
-   "note": "Administrative Code section 4-215, from Local Law 16 of 2021, requires that by Aug. 31, 2027 all of Rikers Island be transferred out of the Correction Department's control and no longer used to house people. This marks exactly one year out.",
-   "strand": "justice",
-   "source": "Curated",
-   "sourceUrl": null,
-   "significance": 72,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "major"
-  },
   {
    "date": "2026-09-01",
    "time": null,
