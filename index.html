@@ -577,21 +577,121 @@ body{
   .mnav .n{display:none}
   .grid .dh{padding:5px 3px;font-size:.5rem;text-align:center}
 }
+
+/* ══ Vital City toolkit shell ══════════════════════════════
+   The calendar was designed as a broadsheet: a 4rem nameplate, a chartreuse
+   standfirst, section-front month rules. Next to the other tools it read as a
+   different product. This block puts it on the suite's shell -- the white
+   masthead band, 26px title, 14px body, compact controls, utilities in the
+   toolkit bar, dark mode -- and leaves what carries meaning alone: the strand
+   colours, the marquee wash, the serif numerals, significance as size. */
+:root{
+  --vc-paper:var(--paper); --vc-white:var(--white); --vc-black:var(--black);
+  --vc-cloud:var(--cloud); --vc-charcoal:var(--charcoal); --vc-cerulean:var(--cerulean);
+  --vc-sans:var(--sans); --vc-serif:var(--serif);
+}
+body{font-weight:400;font-size:14px;line-height:1.5}
+a{color:var(--cerulean)}
+.wrap{max-width:1080px;padding:0 30px 90px}
+
+header.mast{position:relative;border-bottom:1px solid var(--black);padding:22px 30px 16px;background:var(--white)}
+header.mast h1{font-family:var(--sans);font-weight:900;font-size:26px;margin:6px 0 2px;letter-spacing:-.01em;line-height:1.15}
+header.mast .sub{font-size:13px;color:var(--charcoal);max-width:780px}
+.mastlinks{position:absolute;right:30px;top:20px;display:flex;align-items:center;gap:14px;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.08em}
+.mastlinks a{color:var(--cerulean);text-decoration:none;white-space:nowrap;cursor:pointer}
+.mastlinks a:hover{text-decoration:underline}
+@media(max-width:700px){.mastlinks{position:static;flex-wrap:wrap;gap:10px 14px;margin:0 0 10px}}
+.pop{top:56px;bottom:auto;right:30px;border-radius:0}
+
+.status{font-size:12px;padding:10px 0}
+.status button{font-size:11px;letter-spacing:.05em;padding:6px 12px}
+.status button:hover{background:var(--cerulean)}
+
+.controls{padding:10px 0;border-bottom:1px solid var(--black)}
+.ctl-label{font-size:10px;letter-spacing:.09em}
+.thresh{border:1px solid var(--cloud)}
+.thresh button{font-size:10.5px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;padding:5px 10px;border-right:1px solid var(--cloud);color:var(--charcoal)}
+.thresh button.on{background:var(--black);color:var(--white)}
+.thresh button:hover:not(.on){background:var(--cloud-50);color:var(--black)}
+.chip{font-size:11.5px}
+.search{font-size:13px;border-color:var(--black);background:var(--paper)}
+
+.month{margin:34px 0 2px;padding-bottom:6px;border-bottom:1.5px solid var(--black)}
+.month:first-child{margin-top:24px}
+.month h2{font-weight:900;font-size:19px;letter-spacing:-.01em}
+.month .yr{font-size:17px}
+.month .n{font-size:10px;letter-spacing:.09em}
+
+.ev{grid-template-columns:64px 1fr auto;gap:16px;padding:12px 0}
+.ev.marquee .dnum{font-size:3.1rem}
+.ev.marquee h3{font-size:clamp(1.2rem,2.3vw,1.55rem);font-weight:800;letter-spacing:-.015em}
+.ev.marquee .note{font-size:.86rem}
+.ev.major .dnum{font-size:2rem}
+.ev.major h3{font-size:1.05rem;font-weight:800}
+.ev.major .note{font-size:.82rem}
+.ev.notable .dnum{font-size:1.4rem}
+.ev.notable h3{font-size:.93rem}
+.ev.notable .note{font-size:.8rem}
+.ev .dow,.ev .time,.ev .meta{font-size:10px}
+.tag{font-size:9.5px;letter-spacing:.07em}
+.foot{font-size:12px}
+
+/* ── Dark mode: the same token values as the contacts and growth tools ── */
+html.dark{--paper:#161719;--white:#212329;--black:#e8e8e5;--cloud:#3a3c43;--cloud-50:#2b2d34;--charcoal:#9a9ca2;--graphite:#b9bbc0}
+html.dark body{background:var(--paper);color:var(--black)}
+html.dark a,html.dark .mastlinks a{color:#6fb3e8}
+html.dark input,html.dark select,html.dark textarea{background:#212329;color:var(--black);border-color:var(--cloud)}
+html.dark .thresh button.on,html.dark .status button{background:var(--cerulean);color:#fff}
+html.dark .status button.ghost{background:none;color:var(--black);border-color:var(--cloud)}
+html.dark .tag{color:#050507}                     /* strand fills stay light; keep their labels dark */
+html.dark .ev:hover{background:rgba(221,228,76,.06)}
+html.dark .ev.marquee{background:rgba(221,228,76,.08)}
+html.dark .ev.marquee:hover{background:rgba(221,228,76,.12)}
+html.dark .pop{background:#0b0b0d;border-color:#0b0b0d}
+/* the old floating AI-caution button was a maroon block; in the bar it is a link like the others */
+.mastlinks #aiBtn{background:none;border:none;padding:0;color:var(--cerulean);box-shadow:none}
+html.dark .mastlinks #aiBtn{color:#6fb3e8}
+@media print{.mastlinks{display:none}}
 </style>
+<script>
+/* Theme: html.dark from localStorage "vc_theme", the convention every Vital
+   City tool uses, so dark mode chosen anywhere in the toolkit carries here. */
+(function(){
+  var t=null; try{ t=localStorage.getItem("vc_theme"); }catch(e){}
+  if(!t) t=(window.matchMedia&&matchMedia("(prefers-color-scheme:dark)").matches)?"dark":"light";
+  document.documentElement.classList.toggle("dark", t==="dark");
+  document.addEventListener("DOMContentLoaded",function(){
+    var b=document.getElementById("themeToggle"); if(!b) return;
+    var label=function(){ b.textContent=document.documentElement.classList.contains("dark")?"\u2600\uFE0F Light mode":"\uD83C\uDF19 Dark mode"; };
+    label();
+    b.addEventListener("click",function(e){
+      e.preventDefault();
+      var n=document.documentElement.classList.contains("dark")?"light":"dark";
+      document.documentElement.classList.toggle("dark", n==="dark");
+      try{ localStorage.setItem("vc_theme",n); }catch(e2){}
+      label();
+    });
+  });
+})();
+</script>
 <link rel="stylesheet" href="https://vitalcity-nyc.github.io/vital-city-catalogue/toolkit.css">
 <script src="https://vitalcity-nyc.github.io/vital-city-catalogue/toolkit.js" data-tool="calendar" defer></script>
 </head>
 <body>
 
-<div class="wrap">
+<div data-toolkit-nav style="padding:0 30px"></div>
+<header class="mast">
+  <div class="mastlinks">
+    <a href="methodology.html" title="How events are gathered, scored and sized.">Methodology</a>
+    <a href="#" id="aiBtn" title="What was built with AI assistance, and what to check before relying on it.">AI caution</a>
+    <a href="#" id="themeToggle" title="Switch between light and dark. Remembered on this device and shared with the other Vital City tools.">🌙 Dark mode</a>
+  </div>
+  <h1>The New York City calendar</h1>
+  <div class="sub">What is coming for the city — the days it will feel, the deadlines that bind it,
+  the anniversaries it is about to mark. Sized by how much they matter, not by who filed them. Refreshed twice a day.</div>
+</header>
 
-  <div data-toolkit-nav></div>
-  <header class="masthead">
-    <div class="kicker">A live calendar · refreshed twice a day</div>
-    <h1>The New York City calendar</h1>
-    <p class="standfirst">What is coming for the city — the days it will feel, the deadlines that bind it,
-    the anniversaries it is about to mark. Sized by how much they matter, not by who filed them.</p>
-  </header>
+<div class="wrap">
 
   <div class="status" id="status"></div>
 
@@ -630,10 +730,7 @@ body{
 
 </div>
 
-<div class="tools">
-  <a href="methodology.html" style="text-decoration:none"><button>Methodology</button></a>
-  <button id="aiBtn">AI caution</button>
-</div>
+
 <div class="pop" id="aiPop">
   This calendar was built with AI assistance. The hearings, agendas and session days come directly
   from government feeds, and the historical events are drawn from a sourced corpus. But the
@@ -1316,7 +1413,7 @@ document.addEventListener('keydown',e=>{
   if(e.key==='ArrowRight'){monthCursor=stepMonth(1);render();}
 });
 $('#todayBtn').onclick=jumpToToday;
-$('#aiBtn').onclick=()=>$('#aiPop').classList.toggle('show');
+$('#aiBtn').onclick=e=>{e.preventDefault();$('#aiPop').classList.toggle('show');};
 document.addEventListener('click',e=>{
   if(!e.target.closest('#aiPop')&&!e.target.closest('#aiBtn'))$('#aiPop').classList.remove('show');
 });
