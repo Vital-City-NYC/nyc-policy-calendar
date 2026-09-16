@@ -1,128 +1,53 @@
 {
- "generated": "2026-09-15T22:05:10.328Z",
+ "generated": "2026-09-16T02:26:39.516Z",
  "window": {
-  "start": "2026-09-01",
-  "end": "2027-10-20"
+  "start": "2026-09-02",
+  "end": "2027-10-21"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 83,
-   "ms": 2,
+   "count": 81,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 7,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 60,
-   "ms": 273,
+   "count": 58,
+   "ms": 1122,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 93,
-   "ms": 715,
+   "count": 92,
+   "ms": 1514,
    "note": null
   },
   {
    "name": "Albany",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "ms": 4918,
-   "note": "the Legislature is out of session"
+   "error": "fetch failed"
   }
  ],
  "counts": {
-  "notable": 55,
-  "routine": 169,
+  "routine": 166,
+  "notable": 53,
   "major": 38,
   "marquee": 7
  },
  "events": [
-  {
-   "date": "2026-09-01",
-   "time": null,
-   "title": "A Fragile Alliance, by James J. Barney",
-   "note": "Reassesses David Dinkins, New York's first Black mayor, casting 1989-93 as the test case for the multiracial coalition politics still being fought over. (Fordham)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://fordhampress.com/a-fragile-alliance-hb-9781531514464.html",
-   "significance": 50,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-09-01",
-   "time": null,
-   "title": "Fire in the Heart of the City, by David Conrad-Pérez",
-   "note": "How the 1911 Triangle fire set off a fight between New York's elite and labor organizers over who controls the city's disaster response. (NYU Press)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://nyupress.org/9781479837700/fire-in-the-heart-of-the-city/",
-   "significance": 46,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-09-01",
-   "time": null,
-   "title": "September 1, 2026, Public Hearing Agenda CR",
-   "note": "Landmarks Preservation Commission · 253 Broadway",
-   "strand": "hearings",
-   "source": "Landmarks Preservation Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 34,
-   "why": [
-    "Landmarks Preservation Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-01",
-   "time": "10:00 AM",
-   "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
-   "note": "Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22676&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22676_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-09-01_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-01",
-   "time": null,
-   "title": "Notice of Public Hearing and Opportunity to Comment-  FHV and Taxi Parking at Commercial Meters and Commercial Vehicle Markings",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-02",
    "time": "10:00 AM",
