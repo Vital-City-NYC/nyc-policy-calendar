@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T10:01:54.864Z",
+ "generated": "2026-09-16T13:27:17.033Z",
  "window": {
   "start": "2026-09-02",
   "end": "2027-10-21"
@@ -10,40 +10,40 @@
    "name": "Curated",
    "ok": true,
    "count": 81,
-   "ms": 3,
+   "ms": 4,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 6,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 58,
-   "ms": 279,
+   "count": 59,
+   "ms": 401,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 92,
-   "ms": 936,
+   "ms": 837,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4799,
+   "ms": 5210,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 166,
+  "routine": 167,
   "notable": 53,
   "major": 38,
   "marquee": 7
@@ -1686,10 +1686,23 @@
   {
    "date": "2026-09-22",
    "time": null,
-   "title": "BERS EXECUTIVE COMMITTEE MEETING",
+   "title": "Cancellation: BERS EXECUTIVE COMMITTEE MEETING",
    "note": "Board of Education Retirement System · 55 Water Street",
    "strand": "hearings",
    "source": "Board of Education Retirement System",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-22",
+   "time": null,
+   "title": "Notice of Meeting",
+   "note": "Educational Construction Fund · Address Not Listed In The Dropdown",
+   "strand": "hearings",
+   "source": "Educational Construction Fund",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
