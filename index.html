@@ -280,6 +280,9 @@ body{
 }
 .cell.pad{background:var(--paper)}
 .cell.today{box-shadow:inset 0 0 0 2px var(--black)}
+.flash{animation:flashin 1.6s ease-out}
+@keyframes flashin{0%{background:var(--gold,#e8d9a8)}60%{background:var(--gold,#e8d9a8)}100%{background:transparent}}
+@media (prefers-reduced-motion:reduce){.flash{animation:none;outline:2px solid var(--black);outline-offset:2px}}
 .cell .dn{font-family:var(--serif);font-size:1.15rem;line-height:1;color:var(--charcoal);margin-bottom:5px;display:block}
 .cell.today .dn{color:var(--black);font-weight:700}
 .cell.hasmarquee{background:var(--chartreuse)}
@@ -607,6 +610,7 @@ body{
         <button data-view="month">Month</button>
         <button data-view="mine">My list <span id="mineN"></span></button>
       </div>
+      <div class="thresh"><button id="todayBtn" title="Scroll to today — or to the next thing on the calendar, if nothing falls today">Today</button></div>
       <input type="search" class="search" id="search" placeholder="Search the calendar…">
     </div>
     <div class="chips" id="chips"></div>
@@ -742,7 +746,13 @@ function updateMineCount(){
 const $=s=>document.querySelector(s);
 const esc=s=>{const d=document.createElement('div');d.textContent=s??'';return d.innerHTML};
 const parse=s=>{const[y,m,d]=s.split('-').map(Number);return new Date(y,m-1,d)};
-const todayISO=()=>new Date().toISOString().slice(0,10);
+// Local date, not UTC. toISOString() rolls over at 8pm Eastern, so every
+// evening the calendar highlighted tomorrow as today and dropped the rest of
+// today's events out of the agenda's "nothing in the past" filter.
+const todayISO=()=>{
+  const d=new Date();
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+};
 
 async function load(first){
   const res=await fetch('data/events.json?t='+Date.now());
@@ -886,7 +896,7 @@ function visible(){
 function evHTML(e,i){
   const d=parse(e.date);
   const mine=noteFor(e);
-  return `<article class="ev ${e.tier}${isStarred(e)?' starred':''}" data-i="${i}">
+  return `<article class="ev ${e.tier}${isStarred(e)?' starred':''}" data-i="${i}" data-date="${e.date}">
     <div class="when">
       <span class="dnum">${d.getDate()}</span>
       <div class="dow">${DOW[d.getDay()]}</div>
@@ -1211,6 +1221,36 @@ function wireEvents(el){
   });
 }
 
+/* Jump to today. The calendar opens at the top of whatever is in the filter,
+   which is usually months of scrolling away from now. In month view that means
+   the cell for today; in agenda view there may be nothing happening today, so
+   it lands on the next event instead and says so by flashing it. */
+function jumpToToday(){
+  const t=todayISO(), mk=t.slice(0,7);
+  let el=null, why="";
+  if(view==='month'){
+    // the grid paints one month at a time, so move the cursor before looking
+    const now=new Date();
+    if(monthCursor[0]!==now.getFullYear()||monthCursor[1]!==now.getMonth()){
+      monthCursor=[now.getFullYear(), now.getMonth()];
+      render();
+    }
+    el=document.querySelector('.cell.today');
+    why="today";
+  }else{
+    const evs=[...document.querySelectorAll('[data-date]')];
+    el=evs.find(e=>e.dataset.date===t);
+    if(el) why="today";
+    if(!el){ el=evs.find(e=>e.dataset.date>t); why="the next thing on the calendar"; }
+    if(!el && evs.length){ el=evs[evs.length-1]; why="the last event before today — nothing is scheduled after it"; }
+  }
+  if(!el){ toast("Nothing to jump to with these filters."); return; }
+  el.scrollIntoView({behavior:'smooth', block:'center'});
+  el.classList.add('flash');
+  setTimeout(()=>el.classList.remove('flash'), 1600);
+  if(why && why!=="today") toast("Nothing today — showing " + why + ".");
+}
+
 function render(){
   const evs=visible();
   updateIcsLabel();
@@ -1238,7 +1278,7 @@ function render(){
   for(const m of months){
     const d=parse(m.date);
     const total=m.news.length+m.agate.length;
-    html+=`<section class="month">
+    html+=`<section class="month" data-month="${m.key}">
       <h2>${MONTHS[d.getMonth()]}<span class="yr">${d.getFullYear()}</span></h2>
       <span class="n">${total} event${total===1?'':'s'}</span>
     </section>`;
@@ -1275,6 +1315,7 @@ document.addEventListener('keydown',e=>{
   if(e.key==='ArrowLeft'){monthCursor=stepMonth(-1);render();}
   if(e.key==='ArrowRight'){monthCursor=stepMonth(1);render();}
 });
+$('#todayBtn').onclick=jumpToToday;
 $('#aiBtn').onclick=()=>$('#aiPop').classList.toggle('show');
 document.addEventListener('click',e=>{
   if(!e.target.closest('#aiPop')&&!e.target.closest('#aiBtn'))$('#aiPop').classList.remove('show');
