@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-16T22:04:36.857Z",
+ "generated": "2026-09-17T10:02:02.834Z",
  "window": {
-  "start": "2026-09-02",
-  "end": "2027-10-21"
+  "start": "2026-09-03",
+  "end": "2027-10-22"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,74 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 81,
-   "ms": 3,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 6,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 59,
-   "ms": 380,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 94,
-   "ms": 1217,
+   "count": 93,
+   "ms": 910,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 58,
+   "ms": 1328,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5341,
+   "ms": 5015,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 169,
+  "routine": 167,
   "notable": 53,
   "major": 38,
   "marquee": 7
  },
  "events": [
-  {
-   "date": "2026-09-02",
-   "time": "10:00 AM",
-   "title": "Committee on Health",
-   "note": "Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22647&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22647_A_Committee_on_Health_26-09-02_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-02",
-   "time": null,
-   "title": "City of New York Deferred Compensation Plan Board Meeting",
-   "note": "Office of Labor Relations",
-   "strand": "hearings",
-   "source": "Office of Labor Relations",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-03",
    "time": null,
