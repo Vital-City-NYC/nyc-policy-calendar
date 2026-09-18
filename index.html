@@ -679,7 +679,8 @@ html.dark .mastlinks #aiBtn{color:#6fb3e8}
 </head>
 <body>
 
-<div data-toolkit-nav style="padding:0 30px"></div>
+<div class="confbar"><span>Public &middot; what is coming for New York City</span><span id="stamp"></span></div>
+<div data-toolkit-nav></div>
 <header class="mast">
   <div class="mastlinks">
     <a href="methodology.html" title="How events are gathered, scored and sized.">Methodology</a>
@@ -867,6 +868,7 @@ async function load(first){
     return;
   }
   DATA=json;generated=json.generated;
+  if(window.vcStamp) vcStamp("#stamp", json.generated);   // same stamp as every toolkit page
   if(json.corpusSize) $('#corpusN').textContent=json.corpusSize;
   loadMarks();refreshPool();updateMineCount();
   renderChips();renderStatus();renderSources();render();
