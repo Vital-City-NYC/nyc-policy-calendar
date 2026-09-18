@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-17T22:05:09.692Z",
+ "generated": "2026-09-18T10:02:23.741Z",
  "window": {
-  "start": "2026-09-03",
-  "end": "2027-10-22"
+  "start": "2026-09-04",
+  "end": "2027-10-23"
  },
  "corpusSize": 282,
  "sources": [
@@ -23,45 +23,32 @@
   {
    "name": "City Record",
    "ok": true,
-   "count": 58,
-   "ms": 798,
+   "count": 57,
+   "ms": 788,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 93,
-   "ms": 2656,
+   "ms": 1140,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 7410,
+   "ms": 9298,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 167,
   "notable": 53,
   "major": 38,
+  "routine": 166,
   "marquee": 7
  },
  "events": [
-  {
-   "date": "2026-09-03",
-   "time": null,
-   "title": "Dining Out NYC Hearing",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-07",
    "time": null,
