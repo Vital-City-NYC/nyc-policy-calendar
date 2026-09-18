@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T15:33:15.601Z",
+ "generated": "2026-09-18T22:04:44.036Z",
  "window": {
   "start": "2026-09-04",
   "end": "2027-10-23"
@@ -10,42 +10,42 @@
    "name": "Curated",
    "ok": true,
    "count": 81,
-   "ms": 3,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 7,
+   "ms": 5,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 57,
-   "ms": 270,
+   "ms": 457,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 93,
-   "ms": 783,
+   "count": 95,
+   "ms": 1099,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6037,
+   "ms": 6383,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "notable": 53,
   "major": 38,
-  "routine": 166,
+  "routine": 168,
   "marquee": 7
  },
  "events": [
@@ -1861,6 +1861,22 @@
   },
   {
    "date": "2026-09-24",
+   "time": "11:00 AM",
+   "title": "Committee on Cultural Affairs, Libraries and International Relations",
+   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22746&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22746_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-09-24_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-24",
    "time": null,
    "title": "Dining Out NYC Public Hearings",
    "note": "Transportation",
@@ -2388,6 +2404,20 @@
    "why": [
     "Board of Standards and Appeals sets policy the public feels directly"
    ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-05",
+   "time": "10:00 AM",
+   "title": "Committee of the Whole",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22752&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22752_A_Committee_of_the_Whole_26-10-05_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
    "live": true,
    "tier": "routine"
   },
