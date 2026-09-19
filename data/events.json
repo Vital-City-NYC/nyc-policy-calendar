@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-18T22:04:44.036Z",
+ "generated": "2026-09-19T10:02:07.083Z",
  "window": {
-  "start": "2026-09-04",
-  "end": "2027-10-23"
+  "start": "2026-09-05",
+  "end": "2027-10-24"
  },
  "corpusSize": 282,
  "sources": [
@@ -17,28 +17,28 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 5,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 57,
-   "ms": 457,
+   "ms": 573,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 95,
-   "ms": 1099,
+   "ms": 942,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6383,
+   "ms": 6473,
    "note": "the Legislature is out of session"
   }
  ],
@@ -2409,7 +2409,7 @@
   },
   {
    "date": "2026-10-05",
-   "time": "10:00 AM",
+   "time": "11:00 AM",
    "title": "Committee of the Whole",
    "note": "Council Chambers - City Hall",
    "strand": "hearings",
