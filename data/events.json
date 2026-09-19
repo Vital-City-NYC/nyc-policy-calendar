@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T10:02:07.083Z",
+ "generated": "2026-09-19T22:04:43.906Z",
  "window": {
   "start": "2026-09-05",
   "end": "2027-10-24"
@@ -10,42 +10,41 @@
    "name": "Curated",
    "ok": true,
    "count": 81,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 7,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 57,
-   "ms": 573,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 95,
-   "ms": 942,
+   "ms": 1174,
    "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": false,
+   "count": 0,
+   "error": "City Record 503"
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6473,
+   "ms": 6845,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "notable": 53,
   "major": 38,
-  "routine": 168,
+  "routine": 111,
   "marquee": 7
  },
  "events": [
@@ -228,21 +227,6 @@
   },
   {
    "date": "2026-09-09",
-   "time": null,
-   "title": "City Planning Commission Public Hearing Ad",
-   "note": "City Planning Commission · 120 Broadway",
-   "strand": "hearings",
-   "source": "City Planning Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 38,
-   "why": [
-    "City Planning Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
    "time": "10:00 AM",
    "title": "Committee on Public Safety",
    "note": "Jointly with the Committee on Technology, the Committee on Fire and Emergency Management and the Committee on Governmental Operations, State & Federal Legislation · Council Chambers - City Hall",
@@ -254,36 +238,6 @@
    "why": [
     "high-salience committee",
     "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "CPC and DCP Proposed Rules: Expedited Land Use Review Procedure and Affordable Housing Appeals Board",
-   "note": "City Planning Commission · 120 Broadway",
-   "strand": "hearings",
-   "source": "City Planning Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 38,
-   "why": [
-    "City Planning Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "Board of Correction Public Meeting",
-   "note": "Board of Correction · 125 Worth Street",
-   "strand": "hearings",
-   "source": "Board of Correction",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 36,
-   "why": [
-    "Board of Correction sets policy the public feels directly"
    ],
    "live": true,
    "tier": "routine"
@@ -381,123 +335,6 @@
    "why": [
     "joint committee hearing"
    ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "511 West 171",
-   "note": "Housing Preservation and Development",
-   "strand": "hearings",
-   "source": "Housing Preservation and Development",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "FOR ACQUISTION - Block 5308 Lot 50",
-   "note": "Citywide Administrative Services",
-   "strand": "hearings",
-   "source": "Citywide Administrative Services",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "MOCs Public Hearing September 9, 2026",
-   "note": "Environmental Protection",
-   "strand": "hearings",
-   "source": "Environmental Protection",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "MOCs Public Hearing September 9, 2026",
-   "note": "Environmental Protection",
-   "strand": "hearings",
-   "source": "Environmental Protection",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "MOCs Public Hearing September 9, 2026",
-   "note": "Environmental Protection",
-   "strand": "hearings",
-   "source": "Environmental Protection",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "New York City Transit Authority - Selective Certification Request",
-   "note": "Citywide Administrative Services",
-   "strand": "hearings",
-   "source": "Citywide Administrative Services",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "Proposed Rule - Rule relating to Incomplete Inspections",
-   "note": "Buildings",
-   "strand": "hearings",
-   "source": "Buildings",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "September 9, 2026 Public Hearing",
-   "note": "Community Boards",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "SEPTEMBER 9, 2026 PUBLIC HEARING",
-   "note": "Community Boards",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -666,71 +503,6 @@
    "tier": "routine"
   },
   {
-   "date": "2026-09-10",
-   "time": null,
-   "title": "BUILD NYC RESOURCE CORPORATION - SUPPLEMENTAL NOTICE OF PUBLIC HEARING - September 10th, 2026",
-   "note": "Build NYC Resource Corporation · 1 Liberty Plaza",
-   "strand": "hearings",
-   "source": "Build NYC Resource Corporation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-10",
-   "time": null,
-   "title": "BUILD NYC RESOURCE CORPORATION NOTICE OF PUBLIC HEARING - September 10th, 2026",
-   "note": "Build NYC Resource Corporation · 1 Liberty Plaza",
-   "strand": "hearings",
-   "source": "Build NYC Resource Corporation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-10",
-   "time": null,
-   "title": "MWBE_7-858-0662A - HYBRID CLOUD SECURITY ARCHITECT",
-   "note": "Information Technology and Telecommunications",
-   "strand": "hearings",
-   "source": "Information Technology and Telecommunications",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-10",
-   "time": null,
-   "title": "NEW YORK CITY INDUSTRIAL DEVELOPMENT AGENCY - NOTICE OF PUBLIC HEARING - September 10th, 2026",
-   "note": "Industrial Development Agency · 1 Liberty Plaza",
-   "strand": "hearings",
-   "source": "Industrial Development Agency",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-10",
-   "time": null,
-   "title": "September 10, 2026 Public Hearing",
-   "note": "Community Boards",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
    "date": "2026-09-11",
    "time": null,
    "title": "9/11 attacks destroy the World Trade Center — 25th anniversary",
@@ -766,49 +538,6 @@
    "anniversaryYears": 160,
    "live": true,
    "tier": "notable"
-  },
-  {
-   "date": "2026-09-14",
-   "time": null,
-   "title": "Board of Standards and Appeals Hearing Notice",
-   "note": "Board of Standards and Appeals · 22 Reade Street",
-   "strand": "hearings",
-   "source": "Board of Standards and Appeals",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 30,
-   "why": [
-    "Board of Standards and Appeals sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-14",
-   "time": null,
-   "title": "New Rules Relating to Rat Inspections",
-   "note": "Health and Mental Hygiene",
-   "strand": "hearings",
-   "source": "Health and Mental Hygiene",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 28,
-   "why": [
-    "Health and Mental Hygiene sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-14",
-   "time": null,
-   "title": "The Battery Conservancy, Inc. for the Operation and Maintenance of The Battery in Manhattan",
-   "note": "Parks and Recreation · 255 Greenwich St",
-   "strand": "hearings",
-   "source": "Parks and Recreation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
   },
   {
    "date": "2026-09-15",
@@ -882,21 +611,6 @@
   },
   {
    "date": "2026-09-15",
-   "time": null,
-   "title": "September 15, 2026, Public Hearing Agenda CR",
-   "note": "Landmarks Preservation Commission · 253 Broadway",
-   "strand": "hearings",
-   "source": "Landmarks Preservation Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 34,
-   "why": [
-    "Landmarks Preservation Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-15",
    "time": "10:00 AM",
    "title": "Committee on Sanitation and Solid Waste Management",
    "note": "250 Broadway - 8th Floor - Hearing Room 2",
@@ -940,32 +654,6 @@
    "why": [
     "joint committee hearing"
    ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-15",
-   "time": null,
-   "title": "Bronx Borough President Public Hearing Notice \u001a 110 East 138th Street/63 Exterior Street and Related Actions",
-   "note": "Borough President - Bronx",
-   "strand": "hearings",
-   "source": "Borough President - Bronx",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-15",
-   "time": null,
-   "title": "Proposed Rule - Amendment of Rules relating to Certain Qualified Inspectors",
-   "note": "Buildings",
-   "strand": "hearings",
-   "source": "Buildings",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -1072,36 +760,6 @@
   },
   {
    "date": "2026-09-16",
-   "time": null,
-   "title": "New York City Independent Budget Office Advisory Committee Meeting",
-   "note": "Independent Budget Office",
-   "strand": "hearings",
-   "source": "Independent Budget Office",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 28,
-   "why": [
-    "subject matter of broad public interest"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": null,
-   "title": "Rules Regarding Restricted Substances in Personal Care Products",
-   "note": "Health and Mental Hygiene",
-   "strand": "hearings",
-   "source": "Health and Mental Hygiene",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 28,
-   "why": [
-    "Health and Mental Hygiene sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
    "time": "1:00 PM",
    "title": "Committee on Children and Youth",
    "note": "250 Broadway - 8th Floor - Hearing Room 2",
@@ -1124,45 +782,6 @@
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22688&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22688_A_Committee_on_Small_Business_26-09-16_Committee_Agenda.pdf",
    "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": null,
-   "title": "DCWP NOH Rules Relating to Tax Preparation Fee Disclosures",
-   "note": "Consumer and Worker Protection",
-   "strand": "hearings",
-   "source": "Consumer and Worker Protection",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": null,
-   "title": "FCRC SEPTEMBER PUBLIC MEETING",
-   "note": "Franchise and Concession Review Committee · 255 Greenwich Street",
-   "strand": "hearings",
-   "source": "Franchise and Concession Review Committee",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": null,
-   "title": "September 16, 2026 Public Hearing",
-   "note": "Community Boards",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
    "why": [],
    "live": true,
    "tier": "routine"
@@ -1220,21 +839,6 @@
   },
   {
    "date": "2026-09-17",
-   "time": null,
-   "title": "NYC BOARD OF HEALTH MEETING ANNOUNCEMENT",
-   "note": "Health and Mental Hygiene · 42-09 28th Avenue",
-   "strand": "hearings",
-   "source": "Health and Mental Hygiene",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 28,
-   "why": [
-    "Health and Mental Hygiene sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
    "time": "11:00 AM",
    "title": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
    "note": "250 Broadway - 8th Floor - Hearing Room 3",
@@ -1243,84 +847,6 @@
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22620&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22620_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-09-17_Committee_Agenda.pdf",
    "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "DCWP NOH Rules Relating to Amendment of Debt Collectors Rule Effective Date",
-   "note": "Consumer and Worker Protection",
-   "strand": "hearings",
-   "source": "Consumer and Worker Protection",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "Dining Out NYC Public Hearing",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "Dining Out NYC Public Hearings",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "EEPC COMMISSION MEETING #290",
-   "note": "Equal Employment Practices Commission · 253 Broadway",
-   "strand": "hearings",
-   "source": "Equal Employment Practices Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "September 17, 2026 PUBLIC HEARING",
-   "note": "Community Boards · 9941 Ft. Hamilton Parkway",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "Teachers\u001a Retirement System of the City of New York Monthly Board Meeting",
-   "note": "Teachers' Retirement System · 55 Water Street",
-   "strand": "hearings",
-   "source": "Teachers' Retirement System",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
    "why": [],
    "live": true,
    "tier": "routine"
@@ -1423,19 +949,6 @@
    "why": [
     "joint committee hearing"
    ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-18",
-   "time": null,
-   "title": "DSNY Amendment of Penalty for Improper Disposal of Regulated Household Waste",
-   "note": "Sanitation",
-   "strand": "hearings",
-   "source": "Sanitation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -1642,32 +1155,6 @@
    "tier": "routine"
   },
   {
-   "date": "2026-09-22",
-   "time": null,
-   "title": "Cancellation: BERS EXECUTIVE COMMITTEE MEETING",
-   "note": "Board of Education Retirement System · 55 Water Street",
-   "strand": "hearings",
-   "source": "Board of Education Retirement System",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": null,
-   "title": "Notice of Meeting",
-   "note": "Educational Construction Fund · Address Not Listed In The Dropdown",
-   "strand": "hearings",
-   "source": "Educational Construction Fund",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
    "date": "2026-09-23",
    "time": "1:00 PM",
    "title": "Committee on Mental Health and Substance Use",
@@ -1680,21 +1167,6 @@
    "why": [
     "high-salience committee",
     "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": null,
-   "title": "New York City Housing Authority Board Meeting",
-   "note": "Housing Authority",
-   "strand": "hearings",
-   "source": "Housing Authority",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 34,
-   "why": [
-    "Housing Authority sets policy the public feels directly"
    ],
    "live": true,
    "tier": "routine"
@@ -1792,58 +1264,6 @@
    "tier": "routine"
   },
   {
-   "date": "2026-09-23",
-   "time": null,
-   "title": "COMBINED SEWER OVERFLOW CONTROL FACILITY \u001a GOWANUS CANAL SUPERFUND REMEDIATION, PHASE IIB",
-   "note": "Supreme Court · 360 Adams Street",
-   "strand": "hearings",
-   "source": "Supreme Court",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": null,
-   "title": "Essex Site 9",
-   "note": "Housing Preservation and Development",
-   "strand": "hearings",
-   "source": "Housing Preservation and Development",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": null,
-   "title": "FOR LEASE - 1664 PARK AVENUE",
-   "note": "Citywide Administrative Services",
-   "strand": "hearings",
-   "source": "Citywide Administrative Services",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": null,
-   "title": "Proposed Rule - Amendment of Rules regarding Fees for Electrical Permits and Licensing and Compensation of Registered Design Professionals",
-   "note": "Buildings",
-   "strand": "hearings",
-   "source": "Buildings",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
    "date": "2026-09-24",
    "time": "1:30 PM",
    "title": "Stated meeting of the City Council",
@@ -1872,32 +1292,6 @@
    "why": [
     "a vote is scheduled"
    ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-24",
-   "time": null,
-   "title": "Dining Out NYC Public Hearings",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-24",
-   "time": null,
-   "title": "Proposed Rule - Rules regarding Sidewalk Shed Designs",
-   "note": "Buildings",
-   "strand": "hearings",
-   "source": "Buildings",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -1968,21 +1362,6 @@
   },
   {
    "date": "2026-09-29",
-   "time": null,
-   "title": "September 29, 2026, Public Hearing Agenda",
-   "note": "Landmarks Preservation Commission · 253 Broadway",
-   "strand": "hearings",
-   "source": "Landmarks Preservation Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 34,
-   "why": [
-    "Landmarks Preservation Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-29",
    "time": "1:00 PM",
    "title": "Committee on Environmental Protection and Waterfronts",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
@@ -2026,19 +1405,6 @@
    "why": [
     "high-salience committee"
    ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-29",
-   "time": null,
-   "title": "North Shore Waterfront Plan DSOW Public Hearing",
-   "note": "Mayor's Office of Environmental Coordination",
-   "strand": "hearings",
-   "source": "Mayor's Office of Environmental Coordination",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -2229,32 +1595,6 @@
    "tier": "routine"
   },
   {
-   "date": "2026-09-30",
-   "time": null,
-   "title": "NEW YORK CITY DEPARTMENT OF TRANSPORTATION",
-   "note": "Transportation · 55 Water Street",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-30",
-   "time": null,
-   "title": "NYC Civic Engagement Commission Sept 30, 2026 Public Meeting",
-   "note": "Civic Engagement Commission · 22 Reade Street",
-   "strand": "hearings",
-   "source": "Civic Engagement Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
    "date": "2026-10-01",
    "time": null,
    "title": "New rent guidelines take effect",
@@ -2367,47 +1707,6 @@
    "tier": "routine"
   },
   {
-   "date": "2026-10-01",
-   "time": null,
-   "title": "Dining Out NYC Public Hearings",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-01",
-   "time": null,
-   "title": "Shore Road Bridge over Hutchinson River Project",
-   "note": "Transportation · Address Not Listed In The Dropdown",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-05",
-   "time": null,
-   "title": "Board of Standards and Appeals Public Hearing Notice",
-   "note": "Board of Standards and Appeals · 22 Reade Street",
-   "strand": "hearings",
-   "source": "Board of Standards and Appeals",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 30,
-   "why": [
-    "Board of Standards and Appeals sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
    "date": "2026-10-05",
    "time": "11:00 AM",
    "title": "Committee of the Whole",
@@ -2417,19 +1716,6 @@
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22752&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22752_A_Committee_of_the_Whole_26-10-05_Committee_Agenda.pdf",
    "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-05",
-   "time": null,
-   "title": "Proposed Rule - Rule relating to Containment Netting",
-   "note": "Buildings",
-   "strand": "hearings",
-   "source": "Buildings",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
    "why": [],
    "live": true,
    "tier": "routine"
@@ -2561,19 +1847,6 @@
    "tier": "routine"
   },
   {
-   "date": "2026-10-07",
-   "time": null,
-   "title": "Shore Road Bridge over Hutchinson River Project",
-   "note": "Transportation · Address Not Listed In The Dropdown",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
    "date": "2026-10-08",
    "time": "1:30 PM",
    "title": "Stated meeting of the City Council",
@@ -2588,19 +1861,6 @@
    ],
    "live": true,
    "tier": "notable"
-  },
-  {
-   "date": "2026-10-08",
-   "time": null,
-   "title": "Public Notice of Availability and Notice of Public Hearing",
-   "note": "Management and Budget · 120 Broadway",
-   "strand": "hearings",
-   "source": "Management and Budget",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
   },
   {
    "date": "2026-10-12",
@@ -2683,19 +1943,6 @@
    "tier": "routine"
   },
   {
-   "date": "2026-10-15",
-   "time": null,
-   "title": "El Barrio",
-   "note": "Housing Preservation and Development",
-   "strand": "hearings",
-   "source": "Housing Preservation and Development",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
    "date": "2026-10-16",
    "time": null,
    "title": "Sanger opens first US birth control clinic — 110th anniversary",
@@ -2723,19 +1970,6 @@
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22723&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22723_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-10-19_Committee_Agenda.pdf",
    "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-19",
-   "time": null,
-   "title": "Notice of Public Hearing and Opportunity to Comment on Proposed Amendments to Chapter 12 of Title 68 of the Rules of the City of New York Regarding the Fair Fares NYC Program",
-   "note": "Human Resources Administration",
-   "strand": "hearings",
-   "source": "Human Resources Administration",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
    "why": [],
    "live": true,
    "tier": "routine"
