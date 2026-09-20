@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T10:02:05.571Z",
+ "generated": "2026-09-20T22:04:31.536Z",
  "window": {
   "start": "2026-09-06",
   "end": "2027-10-25"
@@ -10,42 +10,42 @@
    "name": "Curated",
    "ok": true,
    "count": 81,
-   "ms": 1,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 4,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 57,
-   "ms": 493,
+   "ms": 544,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 95,
-   "ms": 960,
+   "count": 97,
+   "ms": 1324,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 7895,
+   "ms": 7494,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "notable": 53,
   "major": 38,
-  "routine": 168,
+  "routine": 170,
   "marquee": 7
  },
  "events": [
@@ -2737,6 +2737,40 @@
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-20",
+   "time": "1:00 PM",
+   "title": "Committee on Education",
+   "note": "Jointly with the Committee on Higher Education · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22754&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22754_A_Committee_on_Education_26-10-20_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-20",
+   "time": "1:00 PM",
+   "title": "Committee on Higher Education",
+   "note": "Jointly with the Committee on Education. · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22753&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22753_A_Committee_on_Higher_Education_26-10-20_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
    "live": true,
    "tier": "routine"
   },
