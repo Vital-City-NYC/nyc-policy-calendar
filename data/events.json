@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T10:02:25.046Z",
+ "generated": "2026-09-22T22:04:31.222Z",
  "window": {
   "start": "2026-09-08",
   "end": "2027-10-27"
@@ -24,28 +24,28 @@
    "name": "City Record",
    "ok": true,
    "count": 57,
-   "ms": 696,
+   "ms": 359,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 101,
-   "ms": 1017,
+   "count": 109,
+   "ms": 841,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6752,
+   "ms": 12715,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 38,
   "notable": 54,
-  "routine": 172,
+  "routine": 180,
   "marquee": 7
  },
  "events": [
@@ -1653,6 +1653,23 @@
   },
   {
    "date": "2026-09-23",
+   "time": "9:30 AM",
+   "title": "Committee on Criminal Justice",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22748&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22748_A_Committee_on_Criminal_Justice_26-09-23_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-23",
    "time": "1:00 PM",
    "title": "Committee on Land Use",
    "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
@@ -1712,6 +1729,22 @@
    "significance": 32,
    "why": [
     "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-23",
+   "time": "1:00 PM",
+   "title": "Committee on General Welfare",
+   "note": "VOTE* · Committee Room - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22744&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22744_A_Committee_on_General_Welfare_26-09-23_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
    ],
    "live": true,
    "tier": "routine"
@@ -1863,6 +1896,23 @@
    ],
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-09-24",
+   "time": "11:00 AM",
+   "title": "Committee on Housing and Buildings",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22747&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22747_A_Committee_on_Housing_and_Buildings_26-09-24_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-09-24",
@@ -2583,6 +2633,20 @@
   },
   {
    "date": "2026-10-07",
+   "time": "10:00 AM",
+   "title": "Committee on Consumer and Worker Protection",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22681&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22681_A_Committee_on_Consumer_and_Worker_Protection_26-10-07_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-07",
    "time": null,
    "title": "Shore Road Bridge over Hutchinson River Project",
    "note": "Transportation · Address Not Listed In The Dropdown",
@@ -2848,6 +2912,38 @@
   {
    "date": "2026-10-20",
    "time": "10:00 AM",
+   "title": "Committee on Fire and Emergency Management",
+   "note": "Jointly with the Committee on Hospitals. · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22759&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22759_A_Committee_on_Fire_and_Emergency_Management_26-10-20_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-20",
+   "time": "10:00 AM",
+   "title": "Committee on Hospitals",
+   "note": "Jointly with the Committee on Fire and Emergency Management · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22760&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22760_A_Committee_on_Hospitals_26-10-20_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-20",
+   "time": "10:00 AM",
    "title": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
    "note": "250 Broadway - 8th Floor - Hearing Room 3",
    "strand": "hearings",
@@ -3023,6 +3119,39 @@
    "anniversaryYears": 250,
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-10-29",
+   "time": "1:00 PM",
+   "title": "Subcommittee on Early Childhood Education",
+   "note": "Jointly with the Committee on Small Business · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22740&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22740_A_Subcommittee_on_Early_Childhood_Education_26-10-29_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-29",
+   "time": "1:00 PM",
+   "title": "Committee on Small Business",
+   "note": "Jointly with the Subcommittee on Early Childhood Education. · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22741&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22741_A_Committee_on_Small_Business_26-10-29_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-11-01",
