@@ -1,15 +1,15 @@
 {
- "generated": "2026-09-21T22:05:14.175Z",
+ "generated": "2026-09-22T10:02:25.046Z",
  "window": {
-  "start": "2026-09-07",
-  "end": "2027-10-26"
+  "start": "2026-09-08",
+  "end": "2027-10-27"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 81,
+   "count": 80,
    "ms": 3,
    "note": null
   },
@@ -24,47 +24,31 @@
    "name": "City Record",
    "ok": true,
    "count": 57,
-   "ms": 466,
+   "ms": 696,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 101,
-   "ms": 841,
+   "ms": 1017,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5108,
+   "ms": 6752,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "notable": 55,
   "major": 38,
+  "notable": 54,
   "routine": 172,
   "marquee": 7
  },
  "events": [
-  {
-   "date": "2026-09-07",
-   "time": null,
-   "title": "Labor Day",
-   "note": "A public holiday. City offices are closed, no hearings sit and alternate side parking is suspended.",
-   "strand": "holidays",
-   "source": "Curated",
-   "sourceUrl": null,
-   "significance": 48,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
   {
    "date": "2026-09-08",
    "time": null,
