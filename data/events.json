@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T10:02:15.469Z",
+ "generated": "2026-09-23T22:05:03.272Z",
  "window": {
   "start": "2026-09-09",
   "end": "2027-10-28"
@@ -17,33 +17,34 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 5,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 57,
-   "ms": 811,
+   "ms": 796,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 105,
-   "ms": 1176,
+   "count": 108,
+   "ms": 1227,
    "note": null
   },
   {
    "name": "Albany",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "fetch failed"
+   "ms": 8371,
+   "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 37,
-  "routine": 175,
+  "routine": 178,
   "notable": 53,
   "marquee": 7
  },
@@ -1559,23 +1560,6 @@
   {
    "date": "2026-09-23",
    "time": "1:00 PM",
-   "title": "Committee on Land Use",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22614&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22614_A_Committee_on_Land_Use_26-09-23_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": "1:00 PM",
    "title": "Committee on Mental Health and Substance Use",
    "note": "Jointly with the Committee on Hospitals and the Committee on Women and Gender Equity. · Council Chambers - City Hall",
    "strand": "hearings",
@@ -1624,28 +1608,28 @@
   {
    "date": "2026-09-23",
    "time": "1:00 PM",
-   "title": "Committee on General Welfare",
-   "note": "VOTE* · Committee Room - City Hall",
+   "title": "Committee on Land Use",
+   "note": "250 Broadway - 8th Floor - Hearing Room 3",
    "strand": "hearings",
    "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22744&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22744_A_Committee_on_General_Welfare_26-09-23_Committee_Agenda.pdf",
-   "significance": 30,
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22614&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22614_A_Committee_on_Land_Use_26-09-23_Committee_Agenda.pdf",
+   "significance": 32,
    "why": [
-    "a vote is scheduled"
+    "high-salience committee"
    ],
    "live": true,
    "tier": "routine"
   },
   {
    "date": "2026-09-23",
-   "time": "10:00 AM",
-   "title": "Subcommittee on Zoning and Franchises",
-   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 3",
+   "time": "1:00 PM",
+   "title": "Committee on General Welfare",
+   "note": "VOTE* · Committee Room - City Hall",
    "strand": "hearings",
    "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22613&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22613_A_Subcommittee_on_Zoning_and_Franchises_26-09-23_Committee_Agenda.pdf",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22744&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22744_A_Committee_on_General_Welfare_26-09-23_Committee_Agenda.pdf",
    "significance": 30,
    "why": [
     "a vote is scheduled"
@@ -1694,6 +1678,20 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22691&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22691_A_Committee_on_Contracts_26-09-23_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-23",
+   "time": "10:00 AM",
+   "title": "Subcommittee on Zoning and Franchises",
+   "note": "250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22613&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22613_A_Subcommittee_on_Zoning_and_Franchises_26-09-23_Committee_Agenda.pdf",
    "significance": 22,
    "why": [],
    "live": true,
@@ -1804,6 +1802,23 @@
   },
   {
    "date": "2026-09-24",
+   "time": "11:45 AM",
+   "title": "Committee on Land Use",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22761&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22761_A_Committee_on_Land_Use_26-09-24_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-24",
    "time": "10:00 AM",
    "title": "Committee on Children and Youth",
    "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
@@ -1827,6 +1842,22 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22746&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22746_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-09-24_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-24",
+   "time": "11:30 AM",
+   "title": "Subcommittee on Zoning and Franchises",
+   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22762&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22762_A_Subcommittee_on_Zoning_and_Franchises_26-09-24_Committee_Agenda.pdf",
    "significance": 30,
    "why": [
     "a vote is scheduled"
@@ -2971,6 +3002,20 @@
    "anniversaryYears": 30,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2026-10-27",
+   "time": "1:00 PM",
+   "title": "Committee on Children and Youth",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22763&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22763_A_Committee_on_Children_and_Youth_26-10-27_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-10-28",
