@@ -1,165 +1,53 @@
 {
- "generated": "2026-09-22T22:04:31.222Z",
+ "generated": "2026-09-23T10:02:15.469Z",
  "window": {
-  "start": "2026-09-08",
-  "end": "2027-10-27"
+  "start": "2026-09-09",
+  "end": "2027-10-28"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 80,
-   "ms": 3,
+   "count": 77,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 6,
+   "ms": 5,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 57,
-   "ms": 359,
+   "ms": 811,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 109,
-   "ms": 841,
+   "count": 105,
+   "ms": 1176,
    "note": null
   },
   {
    "name": "Albany",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "ms": 12715,
-   "note": "the Legislature is out of session"
+   "error": "fetch failed"
   }
  ],
  "counts": {
-  "major": 38,
-  "notable": 54,
-  "routine": 180,
+  "major": 37,
+  "routine": 175,
+  "notable": 53,
   "marquee": 7
  },
  "events": [
-  {
-   "date": "2026-09-08",
-   "time": null,
-   "title": "Luigi Mangione's state murder trial begins",
-   "note": "The state trial for the killing of UnitedHealthcare chief executive Brian Thompson in Midtown. Originally set for June 8 and moved to September by Judge Gregory Carro. The separate federal case, which carries the death penalty, follows in January.",
-   "strand": "city-life",
-   "source": "Curated",
-   "sourceUrl": null,
-   "significance": 74,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "major"
-  },
-  {
-   "date": "2026-09-08",
-   "time": null,
-   "title": "A Right to Housing?, by Samuel Stein",
-   "note": "The author of Capital City on what a socialist city administration would actually have to do — and what real estate power would block — to make housing a right. (Verso)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://www.versobooks.com/products/3556-a-right-to-housing",
-   "significance": 56,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-09-08",
-   "time": "1:00 PM",
-   "title": "Committee on Mental Health and Substance Use",
-   "note": "Jointly with the Committee on Veterans · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22683&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22683_A_Committee_on_Mental_Health_and_Substance_Use_26-09-08_Committee_Agenda.pdf",
-   "significance": 38,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-08",
-   "time": null,
-   "title": "Sez I to Myself, by Frank and Malachy McCourt",
-   "note": "Uncollected essays, many first run in Upper West Side neighborhood papers, on immigrant New York, pubs, classrooms and 9/11. (Abrams)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://www.abramsbooks.com/product/sez-i-to-myself_9798896842392/",
-   "significance": 36,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-08",
-   "time": "10:00 AM",
-   "title": "Committee on Health",
-   "note": "Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22641&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22641_A_Committee_on_Health_26-09-08_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-08",
-   "time": "1:00 PM",
-   "title": "Committee on Veterans",
-   "note": "Jointly with the Committee on Mental Health and Substance Use. · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22682&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22682_A_Committee_on_Veterans_26-09-08_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-08",
-   "time": "11:00 AM",
-   "title": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22619&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22619_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-09-08_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-09",
    "time": null,
