@@ -1,16 +1,16 @@
 {
- "generated": "2026-09-23T22:05:03.272Z",
+ "generated": "2026-09-24T10:02:25.714Z",
  "window": {
-  "start": "2026-09-09",
-  "end": "2027-10-28"
+  "start": "2026-09-10",
+  "end": "2027-10-29"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 77,
-   "ms": 2,
+   "count": 76,
+   "ms": 3,
    "note": null
   },
   {
@@ -23,357 +23,32 @@
   {
    "name": "City Record",
    "ok": true,
-   "count": 57,
-   "ms": 796,
+   "count": 45,
+   "ms": 637,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 108,
-   "ms": 1227,
+   "count": 99,
+   "ms": 1206,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8371,
+   "ms": 9389,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 37,
-  "routine": 178,
+  "major": 36,
   "notable": 53,
+  "routine": 157,
   "marquee": 7
  },
  "events": [
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "FDNY ceremony for the 25th anniversary of 9/11",
-   "note": "The official Fire Department ceremony honoring the 343 members killed on Sept. 11, 2001 and the more than 400 who have since died of World Trade Center-related illness. Held at the Staten Island FerryHawks' stadium as part of a year-long commemoration.",
-   "strand": "city-life",
-   "source": "Curated",
-   "sourceUrl": null,
-   "significance": 80,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "major"
-  },
-  {
-   "date": "2026-09-09",
-   "time": "10:00 AM",
-   "title": "Committee on Education",
-   "note": "VOTE · Committee Room - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22715&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22715_A_Committee_on_Education_26-09-09_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": "11:15 AM",
-   "title": "Committee on Environmental Protection and Waterfronts",
-   "note": "VOTE* · Committee Room - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22655&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22655_A_Committee_on_Environmental_Protection_and_Waterfronts_26-09-09_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "City Planning Commission Public Hearing Ad",
-   "note": "City Planning Commission · 120 Broadway",
-   "strand": "hearings",
-   "source": "City Planning Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 38,
-   "why": [
-    "City Planning Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": "10:00 AM",
-   "title": "Committee on Public Safety",
-   "note": "Jointly with the Committee on Technology, the Committee on Fire and Emergency Management and the Committee on Governmental Operations, State & Federal Legislation · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22697&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22697_A_Committee_on_Public_Safety_26-09-09_Committee_Agenda.pdf",
-   "significance": 38,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "CPC and DCP Proposed Rules: Expedited Land Use Review Procedure and Affordable Housing Appeals Board",
-   "note": "City Planning Commission · 120 Broadway",
-   "strand": "hearings",
-   "source": "City Planning Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 38,
-   "why": [
-    "City Planning Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "Board of Correction Public Meeting",
-   "note": "Board of Correction · 125 Worth Street",
-   "strand": "hearings",
-   "source": "Board of Correction",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 36,
-   "why": [
-    "Board of Correction sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": "10:00 AM",
-   "title": "Committee on Housing and Buildings",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22601&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22601_A_Committee_on_Housing_and_Buildings_26-09-09_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": "9:30 AM",
-   "title": "Committee on Consumer and Worker Protection",
-   "note": "VOTE* · Committee Room - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22717&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22717_A_Committee_on_Consumer_and_Worker_Protection_26-09-09_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": "11:00 AM",
-   "title": "Subcommittee on Zoning and Franchises",
-   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22617&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22617_A_Subcommittee_on_Zoning_and_Franchises_26-09-09_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": "10:00 AM",
-   "title": "Committee on Fire and Emergency Management",
-   "note": "Jointly with the Committee on Technology, the Committee on Public Safety and the Committee on Governmental Operations, State & Federal Legislation · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22687&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22687_A_Committee_on_Fire_and_Emergency_Management_26-09-09_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": "10:00 AM",
-   "title": "Committee on Governmental Operations, State & Federal Legislation",
-   "note": "Jointly with the Committee on Technology, the Committee on Public Safety and the Committee on Fire and Emergency Management · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22698&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22698_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-09-09_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": "10:00 AM",
-   "title": "Committee on Technology",
-   "note": "Jointly with the Committee on Public Safety, the Committee on Fire and Emergency Management and the Committee on Governmental Operations, State & Federal Legislation. · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22696&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22696_A_Committee_on_Technology_26-09-09_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "511 West 171",
-   "note": "Housing Preservation and Development",
-   "strand": "hearings",
-   "source": "Housing Preservation and Development",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "FOR ACQUISTION - Block 5308 Lot 50",
-   "note": "Citywide Administrative Services",
-   "strand": "hearings",
-   "source": "Citywide Administrative Services",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "MOCs Public Hearing September 9, 2026",
-   "note": "Environmental Protection",
-   "strand": "hearings",
-   "source": "Environmental Protection",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "MOCs Public Hearing September 9, 2026",
-   "note": "Environmental Protection",
-   "strand": "hearings",
-   "source": "Environmental Protection",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "MOCs Public Hearing September 9, 2026",
-   "note": "Environmental Protection",
-   "strand": "hearings",
-   "source": "Environmental Protection",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "New York City Transit Authority - Selective Certification Request",
-   "note": "Citywide Administrative Services",
-   "strand": "hearings",
-   "source": "Citywide Administrative Services",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "Proposed Rule - Rule relating to Incomplete Inspections",
-   "note": "Buildings",
-   "strand": "hearings",
-   "source": "Buildings",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "September 9, 2026 Public Hearing",
-   "note": "Community Boards",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-09",
-   "time": null,
-   "title": "SEPTEMBER 9, 2026 PUBLIC HEARING",
-   "note": "Community Boards",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-10",
    "time": null,
