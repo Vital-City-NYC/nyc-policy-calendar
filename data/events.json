@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T10:02:25.714Z",
+ "generated": "2026-09-24T22:05:02.172Z",
  "window": {
   "start": "2026-09-10",
   "end": "2027-10-29"
@@ -10,42 +10,42 @@
    "name": "Curated",
    "ok": true,
    "count": 76,
-   "ms": 3,
+   "ms": 1,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 6,
+   "ms": 3,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 45,
-   "ms": 637,
+   "ms": 589,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 99,
-   "ms": 1206,
+   "count": 100,
+   "ms": 832,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 9389,
+   "ms": 5553,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 36,
   "notable": 53,
-  "routine": 157,
+  "routine": 158,
   "marquee": 7
  },
  "events": [
@@ -1431,8 +1431,8 @@
    "note": "Council Chambers - City Hall",
    "strand": "hearings",
    "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22541&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22541_A_City_Council_26-09-24_Committee_Agenda.pdf",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22758&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22758_A_City_Council_26-09-24_Council_Agenda.pdf",
    "significance": 50,
    "why": [
     "stated meeting of the full Council"
@@ -1691,6 +1691,20 @@
    "why": [
     "high-salience committee"
    ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-29",
+   "time": "10:30 AM",
+   "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "note": "* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22625&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22625_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-09-29_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
    "live": true,
    "tier": "routine"
   },
