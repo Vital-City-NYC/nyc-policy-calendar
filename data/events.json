@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-25T22:05:06.387Z",
+ "generated": "2026-09-26T10:01:56.214Z",
  "window": {
-  "start": "2026-09-11",
-  "end": "2027-10-30"
+  "start": "2026-09-12",
+  "end": "2027-10-31"
  },
  "corpusSize": 282,
  "sources": [
@@ -17,57 +17,38 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 6,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 40,
-   "ms": 842,
+   "ms": 553,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 92,
-   "ms": 1087,
+   "ms": 1168,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5511,
+   "ms": 8309,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "marquee": 7,
   "notable": 52,
   "routine": 146,
-  "major": 34
+  "major": 35,
+  "marquee": 6
  },
  "events": [
-  {
-   "date": "2026-09-11",
-   "time": null,
-   "title": "9/11 attacks destroy the World Trade Center — 25th anniversary",
-   "note": "Al-Qaeda hijackers crashed two jetliners into the twin towers of the World Trade Center, collapsing both and killing 2,753 people in New York City. It was the deadliest terrorist attack in U.S. history.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.911memorial.org/911-faqs",
-   "significance": 94,
-   "importance": 5,
-   "why": [
-    "25th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 2001,
-   "anniversaryYears": 25,
-   "live": true,
-   "tier": "marquee"
-  },
   {
    "date": "2026-09-12",
    "time": null,
@@ -3819,6 +3800,25 @@
    "anniversaryYears": 160,
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2027-10-31",
+   "time": null,
+   "title": "Truck attack on Hudson River bike path — 10th anniversary",
+   "note": "A man drove a rented truck down a Lower Manhattan bike path, killing eight people and injuring many others. It was the city's deadliest terrorist attack since 9/11.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://www.justice.gov/archives/opa/pr/sayfullo-saipov-charged-terrorism-and-murder-aid-racketeering-connection-lower-manhattan",
+   "significance": 72,
+   "importance": 3,
+   "why": [
+    "10th anniversary",
+    "within living memory"
+   ],
+   "historyYear": 2017,
+   "anniversaryYears": 10,
+   "live": true,
+   "tier": "major"
   }
  ]
 }
