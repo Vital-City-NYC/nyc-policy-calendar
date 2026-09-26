@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T12:06:55.951Z",
+ "generated": "2026-09-26T14:12:44.932Z",
  "window": {
   "start": "2026-09-12",
   "end": "2027-10-31"
@@ -24,21 +24,21 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 6,
+   "ms": 8,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 40,
-   "ms": 521,
+   "ms": 815,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 92,
-   "ms": 1082,
+   "ms": 1292,
    "note": null
   }
  ],
