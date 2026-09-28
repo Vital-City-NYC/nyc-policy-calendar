@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-27T22:04:52.889Z",
+ "generated": "2026-09-28T10:03:19.913Z",
  "window": {
-  "start": "2026-09-13",
-  "end": "2027-11-01"
+  "start": "2026-09-14",
+  "end": "2027-11-02"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,41 +10,41 @@
    "name": "Curated",
    "ok": true,
    "count": 74,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 32,
-   "ms": 4,
+   "count": 33,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 40,
-   "ms": 675,
+   "ms": 273,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 92,
-   "ms": 1050,
+   "ms": 648,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 7528,
+   "ms": 5008,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "routine": 146,
-  "major": 35,
+  "major": 36,
   "notable": 51,
   "marquee": 6
  },
@@ -3799,6 +3799,24 @@
    ],
    "historyYear": 2017,
    "anniversaryYears": 10,
+   "live": true,
+   "tier": "major"
+  },
+  {
+   "date": "2027-11-02",
+   "time": null,
+   "title": "The African Free School opens — 240th anniversary",
+   "note": "The Manumission Society opened the African Free School, the first school in New York for the children of enslaved and free Black families.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://en.wikipedia.org/wiki/African_Free_School",
+   "significance": 68,
+   "importance": 3,
+   "why": [
+    "240th anniversary"
+   ],
+   "historyYear": 1787,
+   "anniversaryYears": 240,
    "live": true,
    "tier": "major"
   }
