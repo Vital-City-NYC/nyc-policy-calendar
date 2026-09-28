@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T10:03:19.913Z",
+ "generated": "2026-09-28T22:05:46.037Z",
  "window": {
   "start": "2026-09-14",
   "end": "2027-11-02"
@@ -10,40 +10,40 @@
    "name": "Curated",
    "ok": true,
    "count": 74,
-   "ms": 3,
+   "ms": 1,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 7,
+   "ms": 3,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 40,
-   "ms": 273,
+   "ms": 608,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 92,
-   "ms": 648,
+   "count": 95,
+   "ms": 1047,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5008,
+   "ms": 8489,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 146,
+  "routine": 149,
   "major": 36,
   "notable": 51,
   "marquee": 6
@@ -2176,6 +2176,22 @@
   },
   {
    "date": "2026-10-19",
+   "time": "10:00 AM",
+   "title": "Committee on Health",
+   "note": "250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22766&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22766_A_Committee_on_Health_26-10-19_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-19",
    "time": "1:00 PM",
    "title": "Committee on Cultural Affairs, Libraries and International Relations",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
@@ -2237,6 +2253,23 @@
   },
   {
    "date": "2026-10-20",
+   "time": "10:00 AM",
+   "title": "Committee on Transportation and Infrastructure",
+   "note": "Jointly with the Committee on Economic Development · Committee Room - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22751&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22751_A_Committee_on_Transportation_and_Infrastructure_26-10-20_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-20",
    "time": "12:00 PM",
    "title": "Committee on Environmental Protection and Waterfronts",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
@@ -2247,6 +2280,22 @@
    "significance": 32,
    "why": [
     "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-20",
+   "time": "10:00 AM",
+   "title": "Committee on Economic Development",
+   "note": "Jointly with the Committee on Transportation and Infrastructure. · Committee Room - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22750&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22750_A_Committee_on_Economic_Development_26-10-20_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
    ],
    "live": true,
    "tier": "routine"
