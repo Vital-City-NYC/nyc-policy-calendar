@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T13:25:22.092Z",
+ "generated": "2026-09-29T22:05:27.913Z",
  "window": {
   "start": "2026-09-15",
   "end": "2027-11-03"
@@ -17,35 +17,35 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 6,
+   "ms": 5,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 52,
-   "ms": 642,
+   "ms": 305,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 95,
-   "ms": 1169,
+   "count": 99,
+   "ms": 956,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8457,
+   "ms": 4646,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 36,
   "notable": 51,
-  "routine": 161,
+  "routine": 165,
   "marquee": 6
  },
  "events": [
@@ -2133,6 +2133,38 @@
   },
   {
    "date": "2026-10-14",
+   "time": "1:00 PM",
+   "title": "Committee on Civil and Human Rights",
+   "note": "Jointly with the Committee on Disabilities · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22727&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22727_A_Committee_on_Civil_and_Human_Rights_26-10-14_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-14",
+   "time": "1:00 PM",
+   "title": "Committee on Disabilities",
+   "note": "Jointly with the Committee on Civil and Human Rights. · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22726&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22726_A_Committee_on_Disabilities_26-10-14_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-14",
    "time": null,
    "title": "Spring Creek",
    "note": "Housing Preservation and Development",
@@ -2264,6 +2296,20 @@
    "anniversaryYears": 110,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2026-10-16",
+   "time": "10:00 AM",
+   "title": "Committee on Civil Service and Labor",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22772&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22772_A_Committee_on_Civil_Service_and_Labor_26-10-16_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-10-19",
@@ -2463,6 +2509,22 @@
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22701_A_Subcommittee_on_Zoning_and_Franchises_26-10-20_Committee_Agenda.pdf",
    "significance": 22,
    "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-21",
+   "time": "10:00 AM",
+   "title": "Committee on Housing and Buildings",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22711&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22711_A_Committee_on_Housing_and_Buildings_26-10-21_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
    "live": true,
    "tier": "routine"
   },
