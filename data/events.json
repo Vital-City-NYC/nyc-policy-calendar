@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T10:02:17.373Z",
+ "generated": "2026-09-29T13:25:22.092Z",
  "window": {
   "start": "2026-09-15",
   "end": "2027-11-03"
@@ -17,35 +17,35 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 7,
+   "ms": 6,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 52,
+   "ms": 642,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 95,
-   "ms": 923,
+   "ms": 1169,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5245,
+   "ms": 8457,
    "note": "the Legislature is out of session"
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 37,
-   "ms": 7124,
-   "note": null
   }
  ],
  "counts": {
   "major": 36,
   "notable": 51,
-  "routine": 146,
+  "routine": 161,
   "marquee": 6
  },
  "events": [
@@ -764,6 +764,21 @@
   },
   {
    "date": "2026-09-22",
+   "time": null,
+   "title": "Binding Report for August 2026",
+   "note": "Landmarks Preservation Commission",
+   "strand": "hearings",
+   "source": "Landmarks Preservation Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Landmarks Preservation Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-22",
    "time": "1:00 PM",
    "title": "Committee on Education",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
@@ -887,6 +902,19 @@
    "note": "Board of Education Retirement System · 55 Water Street",
    "strand": "hearings",
    "source": "Board of Education Retirement System",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-22",
+   "time": null,
+   "title": "Design Commission Meeting Agenda, Tuesday, September 22, 2026",
+   "note": "Public Design Commission · City Hall Park",
+   "strand": "hearings",
+   "source": "Public Design Commission",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
@@ -1238,6 +1266,19 @@
    "note": "Transportation",
    "strand": "hearings",
    "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-24",
+   "time": null,
+   "title": "New York City Environmental Control Board Meeting September 24, 2026",
+   "note": "Environmental Control Board · 100 Church Street",
+   "strand": "hearings",
+   "source": "Environmental Control Board",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
@@ -1625,6 +1666,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-09-30",
+   "time": null,
+   "title": "SEPTEMBER 30, 2026 PUBLIC HEARING",
+   "note": "Community Boards · Address Not Listed In The Dropdown",
+   "strand": "hearings",
+   "source": "Community Boards",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-10-01",
    "time": null,
    "title": "New rent guidelines take effect",
@@ -1822,6 +1876,21 @@
   },
   {
    "date": "2026-10-06",
+   "time": null,
+   "title": "OCTOBER 6, 2026, PUBLIC HEARING AGENDA",
+   "note": "Landmarks Preservation Commission · 253 Broadway",
+   "strand": "hearings",
+   "source": "Landmarks Preservation Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Landmarks Preservation Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-06",
    "time": "1:00 PM",
    "title": "Committee on Land Use",
    "note": "250 Broadway - 8th Floor - Hearing Room 3",
@@ -1947,6 +2016,19 @@
   {
    "date": "2026-10-07",
    "time": null,
+   "title": "NYC Workforce Development Board Quarterly Meeting",
+   "note": "NYC Workforce Development Board · 1 Liberty Plaza",
+   "strand": "hearings",
+   "source": "NYC Workforce Development Board",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-07",
+   "time": null,
    "title": "Shore Road Bridge over Hutchinson River Project",
    "note": "Transportation · Address Not Listed In The Dropdown",
    "strand": "hearings",
@@ -2021,6 +2103,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-10-13",
+   "time": null,
+   "title": "Intent to award as a concession License Agreement to Summerville Enterprises, Inc.",
+   "note": "Transportation · 255 Greenwich Street",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-10-14",
    "time": "10:00 AM",
    "title": "Committee on Health",
@@ -2033,6 +2128,19 @@
    "why": [
     "high-salience committee"
    ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-14",
+   "time": null,
+   "title": "Spring Creek",
+   "note": "Housing Preservation and Development",
+   "strand": "hearings",
+   "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -2103,6 +2211,32 @@
   {
    "date": "2026-10-15",
    "time": null,
+   "title": "Corrected Ad El Barrio",
+   "note": "Housing Preservation and Development",
+   "strand": "hearings",
+   "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-15",
+   "time": null,
+   "title": "Dining Out NYC Public Hearings",
+   "note": "Transportation",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-15",
+   "time": null,
    "title": "El Barrio",
    "note": "Housing Preservation and Development",
    "strand": "hearings",
@@ -2143,6 +2277,21 @@
    "significance": 32,
    "why": [
     "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-19",
+   "time": null,
+   "title": "Board of Standards and Appeals Public Hearing Notice",
+   "note": "Board of Standards and Appeals · 22 Reade Street",
+   "strand": "hearings",
+   "source": "Board of Standards and Appeals",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 30,
+   "why": [
+    "Board of Standards and Appeals sets policy the public feels directly"
    ],
    "live": true,
    "tier": "routine"
@@ -2366,6 +2515,19 @@
    "tier": "notable"
   },
   {
+   "date": "2026-10-22",
+   "time": null,
+   "title": "El Barrio",
+   "note": "Housing Preservation and Development",
+   "strand": "hearings",
+   "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-10-24",
    "time": null,
    "title": "Voter registration deadline",
@@ -2512,6 +2674,45 @@
    "why": [
     "joint committee hearing"
    ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-29",
+   "time": null,
+   "title": "100 Gold Street Redevelopment Project: Draft Scope of Work and Public Scoping Meeting Notice",
+   "note": "Mayor's Office of Environmental Coordination",
+   "strand": "hearings",
+   "source": "Mayor's Office of Environmental Coordination",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-30",
+   "time": null,
+   "title": "DSNY Proposed Rule Relating to the Violation Amount for the Failure to Maintain Vacant Lots",
+   "note": "Sanitation",
+   "strand": "hearings",
+   "source": "Sanitation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-30",
+   "time": null,
+   "title": "OATH Proposed Amendment re Adjudication of Violations of Article 13-F of the New York State Public Health Law",
+   "note": "Administrative Trials and Hearings",
+   "strand": "hearings",
+   "source": "Administrative Trials and Hearings",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
    "live": true,
    "tier": "routine"
   },
