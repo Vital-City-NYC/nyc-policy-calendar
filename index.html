@@ -675,7 +675,28 @@ html.dark .mastlinks #aiBtn{color:#6fb3e8}
 })();
 </script>
 <link rel="stylesheet" href="https://vitalcity-nyc.github.io/vital-city-catalogue/toolkit.css">
-<script src="https://vitalcity-nyc.github.io/vital-city-catalogue/toolkit.js" data-tool="calendar" defer></script>
+<script>
+/* The staff toolkit bar (Growth, Contacts, Prospects...) is for Vital City
+   staff, and this page is public. Load it only for someone signed in to the
+   toolkit: its home page saves the passphrase as "vc_net_pass" on this same
+   origin, as {pass, exp} with a 90-day expiry (older copies are a bare string).
+   Everyone else gets the page's own header, links and all. */
+(function(){
+  var ok=false;
+  try{
+    [localStorage, sessionStorage].forEach(function(s){
+      var r=s.getItem("vc_net_pass"); if(!r) return;
+      if(r.charAt(0)!=="{"){ ok=true; return; }
+      var o=JSON.parse(r); if(o&&o.pass&&o.exp>Date.now()) ok=true;
+    });
+  }catch(e){}
+  if(!ok) return;
+  var s=document.createElement("script");
+  s.src="https://vitalcity-nyc.github.io/vital-city-catalogue/toolkit.js";
+  s.setAttribute("data-tool","calendar");
+  document.head.appendChild(s);
+})();
+</script>
 </head>
 <body>
 
@@ -868,10 +889,21 @@ async function load(first){
     return;
   }
   DATA=json;generated=json.generated;
-  if(window.vcStamp) vcStamp("#stamp", json.generated);   // same stamp as every toolkit page
+  stamp(json.generated);
   if(json.corpusSize) $('#corpusN').textContent=json.corpusSize;
   loadMarks();refreshPool();updateMineCount();
   renderChips();renderStatus();renderSources();render();
+}
+
+// The strip's "Updated <date>", worded and AP-dated like every toolkit page.
+// toolkit.js supplies vcStamp only for signed-in staff, so the public page
+// carries its own copy of the same format.
+function stamp(when){
+  if(window.vcStamp) return vcStamp("#stamp", when);
+  const d=new Date(when), el=$('#stamp');
+  if(!el||isNaN(d)) return;
+  const mon=["Jan.","Feb.","March","April","May","June","July","Aug.","Sept.","Oct.","Nov.","Dec."];
+  el.textContent="Updated "+mon[d.getMonth()]+" "+d.getDate()+", "+d.getFullYear();
 }
 
 function ago(iso){
