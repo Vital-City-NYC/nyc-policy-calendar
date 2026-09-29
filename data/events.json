@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-28T22:05:46.037Z",
+ "generated": "2026-09-29T10:02:17.373Z",
  "window": {
-  "start": "2026-09-14",
-  "end": "2027-11-02"
+  "start": "2026-09-15",
+  "end": "2027-11-03"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,88 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 74,
-   "ms": 1,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 33,
-   "ms": 3,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 40,
-   "ms": 608,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 95,
-   "ms": 1047,
+   "ms": 923,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8489,
+   "ms": 5245,
    "note": "the Legislature is out of session"
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 37,
+   "ms": 7124,
+   "note": null
   }
  ],
  "counts": {
-  "routine": 149,
   "major": 36,
   "notable": 51,
+  "routine": 146,
   "marquee": 6
  },
  "events": [
-  {
-   "date": "2026-09-14",
-   "time": null,
-   "title": "Board of Standards and Appeals Hearing Notice",
-   "note": "Board of Standards and Appeals · 22 Reade Street",
-   "strand": "hearings",
-   "source": "Board of Standards and Appeals",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 30,
-   "why": [
-    "Board of Standards and Appeals sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-14",
-   "time": null,
-   "title": "New Rules Relating to Rat Inspections",
-   "note": "Health and Mental Hygiene",
-   "strand": "hearings",
-   "source": "Health and Mental Hygiene",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 28,
-   "why": [
-    "Health and Mental Hygiene sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-14",
-   "time": null,
-   "title": "The Battery Conservancy, Inc. for the Operation and Maintenance of The Battery in Manhattan",
-   "note": "Parks and Recreation · 255 Greenwich St",
-   "strand": "hearings",
-   "source": "Parks and Recreation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-15",
    "time": null,
