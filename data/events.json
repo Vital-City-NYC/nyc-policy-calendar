@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T15:32:28.195Z",
+ "generated": "2026-09-30T22:05:36.497Z",
  "window": {
   "start": "2026-09-16",
   "end": "2027-11-04"
@@ -21,30 +21,30 @@
    "note": null
   },
   {
-   "name": "City Record",
+   "name": "City Council",
    "ok": true,
-   "count": 51,
-   "ms": 534,
+   "count": 97,
+   "ms": 1272,
    "note": null
   },
   {
-   "name": "City Council",
+   "name": "City Record",
    "ok": true,
-   "count": 95,
-   "ms": 1122,
+   "count": 51,
+   "ms": 2127,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6706,
+   "ms": 9258,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 33,
-  "routine": 163,
+  "routine": 165,
   "notable": 51,
   "marquee": 6
  },
@@ -2401,6 +2401,38 @@
    "significance": 32,
    "why": [
     "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-21",
+   "time": "10:00 AM",
+   "title": "Committee on General Welfare",
+   "note": "Jointly with the Committee on Veterans · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22738&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22738_A_Committee_on_General_Welfare_26-10-21_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-21",
+   "time": "10:00 AM",
+   "title": "Committee on Veterans",
+   "note": "Jointly with the Committee on General Welfare. · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22737&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22737_A_Committee_on_Veterans_26-10-21_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
    ],
    "live": true,
    "tier": "routine"
