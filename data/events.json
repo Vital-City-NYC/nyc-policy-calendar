@@ -1,213 +1,54 @@
 {
- "generated": "2026-09-29T22:05:27.913Z",
+ "generated": "2026-09-30T10:02:23.143Z",
  "window": {
-  "start": "2026-09-15",
-  "end": "2027-11-03"
+  "start": "2026-09-16",
+  "end": "2027-11-04"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 74,
+   "count": 73,
    "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 33,
-   "ms": 5,
+   "count": 32,
+   "ms": 4,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 52,
-   "ms": 305,
+   "count": 49,
+   "ms": 554,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 99,
-   "ms": 956,
+   "count": 94,
+   "ms": 1110,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4646,
+   "ms": 4560,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 36,
-  "notable": 51,
-  "routine": 165,
+  "major": 35,
+  "routine": 158,
+  "notable": 49,
   "marquee": 6
  },
  "events": [
-  {
-   "date": "2026-09-15",
-   "time": null,
-   "title": "The British land at Kip's Bay — 250th anniversary",
-   "note": "British warships and troops landed at Kip's Bay on Manhattan's East River shore on September 15, 1776, scattering American militia.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-kip-s-bay",
-   "significance": 70,
-   "importance": 2,
-   "why": [
-    "250th anniversary"
-   ],
-   "historyYear": 1776,
-   "anniversaryYears": 250,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2026-09-15",
-   "time": "1:00 PM",
-   "title": "Committee on Education",
-   "note": "Jointly with the Committee on Oversight and Investigations · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22523&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22523_A_Committee_on_Education_26-09-15_Committee_Agenda.pdf",
-   "significance": 46,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing",
-    "subject matter of broad public interest"
-   ],
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-09-15",
-   "time": "1:00 PM",
-   "title": "Committee on Oversight and Investigations",
-   "note": "Jointly with the Committee on Education. · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22522&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22522_A_Committee_on_Oversight_and_Investigations_26-09-15_Committee_Agenda.pdf",
-   "significance": 46,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing",
-    "subject matter of broad public interest"
-   ],
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-09-15",
-   "time": null,
-   "title": "Max Bond, by Brian D. Goldstein",
-   "note": "The first biography of J. Max Bond Jr., the Black architect behind the King Center and the 9/11 Memorial Museum. (Princeton)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://press.princeton.edu/isbn/9780691220666",
-   "significance": 42,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-15",
-   "time": null,
-   "title": "September 15, 2026, Public Hearing Agenda CR",
-   "note": "Landmarks Preservation Commission · 253 Broadway",
-   "strand": "hearings",
-   "source": "Landmarks Preservation Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 34,
-   "why": [
-    "Landmarks Preservation Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-15",
-   "time": "10:00 AM",
-   "title": "Committee on Sanitation and Solid Waste Management",
-   "note": "250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22684&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22684_A_Committee_on_Sanitation_and_Solid_Waste_Management_26-09-15_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-15",
-   "time": "10:00 AM",
-   "title": "Committee on Fire and Emergency Management",
-   "note": "Jointly with the Committee on Hospitals. · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22673&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22673_A_Committee_on_Fire_and_Emergency_Management_26-09-15_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-15",
-   "time": "10:00 AM",
-   "title": "Committee on Hospitals",
-   "note": "Jointly with the Committee on Fire and Emergency Management · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22674&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22674_A_Committee_on_Hospitals_26-09-15_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-15",
-   "time": null,
-   "title": "Bronx Borough President Public Hearing Notice \u001a 110 East 138th Street/63 Exterior Street and Related Actions",
-   "note": "Borough President - Bronx",
-   "strand": "hearings",
-   "source": "Borough President - Bronx",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-15",
-   "time": null,
-   "title": "Proposed Rule - Amendment of Rules relating to Certain Qualified Inspectors",
-   "note": "Buildings",
-   "strand": "hearings",
-   "source": "Buildings",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-16",
    "time": null,
@@ -2514,6 +2355,23 @@
   },
   {
    "date": "2026-10-21",
+   "time": "1:00 PM",
+   "title": "Committee on Land Use",
+   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22699&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22699_A_Committee_on_Land_Use_26-10-21_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-21",
    "time": "10:00 AM",
    "title": "Committee on Housing and Buildings",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
@@ -2521,22 +2379,6 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22711&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22711_A_Committee_on_Housing_and_Buildings_26-10-21_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-21",
-   "time": "1:00 PM",
-   "title": "Committee on Land Use",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22699&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22699_A_Committee_on_Land_Use_26-10-21_Committee_Agenda.pdf",
    "significance": 32,
    "why": [
     "high-salience committee"
