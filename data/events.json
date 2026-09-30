@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T10:02:23.143Z",
+ "generated": "2026-09-30T15:31:52.322Z",
  "window": {
   "start": "2026-09-16",
   "end": "2027-11-04"
@@ -7,45 +7,45 @@
  "corpusSize": 282,
  "sources": [
   {
+   "name": "Albany",
+   "ok": true,
+   "count": 0,
+   "ms": 0,
+   "note": "no API key configured"
+  },
+  {
    "name": "Curated",
    "ok": true,
-   "count": 73,
-   "ms": 2,
+   "count": 75,
+   "ms": 0,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 32,
-   "ms": 4,
+   "ms": 2,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 49,
-   "ms": 554,
+   "count": 51,
+   "ms": 393,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 94,
-   "ms": 1110,
+   "count": 95,
+   "ms": 1258,
    "note": null
-  },
-  {
-   "name": "Albany",
-   "ok": true,
-   "count": 0,
-   "ms": 4560,
-   "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 35,
-  "routine": 158,
-  "notable": 49,
+  "major": 33,
+  "routine": 163,
+  "notable": 51,
   "marquee": 6
  },
  "events": [
@@ -1297,22 +1297,6 @@
   {
    "date": "2026-09-30",
    "time": null,
-   "title": "Federal fiscal year ends; shutdown risk",
-   "note": "Federal appropriations expire at midnight. New York City is heavily exposed to disruptions in housing vouchers, Medicaid, transit and disaster aid.",
-   "strand": "budget",
-   "source": "Curated",
-   "sourceUrl": null,
-   "significance": 66,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "major"
-  },
-  {
-   "date": "2026-09-30",
-   "time": null,
    "title": "Nunez monitor report to the federal court",
    "note": "The monitoring team told Judge Laura Taylor Swain it intends to file on this date, with an update on the state of the jails and on Local Law 42. The reports are the running scorecard on whether the city is curing its contempt.",
    "strand": "justice",
@@ -1374,6 +1358,22 @@
     "high-salience committee"
    ],
    "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-09-30",
+   "time": null,
+   "title": "Federal fiscal year ends",
+   "note": "No shutdown at midnight: Congress passed a stopgap (H.R. 6500, signed Sept. 2) that funds the government through Dec. 11, 2026.",
+   "strand": "budget",
+   "source": "Curated",
+   "sourceUrl": "https://www.aamc.org/advocacy-policy/washington-highlights/president-signs-continuing-resolution-extending-fy26-funding-december",
+   "significance": 30,
+   "why": [
+    "editorially judged"
+   ],
+   "approx": false,
+   "live": false,
    "tier": "routine"
   },
   {
@@ -1603,7 +1603,7 @@
    "date": "2026-10-01",
    "time": null,
    "title": "Federal fiscal year 2027 begins",
-   "note": "Watch for continuing resolutions and shutdown risk affecting city funding.",
+   "note": "Funded at 2026 levels by the stopgap through Dec. 11. The next shutdown risk falls then.",
    "strand": "budget",
    "source": "Curated",
    "sourceUrl": null,
@@ -1701,19 +1701,20 @@
   },
   {
    "date": "2026-10-06",
-   "time": null,
-   "title": "The Revolutionary, by Ross Barkan",
-   "note": "A behind-the-scenes account of Mamdani's campaign and first months in office, and what his win did to the city's power establishment. (Random House)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://www.penguinrandomhouse.com/books/826679/the-revolutionary-by-ross-barkan/",
-   "significance": 68,
+   "time": "1:00 PM",
+   "title": "Committee on Land Use",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22739&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22739_A_Committee_on_Land_Use_26-10-06_Committee_Agenda.pdf",
+   "significance": 40,
    "why": [
-    "editorially judged"
+    "high-salience committee",
+    "a vote is scheduled"
    ],
-   "approx": false,
-   "live": false,
-   "tier": "major"
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-10-06",
@@ -1732,22 +1733,6 @@
   },
   {
    "date": "2026-10-06",
-   "time": "1:00 PM",
-   "title": "Committee on Land Use",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22739&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22739_A_Committee_on_Land_Use_26-10-06_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-06",
    "time": null,
    "title": "Cities of Gods, by Jörg Rüpke",
    "note": "How urbanization and religion have made and remade each other, from Mesopotamia to the modern metropolis. (Princeton)",
@@ -1760,6 +1745,22 @@
    ],
    "approx": false,
    "live": false,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-06",
+   "time": "11:00 AM",
+   "title": "Subcommittee on Zoning and Franchises",
+   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22615&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22615_A_Subcommittee_on_Zoning_and_Franchises_26-10-06_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
    "tier": "routine"
   },
   {
@@ -1791,20 +1792,6 @@
    "why": [
     "joint committee hearing"
    ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-06",
-   "time": "11:00 AM",
-   "title": "Subcommittee on Zoning and Franchises",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22615&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22615_A_Subcommittee_on_Zoning_and_Franchises_26-10-06_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -1925,6 +1912,22 @@
    "significance": 20,
    "why": [],
    "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-09",
+   "time": null,
+   "title": "Manhattan DA answers Mangione's double jeopardy claim",
+   "note": "The district attorney's response is due in the state murder case, which Judge Gregory Carro postponed indefinitely on Aug. 17 while the double jeopardy fight plays out.",
+   "strand": "city-life",
+   "source": "Curated",
+   "sourceUrl": "https://www.pbs.org/newshour/nation/luigi-mangiones-state-murder-trial-postponed-indefinitely-as-double-jeopardy-fight-plays-out",
+   "significance": 40,
+   "why": [
+    "editorially judged"
+   ],
+   "approx": false,
+   "live": false,
    "tier": "routine"
   },
   {
@@ -2403,6 +2406,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-10-21",
+   "time": null,
+   "title": "NEW YORK CITY DEPARTMENT OF TRANSPORTATION",
+   "note": "Transportation · 55 Water Street",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-10-22",
    "time": "1:30 PM",
    "title": "Stated meeting of the City Council",
@@ -2497,6 +2513,22 @@
    "anniversaryYears": 30,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2026-10-27",
+   "time": "9:30 AM",
+   "title": "Committee on Transportation and Infrastructure",
+   "note": "250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22768&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22768_A_Committee_on_Transportation_and_Infrastructure_26-10-27_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-10-27",
@@ -2672,7 +2704,7 @@
    "date": "2026-11-03",
    "time": null,
    "title": "General election",
-   "note": "Governor: Hochul vs. likely Blakeman, Congress and state legislative races. No mayoral race this year. Hochul-Mamdani coordination is critical for Democratic turnout.",
+   "note": "Governor: Kathy Hochul (Democratic and Working Families lines) against Bruce Blakeman (Republican and Conservative lines), plus Congress, the state Legislature and five charter amendments. No mayoral race this year.",
    "strand": "democracy",
    "source": "Curated",
    "sourceUrl": "https://www.elections.ny.gov/",
@@ -2715,6 +2747,19 @@
    "approx": false,
    "live": false,
    "tier": "notable"
+  },
+  {
+   "date": "2026-11-04",
+   "time": null,
+   "title": "Draft Scope of Work for an Environmental Impact Statement (EIS) Brooklyn-Queens Expressway/Interstate 278 (\u001aBQE\u001a) from Atlantic Avenue to Nassau Street Project (BQE Central Project), Kings County (Brooklyn), New York",
+   "note": "Transportation · Address Not Listed In The Dropdown",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-11-05",
@@ -3026,6 +3071,38 @@
    "tier": "notable"
   },
   {
+   "date": "2026-12-10",
+   "time": null,
+   "title": "Hearing on Mangione's double jeopardy claim",
+   "note": "The state court hears whether Luigi Mangione's federal guilty plea bars the state murder prosecution for the killing of UnitedHealthcare chief executive Brian Thompson. No state trial date is set.",
+   "strand": "city-life",
+   "source": "Curated",
+   "sourceUrl": "https://www.pbs.org/newshour/nation/luigi-mangiones-state-murder-trial-postponed-indefinitely-as-double-jeopardy-fight-plays-out",
+   "significance": 56,
+   "why": [
+    "editorially judged"
+   ],
+   "approx": false,
+   "live": false,
+   "tier": "notable"
+  },
+  {
+   "date": "2026-12-11",
+   "time": null,
+   "title": "Federal stopgap funding expires; shutdown risk",
+   "note": "The continuing resolution passed in September runs out at midnight. New York City is heavily exposed to disruptions in housing vouchers, Medicaid, transit and disaster aid.",
+   "strand": "budget",
+   "source": "Curated",
+   "sourceUrl": "https://www.aamc.org/advocacy-policy/washington-highlights/president-signs-continuing-resolution-extending-fy26-funding-december",
+   "significance": 66,
+   "why": [
+    "editorially judged"
+   ],
+   "approx": false,
+   "live": false,
+   "tier": "major"
+  },
+  {
    "date": "2026-12-14",
    "time": null,
    "title": "UN chooses New York City for its headquarters — 80th anniversary",
@@ -3105,6 +3182,22 @@
     "stated meeting of the full Council"
    ],
    "live": true,
+   "tier": "notable"
+  },
+  {
+   "date": "2026-12-18",
+   "time": null,
+   "title": "Mangione's federal sentencing",
+   "note": "Luigi Mangione pleaded guilty to federal stalking counts in August; prosecutors are seeking a life sentence.",
+   "strand": "city-life",
+   "source": "Curated",
+   "sourceUrl": "https://www.pbs.org/newshour/nation/luigi-mangiones-state-murder-trial-postponed-indefinitely-as-double-jeopardy-fight-plays-out",
+   "significance": 62,
+   "why": [
+    "editorially judged"
+   ],
+   "approx": false,
+   "live": false,
    "tier": "notable"
   },
   {
@@ -3234,22 +3327,6 @@
    "approx": true,
    "live": false,
    "tier": "routine"
-  },
-  {
-   "date": "2027-01-05",
-   "time": null,
-   "title": "Jury selection in Mangione's federal trial",
-   "note": "Jury selection begins in the federal capital case before Judge Margaret Garnett. Opening statements are set for Jan. 25.",
-   "strand": "city-life",
-   "source": "Curated",
-   "sourceUrl": null,
-   "significance": 68,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "major"
   },
   {
    "date": "2027-01-06",

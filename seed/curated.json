@@ -76,7 +76,7 @@
   {
    "date": "2026-11-03",
    "title": "General election",
-   "note": "Governor: Hochul vs. likely Blakeman, Congress and state legislative races. No mayoral race this year. Hochul-Mamdani coordination is critical for Democratic turnout.",
+   "note": "Governor: Kathy Hochul (Democratic and Working Families lines) against Bruce Blakeman (Republican and Conservative lines), plus Congress, the state Legislature and five charter amendments. No mayoral race this year.",
    "strand": "democracy",
    "significance": 92,
    "url": "https://www.elections.ny.gov/"
@@ -150,20 +150,6 @@
    "strand": "city-life",
    "significance": 66,
    "url": "https://www.schools.nyc.gov/calendar/2026-2027-school-year-calendar"
-  },
-  {
-   "date": "2026-09-08",
-   "title": "Luigi Mangione's state murder trial begins",
-   "note": "The state trial for the killing of UnitedHealthcare chief executive Brian Thompson in Midtown. Originally set for June 8 and moved to September by Judge Gregory Carro. The separate federal case, which carries the death penalty, follows in January.",
-   "strand": "city-life",
-   "significance": 74
-  },
-  {
-   "date": "2027-01-05",
-   "title": "Jury selection in Mangione's federal trial",
-   "note": "Jury selection begins in the federal capital case before Judge Margaret Garnett. Opening statements are set for Jan. 25.",
-   "strand": "city-life",
-   "significance": 68
   },
   {
    "date": "2026-06-30",
@@ -240,10 +226,11 @@
   },
   {
    "date": "2026-09-30",
-   "title": "Federal fiscal year ends; shutdown risk",
-   "note": "Federal appropriations expire at midnight. New York City is heavily exposed to disruptions in housing vouchers, Medicaid, transit and disaster aid.",
+   "title": "Federal fiscal year ends",
+   "note": "No shutdown at midnight: Congress passed a stopgap (H.R. 6500, signed Sept. 2) that funds the government through Dec. 11, 2026.",
    "strand": "budget",
-   "significance": 66
+   "significance": 30,
+   "url": "https://www.aamc.org/advocacy-policy/washington-highlights/president-signs-continuing-resolution-extending-fy26-funding-december"
   },
   {
    "date": "2026-09-17",
@@ -350,7 +337,7 @@
   {
    "date": "2026-10-01",
    "title": "Federal fiscal year 2027 begins",
-   "note": "Watch for continuing resolutions and shutdown risk affecting city funding.",
+   "note": "Funded at 2026 levels by the stopgap through Dec. 11. The next shutdown risk falls then.",
    "strand": "budget",
    "significance": 36
   },
@@ -585,14 +572,6 @@
    "note": "One year since the inaugural address of Jan. 1, 2026. A customary peg for retrospectives rather than a scheduled event.",
    "strand": "cityhall",
    "significance": 66
-  },
-  {
-   "date": "2026-10-06",
-   "title": "The Revolutionary, by Ross Barkan",
-   "note": "A behind-the-scenes account of Mamdani's campaign and first months in office, and what his win did to the city's power establishment. (Random House)",
-   "strand": "books",
-   "significance": 68,
-   "url": "https://www.penguinrandomhouse.com/books/826679/the-revolutionary-by-ross-barkan/"
   },
   {
    "date": "2026-09-29",
@@ -902,6 +881,38 @@
    "note": "A public holiday. City offices are closed, no hearings sit and alternate side parking is suspended.",
    "strand": "holidays",
    "significance": 46
+  },
+  {
+   "date": "2026-10-09",
+   "title": "Manhattan DA answers Mangione's double jeopardy claim",
+   "note": "The district attorney's response is due in the state murder case, which Judge Gregory Carro postponed indefinitely on Aug. 17 while the double jeopardy fight plays out.",
+   "strand": "city-life",
+   "significance": 40,
+   "url": "https://www.pbs.org/newshour/nation/luigi-mangiones-state-murder-trial-postponed-indefinitely-as-double-jeopardy-fight-plays-out"
+  },
+  {
+   "date": "2026-12-10",
+   "title": "Hearing on Mangione's double jeopardy claim",
+   "note": "The state court hears whether Luigi Mangione's federal guilty plea bars the state murder prosecution for the killing of UnitedHealthcare chief executive Brian Thompson. No state trial date is set.",
+   "strand": "city-life",
+   "significance": 56,
+   "url": "https://www.pbs.org/newshour/nation/luigi-mangiones-state-murder-trial-postponed-indefinitely-as-double-jeopardy-fight-plays-out"
+  },
+  {
+   "date": "2026-12-11",
+   "title": "Federal stopgap funding expires; shutdown risk",
+   "note": "The continuing resolution passed in September runs out at midnight. New York City is heavily exposed to disruptions in housing vouchers, Medicaid, transit and disaster aid.",
+   "strand": "budget",
+   "significance": 66,
+   "url": "https://www.aamc.org/advocacy-policy/washington-highlights/president-signs-continuing-resolution-extending-fy26-funding-december"
+  },
+  {
+   "date": "2026-12-18",
+   "title": "Mangione's federal sentencing",
+   "note": "Luigi Mangione pleaded guilty to federal stalking counts in August; prosecutors are seeking a life sentence.",
+   "strand": "city-life",
+   "significance": 62,
+   "url": "https://www.pbs.org/newshour/nation/luigi-mangiones-state-murder-trial-postponed-indefinitely-as-double-jeopardy-fight-plays-out"
   }
  ]
 }
