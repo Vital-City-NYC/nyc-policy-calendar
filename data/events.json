@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-30T22:05:36.497Z",
+ "generated": "2026-10-01T10:02:22.242Z",
  "window": {
-  "start": "2026-09-16",
-  "end": "2027-11-04"
+  "start": "2026-09-17",
+  "end": "2027-11-05"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,243 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 75,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 32,
+   "count": 30,
    "ms": 6,
-   "note": null
-  },
-  {
-   "name": "City Council",
-   "ok": true,
-   "count": 97,
-   "ms": 1272,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 51,
-   "ms": 2127,
+   "count": 46,
+   "ms": 543,
+   "note": null
+  },
+  {
+   "name": "City Council",
+   "ok": true,
+   "count": 91,
+   "ms": 1008,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 9258,
+   "ms": 4937,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 33,
-  "routine": 165,
+  "major": 31,
   "notable": 51,
+  "routine": 154,
   "marquee": 6
  },
  "events": [
-  {
-   "date": "2026-09-16",
-   "time": null,
-   "title": "The Battle of Harlem Heights — 250th anniversary",
-   "note": "On September 16, 1776, Washington won his first battlefield victory of the war at Harlem Heights in upper Manhattan.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-harlem-heights",
-   "significance": 70,
-   "importance": 2,
-   "why": [
-    "250th anniversary"
-   ],
-   "historyYear": 1776,
-   "anniversaryYears": 250,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2026-09-16",
-   "time": null,
-   "title": "The Met moves to Lincoln Center — 60th anniversary",
-   "note": "The Metropolitan Opera opened its new house at Lincoln Center, leaving the 1883 building on 39th Street for Wallace Harrison's grand modern hall.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.metopera.org/user-information/nightly-met-opera-streams/articles/the-new-met/",
-   "significance": 65,
-   "importance": 2,
-   "why": [
-    "60th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 1966,
-   "anniversaryYears": 60,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2026-09-16",
-   "time": "1:00 PM",
-   "title": "Committee on Public Safety",
-   "note": "Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22633&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22633_A_Committee_on_Public_Safety_26-09-16_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": "1:00 PM",
-   "title": "Subcommittee on Early Childhood Education",
-   "note": "250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22672&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22672_A_Subcommittee_on_Early_Childhood_Education_26-09-16_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": "1:00 PM",
-   "title": "Committee on Economic Development",
-   "note": "Jointly with the Committee on Small Business. · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22634&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22634_A_Committee_on_Economic_Development_26-09-16_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": "1:00 PM",
-   "title": "Committee on Small Business",
-   "note": "Jointly with the Committee on Economic Development · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22635&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22635_A_Committee_on_Small_Business_26-09-16_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": null,
-   "title": "New York City Independent Budget Office Advisory Committee Meeting",
-   "note": "Independent Budget Office",
-   "strand": "hearings",
-   "source": "Independent Budget Office",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 28,
-   "why": [
-    "subject matter of broad public interest"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": null,
-   "title": "Rules Regarding Restricted Substances in Personal Care Products",
-   "note": "Health and Mental Hygiene",
-   "strand": "hearings",
-   "source": "Health and Mental Hygiene",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 28,
-   "why": [
-    "Health and Mental Hygiene sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": "1:00 PM",
-   "title": "Committee on Children and Youth",
-   "note": "250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22679&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22679_A_Committee_on_Children_and_Youth_26-09-16_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": "1:00 PM",
-   "title": "Committee on Small Business",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22688&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22688_A_Committee_on_Small_Business_26-09-16_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": null,
-   "title": "DCWP NOH Rules Relating to Tax Preparation Fee Disclosures",
-   "note": "Consumer and Worker Protection",
-   "strand": "hearings",
-   "source": "Consumer and Worker Protection",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": null,
-   "title": "FCRC SEPTEMBER PUBLIC MEETING",
-   "note": "Franchise and Concession Review Committee · 255 Greenwich Street",
-   "strand": "hearings",
-   "source": "Franchise and Concession Review Committee",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-16",
-   "time": null,
-   "title": "September 16, 2026 Public Hearing",
-   "note": "Community Boards",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-17",
    "time": null,
