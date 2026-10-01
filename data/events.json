@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T10:02:22.242Z",
+ "generated": "2026-10-01T22:05:21.084Z",
  "window": {
   "start": "2026-09-17",
   "end": "2027-11-05"
@@ -17,35 +17,35 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 30,
-   "ms": 6,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 46,
-   "ms": 543,
+   "count": 50,
+   "ms": 587,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 91,
-   "ms": 1008,
+   "count": 98,
+   "ms": 1096,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4937,
+   "ms": 6745,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 31,
-  "notable": 51,
-  "routine": 154,
+  "notable": 52,
+  "routine": 164,
   "marquee": 6
  },
  "events": [
@@ -874,7 +874,7 @@
    "date": "2026-09-24",
    "time": "11:00 AM",
    "title": "Committee on Cultural Affairs, Libraries and International Relations",
-   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 2",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
    "strand": "hearings",
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22746&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -1645,6 +1645,20 @@
   },
   {
    "date": "2026-10-07",
+   "time": "10:00 AM",
+   "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "note": "250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22771&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22771_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-10-07_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-07",
    "time": null,
    "title": "NYC Workforce Development Board Quarterly Meeting",
    "note": "NYC Workforce Development Board · 1 Liberty Plaza",
@@ -1773,6 +1787,21 @@
    "significance": 32,
    "why": [
     "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-14",
+   "time": null,
+   "title": "Brooklyn Borough President ULURP Hearing",
+   "note": "Borough President - Brooklyn · 209 Joralemon Street",
+   "strand": "hearings",
+   "source": "Borough President - Brooklyn",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 28,
+   "why": [
+    "subject matter of broad public interest"
    ],
    "live": true,
    "tier": "routine"
@@ -1954,6 +1983,22 @@
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22772_A_Committee_on_Civil_Service_and_Labor_26-10-16_Committee_Agenda.pdf",
    "significance": 22,
    "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-19",
+   "time": "10:00 AM",
+   "title": "Committee on Criminal Justice",
+   "note": "250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22710&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22710_A_Committee_on_Criminal_Justice_26-10-19_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
    "live": true,
    "tier": "routine"
   },
@@ -2270,6 +2315,24 @@
   },
   {
    "date": "2026-10-22",
+   "time": "10:00 AM",
+   "title": "Committee on Finance",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22774&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22774_A_Committee_on_Finance_26-10-22_Committee_Agenda.pdf",
+   "significance": 46,
+   "why": [
+    "high-salience committee",
+    "finance committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "notable"
+  },
+  {
+   "date": "2026-10-22",
    "time": null,
    "title": "El Barrio",
    "note": "Housing Preservation and Development",
@@ -2350,6 +2413,23 @@
   },
   {
    "date": "2026-10-27",
+   "time": "10:00 AM",
+   "title": "Committee on Criminal Justice",
+   "note": "Jointly with the Committee on Women and Gender Equity · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22770&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22770_A_Committee_on_Criminal_Justice_26-10-27_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-27",
    "time": "9:30 AM",
    "title": "Committee on Transportation and Infrastructure",
    "note": "250 Broadway - 8th Floor - Hearing Room 3",
@@ -2360,6 +2440,54 @@
    "significance": 32,
    "why": [
     "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-27",
+   "time": "10:00 AM",
+   "title": "Committee on Aging",
+   "note": "Jointly with the Committee on Public Housing. · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22689&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22689_A_Committee_on_Aging_26-10-27_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-27",
+   "time": "10:00 AM",
+   "title": "Committee on Public Housing",
+   "note": "Jointly with the Committee on Aging · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22690&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22690_A_Committee_on_Public_Housing_26-10-27_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-27",
+   "time": "10:00 AM",
+   "title": "Committee on Women and Gender Equity",
+   "note": "Jointly with the Committee on Criminal Justice. · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22769&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22769_A_Committee_on_Women_and_Gender_Equity_26-10-27_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
    ],
    "live": true,
    "tier": "routine"
@@ -2535,6 +2663,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-11-02",
+   "time": null,
+   "title": "Proposed Rule - City Housing Assistance Program",
+   "note": "Housing Preservation and Development",
+   "strand": "hearings",
+   "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-11-03",
    "time": null,
    "title": "General election",
@@ -2647,6 +2788,19 @@
    "anniversaryYears": 25,
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-11-06",
+   "time": null,
+   "title": "Extension of Time to File and Expansion of Processes \u001a Permanent Rule Amendment of Rule Relating to Surcharge on Certain Non-Primary Residences",
+   "note": "Finance · Address Not Listed In The Dropdown",
+   "strand": "hearings",
+   "source": "Finance",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-11-10",
@@ -2775,6 +2929,21 @@
    "anniversaryYears": 250,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2026-11-17",
+   "time": null,
+   "title": "The Landmarks Preservation Commission is proposing to amend the various rules relating to staff approval for work on designated properties.",
+   "note": "Landmarks Preservation Commission · 253 Broadway",
+   "strand": "hearings",
+   "source": "Landmarks Preservation Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Landmarks Preservation Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-11-19",
