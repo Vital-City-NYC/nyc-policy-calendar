@@ -1,212 +1,54 @@
 {
- "generated": "2026-10-01T22:05:21.084Z",
+ "generated": "2026-10-02T16:00:08.105Z",
  "window": {
-  "start": "2026-09-17",
-  "end": "2027-11-05"
+  "start": "2026-09-18",
+  "end": "2027-11-06"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 75,
-   "ms": 3,
+   "count": 74,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 30,
-   "ms": 7,
+   "ms": 5,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 50,
-   "ms": 587,
+   "count": 47,
+   "ms": 850,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 98,
-   "ms": 1096,
+   "count": 96,
+   "ms": 1119,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6745,
+   "ms": 8776,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 31,
-  "notable": 52,
-  "routine": 164,
-  "marquee": 6
+  "major": 30,
+  "routine": 159,
+  "marquee": 6,
+  "notable": 52
  },
  "events": [
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "Chelsea bombing injures 31 — 10th anniversary",
-   "note": "A pressure-cooker bomb exploded on West 23rd Street in Chelsea, injuring 31 people. Ahmad Khan Rahimi was arrested days later and sentenced to life in prison.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.justice.gov/archives/opa/pr/chelsea-bomber-ahmad-khan-rahimi-convicted-executing-september-2016-bombing-new-york-city",
-   "significance": 72,
-   "importance": 3,
-   "why": [
-    "10th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 2016,
-   "anniversaryYears": 10,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "Mayor's Management Report due",
-   "note": "The charter-mandated scorecard for every agency: trash, crime, service delivery. Required by Charter section 12 no later than Sept. 17. This is the first full fiscal year Mamdani's agencies are judged on, though the year began before he took office.",
-   "strand": "cityhall",
-   "source": "Curated",
-   "sourceUrl": "https://www.nyc.gov/site/operations/reports/mmr.page",
-   "significance": 58,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-09-17",
-   "time": "11:30 AM",
-   "title": "Committee on Land Use",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22621&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22621_A_Committee_on_Land_Use_26-09-17_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "NYC BOARD OF HEALTH MEETING ANNOUNCEMENT",
-   "note": "Health and Mental Hygiene · 42-09 28th Avenue",
-   "strand": "hearings",
-   "source": "Health and Mental Hygiene",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 28,
-   "why": [
-    "Health and Mental Hygiene sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": "11:00 AM",
-   "title": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22620&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22620_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-09-17_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "DCWP NOH Rules Relating to Amendment of Debt Collectors Rule Effective Date",
-   "note": "Consumer and Worker Protection",
-   "strand": "hearings",
-   "source": "Consumer and Worker Protection",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "Dining Out NYC Public Hearing",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "Dining Out NYC Public Hearings",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "EEPC COMMISSION MEETING #290",
-   "note": "Equal Employment Practices Commission · 253 Broadway",
-   "strand": "hearings",
-   "source": "Equal Employment Practices Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "September 17, 2026 PUBLIC HEARING",
-   "note": "Community Boards · 9941 Ft. Hamilton Parkway",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-17",
-   "time": null,
-   "title": "Teachers\u001a Retirement System of the City of New York Monthly Board Meeting",
-   "note": "Teachers' Retirement System · 55 Water Street",
-   "strand": "hearings",
-   "source": "Teachers' Retirement System",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-18",
    "time": null,
@@ -2334,6 +2176,19 @@
   {
    "date": "2026-10-22",
    "time": null,
+   "title": "Dining Out NYC Public Hearings",
+   "note": "Transportation",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-22",
+   "time": null,
    "title": "El Barrio",
    "note": "Housing Preservation and Development",
    "strand": "hearings",
@@ -2665,6 +2520,21 @@
   {
    "date": "2026-11-02",
    "time": null,
+   "title": "Amendment of Rules Relating to Medical Room Standards in Schools",
+   "note": "Health and Mental Hygiene",
+   "strand": "hearings",
+   "source": "Health and Mental Hygiene",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 28,
+   "why": [
+    "Health and Mental Hygiene sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-02",
+   "time": null,
    "title": "Proposed Rule - City Housing Assistance Program",
    "note": "Housing Preservation and Development",
    "strand": "hearings",
@@ -2730,6 +2600,19 @@
    "note": "Transportation · Address Not Listed In The Dropdown",
    "strand": "hearings",
    "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-04",
+   "time": null,
+   "title": "Proposed Rule - Amendment of Rules relating to Ancillary Dwelling Units",
+   "note": "Buildings",
+   "strand": "hearings",
+   "source": "Buildings",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
@@ -2860,6 +2743,19 @@
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22730&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22730_A_Subcommittee_on_Zoning_and_Franchises_26-11-10_Committee_Agenda.pdf",
    "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-10",
+   "time": null,
+   "title": "Draft Scope of Work for an Environmental Impact Statement (EIS) Brooklyn-Queens Expressway/Interstate 278 (\u001aBQE\u001a) from Atlantic Avenue to Nassau Street Project (BQE Central Project), Kings County (Brooklyn), New York",
+   "note": "Transportation · Address Not Listed In The Dropdown",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
    "why": [],
    "live": true,
    "tier": "routine"
@@ -4010,6 +3906,24 @@
    "anniversaryYears": 240,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2027-11-06",
+   "time": null,
+   "title": "New York men vote for women's suffrage — 110th anniversary",
+   "note": "New York became the first major eastern state to grant women the vote when male voters approved a suffrage referendum.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://www.loc.gov/collections/women-of-protest/articles-and-essays/tactics-and-techniques-of-the-national-womans-party-suffrage-campaign/",
+   "significance": 64,
+   "importance": 3,
+   "why": [
+    "110th anniversary"
+   ],
+   "historyYear": 1917,
+   "anniversaryYears": 110,
+   "live": true,
+   "tier": "notable"
   }
  ]
 }
