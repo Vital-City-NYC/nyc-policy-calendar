@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-02T16:00:08.105Z",
+ "generated": "2026-10-03T00:50:32.446Z",
  "window": {
-  "start": "2026-09-18",
-  "end": "2027-11-06"
+  "start": "2026-09-19",
+  "end": "2027-11-07"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,159 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 74,
-   "ms": 2,
+   "ms": 1,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "ms": 5,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 47,
-   "ms": 850,
+   "count": 46,
+   "ms": 583,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 96,
-   "ms": 1119,
+   "count": 95,
+   "ms": 1121,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8776,
+   "ms": 5693,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 30,
-  "routine": 159,
+  "major": 29,
   "marquee": 6,
+  "routine": 157,
   "notable": 52
  },
  "events": [
-  {
-   "date": "2026-09-18",
-   "time": null,
-   "title": "The New-York Daily Times debuts — 175th anniversary",
-   "note": "Henry Raymond and George Jones published the first issue of the New-York Daily Times, later The New York Times.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://en.wikipedia.org/wiki/History_of_The_New_York_Times_(1851%E2%80%931896)",
-   "significance": 66,
-   "importance": 2,
-   "why": [
-    "175th anniversary"
-   ],
-   "historyYear": 1851,
-   "anniversaryYears": 175,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2026-09-18",
-   "time": "11:00 AM",
-   "title": "Committee on Finance",
-   "note": "Jointly with the Committee on Aging and the Committee on Disabilities · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22640&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22640_A_Committee_on_Finance_26-09-18_Committee_Agenda.pdf",
-   "significance": 44,
-   "why": [
-    "high-salience committee",
-    "finance committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-18",
-   "time": "1:00 PM",
-   "title": "Committee on Mental Health and Substance Use",
-   "note": "Jointly with the Committee on Veterans · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22705&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22705_A_Committee_on_Mental_Health_and_Substance_Use_26-09-18_Committee_Agenda.pdf",
-   "significance": 38,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-18",
-   "time": "11:00 AM",
-   "title": "Committee on Aging",
-   "note": "Jointly with the Committee on Disabilities and the Committee on Finance. · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22638&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22638_A_Committee_on_Aging_26-09-18_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-18",
-   "time": "11:00 AM",
-   "title": "Committee on Disabilities",
-   "note": "Jointly with the Committee on Aging and the Committee on Finance · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22639&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22639_A_Committee_on_Disabilities_26-09-18_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-18",
-   "time": "1:00 PM",
-   "title": "Committee on Veterans",
-   "note": "Jointly with the Committee on Mental Health and Substance. · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22704&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22704_A_Committee_on_Veterans_26-09-18_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-18",
-   "time": null,
-   "title": "DSNY Amendment of Penalty for Improper Disposal of Regulated Household Waste",
-   "note": "Sanitation",
-   "strand": "hearings",
-   "source": "Sanitation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-21",
    "time": null,
@@ -1561,6 +1447,22 @@
   },
   {
    "date": "2026-10-08",
+   "time": "10:00 AM",
+   "title": "Committee on Cultural Affairs, Libraries and International Relations",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22777&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22777_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-10-08_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-08",
    "time": null,
    "title": "Public Notice of Availability and Notice of Public Hearing",
    "note": "Management and Budget · 120 Broadway",
@@ -1813,6 +1715,38 @@
    "anniversaryYears": 110,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2026-10-16",
+   "time": "10:00 AM",
+   "title": "Committee on Civil and Human Rights",
+   "note": "Jointly with the Committee on Disabilities · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22780&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22780_A_Committee_on_Civil_and_Human_Rights_26-10-16_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-16",
+   "time": "10:00 AM",
+   "title": "Committee on Disabilities",
+   "note": "Jointly with the Committee on Civil and Human Rights. · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22779&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22779_A_Committee_on_Disabilities_26-10-16_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-10-16",
@@ -2265,6 +2199,20 @@
    "anniversaryYears": 30,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2026-10-26",
+   "time": "1:00 PM",
+   "title": "Committee on General Welfare",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22773&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22773_A_Committee_on_General_Welfare_26-10-26_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-10-27",
