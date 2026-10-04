@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-03T14:27:11.573Z",
+ "generated": "2026-10-04T00:15:59.905Z",
  "window": {
-  "start": "2026-09-19",
-  "end": "2027-11-07"
+  "start": "2026-09-20",
+  "end": "2027-11-08"
  },
  "corpusSize": 282,
  "sources": [
@@ -16,34 +16,34 @@
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 29,
-   "ms": 4,
+   "count": 30,
+   "ms": 8,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 46,
-   "ms": 603,
+   "ms": 393,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 95,
-   "ms": 1160,
+   "ms": 868,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8691,
+   "ms": 4768,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 29,
+  "major": 30,
   "marquee": 6,
   "routine": 157,
   "notable": 52
@@ -3872,6 +3872,25 @@
    "anniversaryYears": 110,
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2027-11-08",
+   "time": null,
+   "title": "Ed Koch is elected mayor — 50th anniversary",
+   "note": "The brash congressman won the mayoralty, beginning three terms that spanned the city's recovery from fiscal collapse.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://www.britannica.com/biography/Ed-Koch",
+   "significance": 68,
+   "importance": 2,
+   "why": [
+    "50th anniversary",
+    "within living memory"
+   ],
+   "historyYear": 1977,
+   "anniversaryYears": 50,
+   "live": true,
+   "tier": "major"
   }
  ]
 }
