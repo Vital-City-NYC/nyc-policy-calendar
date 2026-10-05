@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T00:20:33.939Z",
+ "generated": "2026-10-05T18:55:02.190Z",
  "window": {
   "start": "2026-09-21",
   "end": "2027-11-09"
@@ -10,42 +10,42 @@
    "name": "Curated",
    "ok": true,
    "count": 74,
-   "ms": 2,
+   "ms": 4,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 30,
-   "ms": 4,
+   "ms": 10,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 46,
-   "ms": 670,
+   "count": 48,
+   "ms": 666,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 95,
-   "ms": 1103,
+   "count": 101,
+   "ms": 1448,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 7437,
+   "ms": 8464,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 30,
   "marquee": 6,
-  "routine": 157,
+  "routine": 165,
   "notable": 52
  },
  "events": [
@@ -1327,6 +1327,23 @@
   },
   {
    "date": "2026-10-07",
+   "time": "12:00 PM",
+   "title": "Committee on Education",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22781&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22781_A_Committee_on_Education_26-10-07_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-07",
    "time": "11:00 AM",
    "title": "Committee on Land Use",
    "note": "250 Broadway - 8th Floor - Hearing Room 3",
@@ -1353,6 +1370,22 @@
    "significance": 32,
    "why": [
     "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-07",
+   "time": "11:00 AM",
+   "title": "Committee on Small Business",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22782&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22782_A_Committee_on_Small_Business_26-10-07_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
    ],
    "live": true,
    "tier": "routine"
@@ -1444,6 +1477,23 @@
    ],
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-10-08",
+   "time": "10:45 AM",
+   "title": "Committee on Public Safety",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22778&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22778_A_Committee_on_Public_Safety_26-10-08_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-10-08",
@@ -1883,6 +1933,21 @@
    "why": [
     "high-salience committee",
     "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-20",
+   "time": null,
+   "title": "October 20, 2026, Public Hearing Agenda CR",
+   "note": "Landmarks Preservation Commission · 253 Broadway",
+   "strand": "hearings",
+   "source": "Landmarks Preservation Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Landmarks Preservation Commission sets policy the public feels directly"
    ],
    "live": true,
    "tier": "routine"
@@ -2393,6 +2458,56 @@
   },
   {
    "date": "2026-10-30",
+   "time": "10:00 AM",
+   "title": "Committee on Health",
+   "note": "Jointly with the Committee on Immigration and the Committee on Women and Gender Equity · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22786&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22786_A_Committee_on_Health_26-10-30_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-30",
+   "time": "10:00 AM",
+   "title": "Committee on Immigration",
+   "note": "Jointly with the Committee on Health and the Committee on Women and Gender Equity. · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22785&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22785_A_Committee_on_Immigration_26-10-30_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-30",
+   "time": "10:00 AM",
+   "title": "Committee on Women and Gender Equity",
+   "note": "Jointly with the Committee on Immigration and the Committee on Health · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22787&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22787_A_Committee_on_Women_and_Gender_Equity_26-10-30_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-30",
    "time": null,
    "title": "DSNY Proposed Rule Relating to the Violation Amount for the Failure to Maintain Vacant Lots",
    "note": "Sanitation",
@@ -2584,6 +2699,21 @@
    "anniversaryYears": 400,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2026-11-05",
+   "time": null,
+   "title": "Amendment of Rules Relating to Syndromic Surveillance",
+   "note": "Health and Mental Hygiene",
+   "strand": "hearings",
+   "source": "Health and Mental Hygiene",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 28,
+   "why": [
+    "Health and Mental Hygiene sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-11-06",
