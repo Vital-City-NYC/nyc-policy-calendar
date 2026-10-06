@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-05T18:55:02.190Z",
+ "generated": "2026-10-06T01:59:32.040Z",
  "window": {
-  "start": "2026-09-21",
-  "end": "2027-11-09"
+  "start": "2026-09-22",
+  "end": "2027-11-10"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,63 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 74,
-   "ms": 4,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 30,
-   "ms": 10,
+   "count": 29,
+   "ms": 9,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 48,
-   "ms": 666,
+   "ms": 451,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 101,
-   "ms": 1448,
+   "count": 102,
+   "ms": 1078,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8464,
+   "ms": 5160,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 30,
   "marquee": 6,
-  "routine": 165,
+  "major": 29,
+  "routine": 166,
   "notable": 52
  },
  "events": [
-  {
-   "date": "2026-09-21",
-   "time": null,
-   "title": "The Great Fire of 1776 — 250th anniversary",
-   "note": "A fire burned through the night into September 21, 1776, destroying a large swath of British-occupied New York including Trinity Church.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://en.wikipedia.org/wiki/Great_Fire_of_New_York_(1776)",
-   "significance": 80,
-   "importance": 3,
-   "why": [
-    "250th anniversary"
-   ],
-   "historyYear": 1776,
-   "anniversaryYears": 250,
-   "live": true,
-   "tier": "major"
-  },
   {
    "date": "2026-09-22",
    "time": null,
@@ -2369,6 +2351,20 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22763&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22763_A_Committee_on_Children_and_Youth_26-10-27_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-27",
+   "time": "1:00 PM",
+   "title": "Committee on Workforce Development",
+   "note": "250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22783&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22783_A_Committee_on_Workforce_Development_26-10-27_Committee_Agenda.pdf",
    "significance": 22,
    "why": [],
    "live": true,
