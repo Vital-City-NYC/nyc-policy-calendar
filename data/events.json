@@ -1,292 +1,54 @@
 {
- "generated": "2026-10-06T16:20:30.905Z",
+ "generated": "2026-10-07T01:09:17.772Z",
  "window": {
-  "start": "2026-09-22",
-  "end": "2027-11-10"
+  "start": "2026-09-23",
+  "end": "2027-11-11"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 74,
-   "ms": 3,
+   "count": 70,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "ms": 8,
-   "note": null
-  },
-  {
-   "name": "City Council",
-   "ok": true,
-   "count": 102,
-   "ms": 1290,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 49,
-   "ms": 2193,
+   "count": 45,
+   "ms": 619,
+   "note": null
+  },
+  {
+   "name": "City Council",
+   "ok": true,
+   "count": 96,
+   "ms": 1038,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 10381,
+   "ms": 6228,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "marquee": 6,
-  "major": 29,
-  "routine": 167,
-  "notable": 52
+  "routine": 154,
+  "notable": 52,
+  "major": 28,
+  "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-09-22",
-   "time": null,
-   "title": "United Nations General Assembly: the general debate opens",
-   "note": "The high-level general debate of the 81st session runs Sept. 22-26 and concludes Monday, Sept. 28; the session itself opened Sept. 8. Leaders' week is the year's largest security and traffic event in Midtown. The order of speakers is published by the United Nations only shortly beforehand, so who appears on which day is not yet known.",
-   "strand": "city-life",
-   "source": "Curated",
-   "sourceUrl": "https://www.un.org/en/ga/81/meetings/",
-   "significance": 88,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "marquee"
-  },
-  {
-   "date": "2026-09-22",
-   "time": null,
-   "title": "Nathan Hale is hanged as a spy — 250th anniversary",
-   "note": "The British hanged 21-year-old Continental officer Nathan Hale as a spy in occupied New York on September 22, 1776.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://connecticuthistory.org/nathan-hale-hanged-in-new-york-today-in-history/",
-   "significance": 80,
-   "importance": 3,
-   "why": [
-    "250th anniversary"
-   ],
-   "historyYear": 1776,
-   "anniversaryYears": 250,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2026-09-22",
-   "time": null,
-   "title": "Housing in New York City, by Katrin B. Anacker",
-   "note": "Traces the city from the 1811 grid through modern zoning, arguing New York set the national affordable-housing model and must reclaim it. (NYU Press)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://nyupress.org/9781479828494/housing-in-new-york-city/",
-   "significance": 44,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": null,
-   "title": "What Architecture Is, by Witold Rybczynski",
-   "note": "An essay, with 50 of the author's own drawings, on what separates architecture from mere building. (Yale)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://yalebooks.yale.edu/book/9780300292954/what-architecture-is/",
-   "significance": 36,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": null,
-   "title": "Binding Report for August 2026",
-   "note": "Landmarks Preservation Commission",
-   "strand": "hearings",
-   "source": "Landmarks Preservation Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 34,
-   "why": [
-    "Landmarks Preservation Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": "1:00 PM",
-   "title": "Committee on Education",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22677&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22677_A_Committee_on_Education_26-09-22_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": "10:00 AM",
-   "title": "Committee on Immigration",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22686&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22686_A_Committee_on_Immigration_26-09-22_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": null,
-   "title": "Cold War City, by David E. Barclay",
-   "note": "What five decades as a walled-in enclave did to West Berlin. (Princeton)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://press.princeton.edu/isbn/9780691159256",
-   "significance": 30,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": "10:00 AM",
-   "title": "Committee on Civil Service and Labor",
-   "note": "250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22678&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22678_A_Committee_on_Civil_Service_and_Labor_26-09-22_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": "1:00 PM",
-   "title": "Committee on General Welfare",
-   "note": "250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22622&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22622_A_Committee_on_General_Welfare_26-09-22_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": "10:00 AM",
-   "title": "Committee on Governmental Operations, State & Federal Legislation",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22645&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22645_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-09-22_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": "1:00 PM",
-   "title": "Committee on Public Housing",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22692&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22692_A_Committee_on_Public_Housing_26-09-22_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": "11:30 AM",
-   "title": "Subcommittee on Zoning and Franchises",
-   "note": "Committee Room - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22729&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22729_A_Subcommittee_on_Zoning_and_Franchises_26-09-22_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": null,
-   "title": "Cancellation: BERS EXECUTIVE COMMITTEE MEETING",
-   "note": "Board of Education Retirement System · 55 Water Street",
-   "strand": "hearings",
-   "source": "Board of Education Retirement System",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": null,
-   "title": "Design Commission Meeting Agenda, Tuesday, September 22, 2026",
-   "note": "Public Design Commission · City Hall Park",
-   "strand": "hearings",
-   "source": "Public Design Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-22",
-   "time": null,
-   "title": "Notice of Meeting",
-   "note": "Educational Construction Fund · Address Not Listed In The Dropdown",
-   "strand": "hearings",
-   "source": "Educational Construction Fund",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-23",
    "time": "9:30 AM",
@@ -1311,7 +1073,7 @@
    "date": "2026-10-07",
    "time": "12:00 PM",
    "title": "Committee on Education",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
    "strand": "hearings",
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22781&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -2067,6 +1829,22 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22711&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22711_A_Committee_on_Housing_and_Buildings_26-10-21_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-21",
+   "time": "1:00 PM",
+   "title": "Committee on Mental Health and Substance Use",
+   "note": "250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22784&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22784_A_Committee_on_Mental_Health_and_Substance_Use_26-10-21_Committee_Agenda.pdf",
    "significance": 32,
    "why": [
     "high-salience committee"
