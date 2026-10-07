@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T01:09:17.772Z",
+ "generated": "2026-10-07T17:03:43.597Z",
  "window": {
   "start": "2026-09-23",
   "end": "2027-11-11"
@@ -10,40 +10,40 @@
    "name": "Curated",
    "ok": true,
    "count": 70,
-   "ms": 2,
+   "ms": 4,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 8,
+   "ms": 9,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 45,
-   "ms": 619,
+   "count": 47,
+   "ms": 380,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 96,
-   "ms": 1038,
+   "count": 97,
+   "ms": 1033,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6228,
+   "ms": 5245,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 154,
+  "routine": 157,
   "notable": 52,
   "major": 28,
   "marquee": 5
@@ -1315,6 +1315,21 @@
   },
   {
    "date": "2026-10-14",
+   "time": null,
+   "title": "Board of Correction Public Meeting",
+   "note": "Board of Correction · 125 Worth Street",
+   "strand": "hearings",
+   "source": "Board of Correction",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 36,
+   "why": [
+    "Board of Correction sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-14",
    "time": "10:00 AM",
    "title": "Committee on Health",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
@@ -1373,6 +1388,19 @@
    "why": [
     "joint committee hearing"
    ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-14",
+   "time": null,
+   "title": "OCTOBER 14, 2026 PUBLIC HEARING",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -2198,6 +2226,20 @@
    "anniversaryYears": 250,
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-10-28",
+   "time": "1:00 PM",
+   "title": "Committee on Hospitals",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22789&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22789_A_Committee_on_Hospitals_26-10-28_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-10-29",
