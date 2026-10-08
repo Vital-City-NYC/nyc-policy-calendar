@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-07T17:03:43.597Z",
+ "generated": "2026-10-08T01:27:41.960Z",
  "window": {
-  "start": "2026-09-23",
-  "end": "2027-11-11"
+  "start": "2026-09-24",
+  "end": "2027-11-12"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,7 +10,7 @@
    "name": "Curated",
    "ok": true,
    "count": 70,
-   "ms": 4,
+   "ms": 3,
    "note": null
   },
   {
@@ -23,241 +23,32 @@
   {
    "name": "City Record",
    "ok": true,
-   "count": 47,
-   "ms": 380,
+   "count": 42,
+   "ms": 674,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 97,
-   "ms": 1033,
+   "count": 89,
+   "ms": 965,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5245,
+   "ms": 33740,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 157,
   "notable": 52,
+  "routine": 144,
   "major": 28,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-09-23",
-   "time": "9:30 AM",
-   "title": "Committee on Criminal Justice",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22748&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22748_A_Committee_on_Criminal_Justice_26-09-23_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": "1:00 PM",
-   "title": "Committee on Mental Health and Substance Use",
-   "note": "Jointly with the Committee on Hospitals and the Committee on Women and Gender Equity. · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22652&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22652_A_Committee_on_Mental_Health_and_Substance_Use_26-09-23_Committee_Agenda.pdf",
-   "significance": 38,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": null,
-   "title": "New York City Housing Authority Board Meeting",
-   "note": "Housing Authority",
-   "strand": "hearings",
-   "source": "Housing Authority",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 34,
-   "why": [
-    "Housing Authority sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": "10:00 AM",
-   "title": "Committee on Criminal Justice",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22685&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22685_A_Committee_on_Criminal_Justice_26-09-23_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": "1:00 PM",
-   "title": "Committee on Land Use",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22614&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22614_A_Committee_on_Land_Use_26-09-23_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": "1:00 PM",
-   "title": "Committee on General Welfare",
-   "note": "VOTE* · Committee Room - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22744&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22744_A_Committee_on_General_Welfare_26-09-23_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": "1:00 PM",
-   "title": "Committee on Hospitals",
-   "note": "Jointly with the Committee on Mental Health and Substance Use and the Committee on Women and Gender Equity · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22653&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22653_A_Committee_on_Hospitals_26-09-23_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": "1:00 PM",
-   "title": "Committee on Women and Gender Equity",
-   "note": "Jointly with the Committee on Mental Health and Substance Use and the Committee on Hospitals · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22654&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22654_A_Committee_on_Women_and_Gender_Equity_26-09-23_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": "10:00 AM",
-   "title": "Committee on Contracts",
-   "note": "250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22691&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22691_A_Committee_on_Contracts_26-09-23_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": "10:00 AM",
-   "title": "Subcommittee on Zoning and Franchises",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22613&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22613_A_Subcommittee_on_Zoning_and_Franchises_26-09-23_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": null,
-   "title": "COMBINED SEWER OVERFLOW CONTROL FACILITY \u001a GOWANUS CANAL SUPERFUND REMEDIATION, PHASE IIB",
-   "note": "Supreme Court · 360 Adams Street",
-   "strand": "hearings",
-   "source": "Supreme Court",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": null,
-   "title": "Essex Site 9",
-   "note": "Housing Preservation and Development",
-   "strand": "hearings",
-   "source": "Housing Preservation and Development",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": null,
-   "title": "FOR LEASE - 1664 PARK AVENUE",
-   "note": "Citywide Administrative Services",
-   "strand": "hearings",
-   "source": "Citywide Administrative Services",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-23",
-   "time": null,
-   "title": "Proposed Rule - Amendment of Rules regarding Fees for Electrical Permits and Licensing and Compensation of Registered Design Professionals",
-   "note": "Buildings",
-   "strand": "hearings",
-   "source": "Buildings",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-24",
    "time": "1:30 PM",
@@ -1206,9 +997,9 @@
   },
   {
    "date": "2026-10-08",
-   "time": "11:00 AM",
+   "time": "11:30 AM",
    "title": "Committee on Finance",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "note": "VOTE* · Committee Room - City Hall",
    "strand": "hearings",
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22757&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -2746,6 +2537,22 @@
    "significance": 34,
    "why": [
     "Landmarks Preservation Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "1:00 PM",
+   "title": "Committee on Higher Education",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22790&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22790_A_Committee_on_Higher_Education_26-11-17_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
    ],
    "live": true,
    "tier": "routine"
