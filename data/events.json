@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T01:27:41.960Z",
+ "generated": "2026-10-08T17:02:16.405Z",
  "window": {
   "start": "2026-09-24",
   "end": "2027-11-12"
@@ -10,35 +10,35 @@
    "name": "Curated",
    "ok": true,
    "count": 70,
-   "ms": 3,
+   "ms": 1,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 9,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 42,
-   "ms": 674,
+   "ms": 2503,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 89,
-   "ms": 965,
+   "ms": 4725,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 33740,
+   "ms": 6774,
    "note": "the Legislature is out of session"
   }
  ],
@@ -981,13 +981,13 @@
   },
   {
    "date": "2026-10-08",
-   "time": "1:30 PM",
+   "time": "1:25 PM",
    "title": "Stated meeting of the City Council",
    "note": "Council Chambers - City Hall",
    "strand": "hearings",
    "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22542&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22542_A_City_Council_26-10-08_Committee_Agenda.pdf",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22788&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22788_A_City_Council_26-10-08_Committee_Agenda.pdf",
    "significance": 50,
    "why": [
     "stated meeting of the full Council"
