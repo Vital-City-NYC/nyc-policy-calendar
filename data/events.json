@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-08T17:02:16.405Z",
+ "generated": "2026-10-09T01:35:16.545Z",
  "window": {
-  "start": "2026-09-24",
-  "end": "2027-11-12"
+  "start": "2026-09-25",
+  "end": "2027-11-13"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,200 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 70,
-   "ms": 1,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 28,
-   "ms": 6,
+   "count": 30,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 42,
-   "ms": 2503,
+   "count": 41,
+   "ms": 789,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 89,
-   "ms": 4725,
+   "count": 83,
+   "ms": 1219,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6774,
+   "ms": 8137,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "notable": 52,
-  "routine": 144,
-  "major": 28,
+  "routine": 139,
+  "major": 29,
+  "notable": 51,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-09-24",
-   "time": "1:30 PM",
-   "title": "Stated meeting of the City Council",
-   "note": "Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22758&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22758_A_City_Council_26-09-24_Council_Agenda.pdf",
-   "significance": 50,
-   "why": [
-    "stated meeting of the full Council"
-   ],
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-09-24",
-   "time": "11:00 AM",
-   "title": "Committee on Finance",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22755&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22755_A_Committee_on_Finance_26-09-24_Committee_Agenda.pdf",
-   "significance": 46,
-   "why": [
-    "high-salience committee",
-    "finance committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-09-24",
-   "time": "11:00 AM",
-   "title": "Committee on Housing and Buildings",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22747&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22747_A_Committee_on_Housing_and_Buildings_26-09-24_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-24",
-   "time": "11:45 AM",
-   "title": "Committee on Land Use",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22761&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22761_A_Committee_on_Land_Use_26-09-24_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-24",
-   "time": "10:00 AM",
-   "title": "Committee on Children and Youth",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22745&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22745_A_Committee_on_Children_and_Youth_26-09-24_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-24",
-   "time": "11:00 AM",
-   "title": "Committee on Cultural Affairs, Libraries and International Relations",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22746&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22746_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-09-24_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-24",
-   "time": "11:30 AM",
-   "title": "Subcommittee on Zoning and Franchises",
-   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22762&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22762_A_Subcommittee_on_Zoning_and_Franchises_26-09-24_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-24",
-   "time": null,
-   "title": "Dining Out NYC Public Hearings",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-24",
-   "time": null,
-   "title": "New York City Environmental Control Board Meeting September 24, 2026",
-   "note": "Environmental Control Board · 100 Church Street",
-   "strand": "hearings",
-   "source": "Environmental Control Board",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-24",
-   "time": null,
-   "title": "Proposed Rule - Rules regarding Sidewalk Shed Designs",
-   "note": "Buildings",
-   "strand": "hearings",
-   "source": "Buildings",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-25",
    "time": null,
@@ -1185,6 +1030,19 @@
   {
    "date": "2026-10-14",
    "time": null,
+   "title": "October 14, 2026 Public Hearing",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-14",
+   "time": null,
    "title": "OCTOBER 14, 2026 PUBLIC HEARING",
    "note": "Community Boards",
    "strand": "hearings",
@@ -1305,6 +1163,19 @@
    "note": "Housing Preservation and Development",
    "strand": "hearings",
    "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-15",
+   "time": null,
+   "title": "Teachers\u001a Retirement System of the City of New York Monthly Board Meeting",
+   "note": "Teachers' Retirement System · 55 Water Street",
+   "strand": "hearings",
+   "source": "Teachers' Retirement System",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
@@ -2017,6 +1888,20 @@
    "anniversaryYears": 250,
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-10-28",
+   "time": "10:00 AM",
+   "title": "Committee on Governmental Operations, State & Federal Legislation",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22765&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22765_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-10-28_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-10-28",
@@ -3659,6 +3544,43 @@
    "anniversaryYears": 50,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2027-11-13",
+   "time": null,
+   "title": "Times Square is reborn — 30th anniversary",
+   "note": "Disney's The Lion King opened at the restored New Amsterdam Theatre, symbolizing the transformation of a once-seedy Times Square into a family tourist mecca.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://www.mcny.org/",
+   "significance": 65,
+   "importance": 2,
+   "why": [
+    "30th anniversary",
+    "within living memory"
+   ],
+   "historyYear": 1997,
+   "anniversaryYears": 30,
+   "live": true,
+   "tier": "major"
+  },
+  {
+   "date": "2027-11-13",
+   "time": null,
+   "title": "Holland Tunnel opens under the Hudson — 100th anniversary",
+   "note": "The Holland Tunnel opened as the first mechanically ventilated underwater vehicular tunnel in the world, linking Manhattan and Jersey City.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/holland-tunnel",
+   "significance": 64,
+   "importance": 2,
+   "why": [
+    "100th anniversary"
+   ],
+   "historyYear": 1927,
+   "anniversaryYears": 100,
+   "live": true,
+   "tier": "notable"
   }
  ]
 }
