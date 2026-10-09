@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T01:35:16.545Z",
+ "generated": "2026-10-09T16:40:12.887Z",
  "window": {
   "start": "2026-09-25",
   "end": "2027-11-13"
@@ -17,33 +17,33 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 30,
-   "ms": 7,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 41,
-   "ms": 789,
+   "count": 44,
+   "ms": 640,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 83,
-   "ms": 1219,
+   "ms": 1875,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8137,
+   "ms": 8085,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 139,
+  "routine": 142,
   "major": 29,
   "notable": 51,
   "marquee": 5
@@ -1964,6 +1964,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-10-29",
+   "time": null,
+   "title": "Dining Out NYC Public Hearings",
+   "note": "Transportation",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-10-30",
    "time": "10:00 AM",
    "title": "Committee on Health",
@@ -2271,6 +2284,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-11-09",
+   "time": null,
+   "title": "Notice of Public Hearing and Opportunity to Comment on Proposed Rules relating to amendments for the Dining Out NYC program",
+   "note": "Transportation",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-11-10",
    "time": null,
    "title": "Last day for mail ballots to arrive",
@@ -2339,6 +2365,19 @@
    "note": "Transportation · Address Not Listed In The Dropdown",
    "strand": "hearings",
    "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-10",
+   "time": null,
+   "title": "Notice of a Public Hearing in the matter of DCAS consenting to a proposed option to renew a lease in the borough of Manhattan.",
+   "note": "Citywide Administrative Services",
+   "strand": "hearings",
+   "source": "Citywide Administrative Services",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
