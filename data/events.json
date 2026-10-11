@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-10T16:38:39.374Z",
+ "generated": "2026-10-11T00:35:53.580Z",
  "window": {
-  "start": "2026-09-26",
-  "end": "2027-11-14"
+  "start": "2026-09-27",
+  "end": "2027-11-15"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,7 +10,7 @@
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 0,
+   "ms": 1,
    "note": "no API key configured"
   },
   {
@@ -24,21 +24,21 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 30,
-   "ms": 7,
+   "ms": 9,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 44,
-   "ms": 479,
+   "ms": 868,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 86,
-   "ms": 697,
+   "ms": 968,
    "note": null
   }
  ],
