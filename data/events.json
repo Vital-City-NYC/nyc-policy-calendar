@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T02:46:54.962Z",
+ "generated": "2026-10-13T17:12:17.833Z",
  "window": {
   "start": "2026-09-29",
   "end": "2027-11-17"
@@ -17,34 +17,34 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 6,
+   "ms": 4,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 44,
-   "ms": 541,
+   "count": 46,
+   "ms": 630,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 85,
-   "ms": 1085,
+   "ms": 962,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 7796,
+   "ms": 5819,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "notable": 51,
-  "routine": 143,
+  "routine": 145,
   "major": 28,
   "marquee": 5
  },
@@ -994,6 +994,19 @@
   {
    "date": "2026-10-14",
    "time": null,
+   "title": "October 14, 2026 PUBLIC HEARING",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-14",
+   "time": null,
    "title": "OCTOBER 14, 2026 PUBLIC HEARING",
    "note": "Community Boards",
    "strand": "hearings",
@@ -1265,6 +1278,19 @@
    "note": "Human Resources Administration",
    "strand": "hearings",
    "source": "Human Resources Administration",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-19",
+   "time": null,
+   "title": "OCTOBER 19, 2026 PUBLIC HEARING",
+   "note": "Community Boards · 1305 86th Street",
+   "strand": "hearings",
+   "source": "Community Boards",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
