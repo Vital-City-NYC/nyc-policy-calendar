@@ -1,15 +1,15 @@
 {
- "generated": "2026-10-13T17:12:17.833Z",
+ "generated": "2026-10-14T00:46:03.427Z",
  "window": {
-  "start": "2026-09-29",
-  "end": "2027-11-17"
+  "start": "2026-09-30",
+  "end": "2027-11-18"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 69,
+   "count": 68,
    "ms": 2,
    "note": null
   },
@@ -17,144 +17,38 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 4,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 46,
-   "ms": 630,
+   "ms": 9,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 85,
-   "ms": 962,
+   "count": 84,
+   "ms": 1133,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 44,
+   "ms": 4240,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5819,
+   "ms": 5493,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "notable": 51,
-  "routine": 145,
+  "routine": 141,
   "major": 28,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-09-29",
-   "time": null,
-   "title": "Man in the Mirror, by Anand Giridharadas",
-   "note": "Reported narrative of the 2023 subway killing of Jordan Neely by Daniel Penny, and the failures on homelessness, mental illness and policing it exposed. (Knopf)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://www.penguinrandomhouse.com/books/747118/man-in-the-mirror-by-anand-giridharadas/",
-   "significance": 62,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-09-29",
-   "time": null,
-   "title": "September 29, 2026, Public Hearing Agenda",
-   "note": "Landmarks Preservation Commission · 253 Broadway",
-   "strand": "hearings",
-   "source": "Landmarks Preservation Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 34,
-   "why": [
-    "Landmarks Preservation Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-29",
-   "time": "1:00 PM",
-   "title": "Committee on Environmental Protection and Waterfronts",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22630&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22630_A_Committee_on_Environmental_Protection_and_Waterfronts_26-09-29_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-29",
-   "time": "1:00 PM",
-   "title": "Committee on Higher Education",
-   "note": "250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22670&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22670_A_Committee_on_Higher_Education_26-09-29_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-29",
-   "time": "1:00 PM",
-   "title": "Subcommittee on Early Childhood Education",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22703&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22703_A_Subcommittee_on_Early_Childhood_Education_26-09-29_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-29",
-   "time": "10:30 AM",
-   "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
-   "note": "* · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22625&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/9/22625_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-09-29_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-09-29",
-   "time": null,
-   "title": "North Shore Waterfront Plan DSOW Public Hearing",
-   "note": "Mayor's Office of Environmental Coordination",
-   "strand": "hearings",
-   "source": "Mayor's Office of Environmental Coordination",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-09-30",
    "time": null,
@@ -777,7 +671,7 @@
   },
   {
    "date": "2026-10-08",
-   "time": "1:25 PM",
+   "time": "1:30 PM",
    "title": "Stated meeting of the City Council",
    "note": "Council Chambers - City Hall",
    "strand": "hearings",
@@ -1205,6 +1099,20 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22772&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22772_A_Committee_on_Civil_Service_and_Labor_26-10-16_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-16",
+   "time": "10:00 AM",
+   "title": "Committee on Technology",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22795&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22795_A_Committee_on_Technology_26-10-16_Committee_Agenda.pdf",
    "significance": 22,
    "why": [],
    "live": true,
@@ -2524,6 +2432,38 @@
    ],
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "11:00 AM",
+   "title": "Committee on Finance",
+   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22796&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22796_A_Committee_on_Finance_26-11-19_Committee_Agenda.pdf",
+   "significance": 46,
+   "why": [
+    "high-salience committee",
+    "finance committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "notable"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "11:00 AM",
+   "title": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
+   "note": "250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22797&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22797_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-11-24_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-11-25",
