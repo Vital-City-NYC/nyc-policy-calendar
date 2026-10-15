@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T00:12:06.100Z",
+ "generated": "2026-10-15T14:30:25.386Z",
  "window": {
   "start": "2026-10-01",
   "end": "2027-11-19"
@@ -21,31 +21,31 @@
    "note": null
   },
   {
-   "name": "City Record",
-   "ok": true,
-   "count": 48,
-   "ms": 613,
-   "note": null
-  },
-  {
    "name": "City Council",
    "ok": true,
    "count": 76,
-   "ms": 1112,
+   "ms": 1328,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 50,
+   "ms": 1910,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 7984,
+   "ms": 8194,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 28,
   "notable": 50,
-  "routine": 136,
+  "routine": 138,
   "marquee": 5
  },
  "events": [
@@ -1277,6 +1277,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-10-21",
+   "time": null,
+   "title": "Wednesday, October 21, 2026 PUBLIC HEARING",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-10-22",
    "time": "1:30 PM",
    "title": "Stated meeting of the City Council",
@@ -2257,6 +2270,19 @@
    "anniversaryYears": 250,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2026-11-16",
+   "time": null,
+   "title": "Proposed Rule - Amendment of Rules relating to Natural Gas Alarms",
+   "note": "Buildings",
+   "strand": "hearings",
+   "source": "Buildings",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-11-17",
