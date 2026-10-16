@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T14:30:25.386Z",
+ "generated": "2026-10-15T23:59:30.285Z",
  "window": {
   "start": "2026-10-01",
   "end": "2027-11-19"
@@ -10,42 +10,42 @@
    "name": "Curated",
    "ok": true,
    "count": 66,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 7,
+   "ms": 8,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 76,
-   "ms": 1328,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 50,
-   "ms": 1910,
+   "count": 77,
+   "ms": 1241,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8194,
+   "ms": 9578,
    "note": "the Legislature is out of session"
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 50,
+   "ms": 22638,
+   "note": null
   }
  ],
  "counts": {
   "major": 28,
   "notable": 50,
-  "routine": 138,
+  "routine": 139,
   "marquee": 5
  },
  "events": [
@@ -1664,6 +1664,20 @@
     "high-salience committee",
     "joint committee hearing"
    ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-28",
+   "time": "1:00 PM",
+   "title": "Committee on General Welfare",
+   "note": "250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22803&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22803_A_Committee_on_General_Welfare_26-10-28_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
    "live": true,
    "tier": "routine"
   },
