@@ -1,192 +1,54 @@
 {
- "generated": "2026-10-15T23:59:30.285Z",
+ "generated": "2026-10-16T14:24:20.965Z",
  "window": {
-  "start": "2026-10-01",
-  "end": "2027-11-19"
+  "start": "2026-10-02",
+  "end": "2027-11-20"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 66,
-   "ms": 3,
+   "count": 60,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 8,
+   "ms": 6,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 51,
+   "ms": 699,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 77,
-   "ms": 1241,
+   "count": 76,
+   "ms": 892,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 9578,
+   "ms": 106412,
    "note": "the Legislature is out of session"
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 50,
-   "ms": 22638,
-   "note": null
   }
  ],
  "counts": {
-  "major": 28,
-  "notable": 50,
-  "routine": 139,
+  "routine": 136,
+  "notable": 48,
+  "major": 27,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-01",
-   "time": null,
-   "title": "New rent guidelines take effect",
-   "note": "Order 58 takes effect for leases beginning Oct. 1, 2026 through Sept. 30, 2027. The board adopted a rent freeze — 0% on both one- and two-year leases — delivering the central promise of Mamdani's campaign.",
-   "strand": "housing",
-   "source": "Curated",
-   "sourceUrl": "https://rentguidelinesboard.cityofnewyork.us/adopted-summary-of-guidelines-2026-27/",
-   "significance": 70,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "major"
-  },
-  {
-   "date": "2026-10-01",
-   "time": null,
-   "title": "Fair housing framework assessment due",
-   "note": "The first Fair Housing Framework needs assessment and five-year affordable housing production targets for all 59 community districts, required by Charter section 16-a. Published every five years beginning October 2026.",
-   "strand": "housing",
-   "source": "Curated",
-   "sourceUrl": "https://www.nyc.gov/site/hpd/services-and-information/expedited-housing.page",
-   "significance": 52,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-10-01",
-   "time": null,
-   "title": "The 12 lowest-producing community districts named",
-   "note": "City Planning publishes the list of the 12 community districts producing the least affordable housing. It comes from the affordable housing fast track voters approved in November 2025 (Charter section 197-f), not from City of Yes. Projects there get an expedited process starting Jan. 1, 2027.",
-   "strand": "housing",
-   "source": "Curated",
-   "sourceUrl": "https://www.nyc.gov/site/hpd/services-and-information/expedited-housing.page",
-   "significance": 50,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-10-01",
-   "time": null,
-   "title": "The People's Paper, by Matthew Pressman",
-   "note": "A history of the Daily News from its 1919 launch to its collapse, arguing tabloids were essential to an informed working-class public. Publisher gives the month only. (Columbia)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://cup.columbia.edu/book/the-peoples-paper/9780231221993/",
-   "significance": 44,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": true,
-   "live": false,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-01",
-   "time": null,
-   "title": "Beyond Common Ground, by Daniel P. Aldrich",
-   "note": "Argues parks and libraries outperform concrete for climate resilience, disaster recovery and crime reduction. Publisher gives the month only. (California)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://www.ucpress.edu/books/beyond-common-ground/paper",
-   "significance": 38,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": true,
-   "live": false,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-01",
-   "time": null,
-   "title": "Federal fiscal year 2027 begins",
-   "note": "Funded at 2026 levels by the stopgap through Dec. 11. The next shutdown risk falls then.",
-   "strand": "budget",
-   "source": "Curated",
-   "sourceUrl": null,
-   "significance": 36,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-01",
-   "time": "1:00 PM",
-   "title": "Committee on Land Use",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22702&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22702_A_Committee_on_Land_Use_26-10-01_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-01",
-   "time": null,
-   "title": "Dining Out NYC Public Hearings",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-01",
-   "time": null,
-   "title": "Shore Road Bridge over Hutchinson River Project",
-   "note": "Transportation · Address Not Listed In The Dropdown",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-05",
    "time": null,
@@ -1167,6 +1029,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-10-20",
+   "time": null,
+   "title": "Design Commission Meeting Agenda, Tuesday, October 20, 2026",
+   "note": "Public Design Commission · City Hall Park",
+   "strand": "hearings",
+   "source": "Public Design Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-10-21",
    "time": "1:00 PM",
    "title": "Committee on Land Use",
@@ -1473,6 +1348,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-10-26",
+   "time": null,
+   "title": "CITY OF NEW YORK AUDIT COMMITTEE MEETING",
+   "note": "Comptroller · 1 Centre Street",
+   "strand": "hearings",
+   "source": "Comptroller",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-10-27",
    "time": "10:00 AM",
    "title": "Committee on Criminal Justice",
@@ -1705,6 +1593,19 @@
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22789&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22789_A_Committee_on_Hospitals_26-10-28_Committee_Agenda.pdf",
    "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-28",
+   "time": null,
+   "title": "FOR LEASE - 105 East 106th Street & 104 East 107th Street",
+   "note": "Citywide Administrative Services",
+   "strand": "hearings",
+   "source": "Citywide Administrative Services",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
    "why": [],
    "live": true,
    "tier": "routine"
