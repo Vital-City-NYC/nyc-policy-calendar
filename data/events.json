@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-16T14:24:20.965Z",
+ "generated": "2026-10-17T00:04:23.056Z",
  "window": {
-  "start": "2026-10-02",
-  "end": "2027-11-20"
+  "start": "2026-10-03",
+  "end": "2027-11-21"
  },
  "corpusSize": 282,
  "sources": [
@@ -17,33 +17,33 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 6,
+   "ms": 7,
+   "note": null
+  },
+  {
+   "name": "City Council",
+   "ok": true,
+   "count": 82,
+   "ms": 905,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 51,
-   "ms": 699,
-   "note": null
-  },
-  {
-   "name": "City Council",
-   "ok": true,
-   "count": 76,
-   "ms": 892,
+   "ms": 989,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 106412,
+   "ms": 5321,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 136,
+  "routine": 142,
   "notable": 48,
   "major": 27,
   "marquee": 5
@@ -955,6 +955,38 @@
   {
    "date": "2026-10-20",
    "time": "10:00 AM",
+   "title": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22700&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22700_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-10-20_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-20",
+   "time": "11:00 AM",
+   "title": "Subcommittee on Zoning and Franchises",
+   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22701&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22701_A_Subcommittee_on_Zoning_and_Franchises_26-10-20_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-20",
+   "time": "10:00 AM",
    "title": "Committee on Economic Development",
    "note": "Jointly with the Committee on Transportation and Infrastructure. · Committee Room - City Hall",
    "strand": "hearings",
@@ -997,34 +1029,6 @@
    "why": [
     "joint committee hearing"
    ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "10:00 AM",
-   "title": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22700&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22700_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-10-20_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "11:00 AM",
-   "title": "Subcommittee on Zoning and Franchises",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22701&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22701_A_Subcommittee_on_Zoning_and_Franchises_26-10-20_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -1184,7 +1188,7 @@
    "date": "2026-10-22",
    "time": "10:00 AM",
    "title": "Committee on Finance",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "note": "VOTE* · Council Chambers - City Hall",
    "strand": "hearings",
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22774&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -1197,6 +1201,73 @@
    ],
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-10-22",
+   "time": "10:30 AM",
+   "title": "Committee on Criminal Justice",
+   "note": "VOTE* · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22807&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22807_A_Committee_on_Criminal_Justice_26-10-22_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-22",
+   "time": "10:15 AM",
+   "title": "Committee on Health",
+   "note": "VOTE* · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22801&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22801_A_Committee_on_Health_26-10-22_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-22",
+   "time": "10:45 AM",
+   "title": "Committee on Immigration",
+   "note": "VOTE* · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22806&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22806_A_Committee_on_Immigration_26-10-22_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-22",
+   "time": "10:00 AM",
+   "title": "Committee on Parks and Recreation",
+   "note": "VOTE* · Committee Room - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22800&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22800_A_Committee_on_Parks_and_Recreation_26-10-22_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-10-22",
@@ -1712,6 +1783,39 @@
    "significance": 38,
    "why": [
     "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-30",
+   "time": "1:00 PM",
+   "title": "Committee on Public Safety",
+   "note": "Jointly with the Committee on Governmental Operations, State & Federal Legislation. · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22809&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22809_A_Committee_on_Public_Safety_26-10-30_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-30",
+   "time": "1:00 PM",
+   "title": "Committee on Governmental Operations, State & Federal Legislation",
+   "note": "Jointly with the Committee on Public Safety · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22810&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22810_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-10-30_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
     "joint committee hearing"
    ],
    "live": true,
