@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T00:50:24.435Z",
+ "generated": "2026-10-20T14:32:42.312Z",
  "window": {
   "start": "2026-10-06",
   "end": "2027-11-24"
@@ -10,40 +10,40 @@
    "name": "Curated",
    "ok": true,
    "count": 60,
-   "ms": 4,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 9,
+   "ms": 8,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 52,
-   "ms": 699,
+   "count": 58,
+   "ms": 763,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 83,
-   "ms": 1102,
+   "count": 84,
+   "ms": 1319,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8289,
+   "ms": 6024,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 144,
+  "routine": 151,
   "notable": 48,
   "major": 27,
   "marquee": 5
@@ -1259,6 +1259,22 @@
   },
   {
    "date": "2026-10-22",
+   "time": "10:30 AM",
+   "title": "Committee on Cultural Affairs, Libraries and International Relations",
+   "note": "VOTE* · Committee Room - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22802&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22802_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-10-22_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-22",
    "time": "10:00 AM",
    "title": "Committee on Parks and Recreation",
    "note": "VOTE* · Committee Room - City Hall",
@@ -2393,6 +2409,45 @@
    "tier": "routine"
   },
   {
+   "date": "2026-11-17",
+   "time": null,
+   "title": "RICHMOND VALLEY ROAD",
+   "note": "Supreme Court · 360 Adams Street",
+   "strand": "hearings",
+   "source": "Supreme Court",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-18",
+   "time": null,
+   "title": "1678 Park Avenue",
+   "note": "Housing Preservation and Development",
+   "strand": "hearings",
+   "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-18",
+   "time": null,
+   "title": "1700 Park Ave",
+   "note": "Housing Preservation and Development",
+   "strand": "hearings",
+   "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-11-19",
    "time": "1:30 PM",
    "title": "Stated meeting of the City Council",
@@ -2425,6 +2480,45 @@
    ],
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-11-19",
+   "time": null,
+   "title": "DCWP NOH Rules Relating to Automated Customer Service Systems",
+   "note": "Consumer and Worker Protection",
+   "strand": "hearings",
+   "source": "Consumer and Worker Protection",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-20",
+   "time": null,
+   "title": "DSNY Proposed Rule Expanding Containerization Program",
+   "note": "Sanitation",
+   "strand": "hearings",
+   "source": "Sanitation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-23",
+   "time": null,
+   "title": "Bergen Green",
+   "note": "Housing Preservation and Development",
+   "strand": "hearings",
+   "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-11-24",
