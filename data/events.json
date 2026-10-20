@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-19T16:40:30.103Z",
+ "generated": "2026-10-20T00:50:24.435Z",
  "window": {
-  "start": "2026-10-05",
-  "end": "2027-11-23"
+  "start": "2026-10-06",
+  "end": "2027-11-24"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,7 +10,7 @@
    "name": "Curated",
    "ok": true,
    "count": 60,
-   "ms": 2,
+   "ms": 4,
    "note": null
   },
   {
@@ -21,76 +21,34 @@
    "note": null
   },
   {
-   "name": "City Council",
+   "name": "City Record",
    "ok": true,
-   "count": 84,
-   "ms": 1160,
+   "count": 52,
+   "ms": 699,
    "note": null
   },
   {
-   "name": "City Record",
+   "name": "City Council",
    "ok": true,
-   "count": 54,
-   "ms": 2985,
+   "count": 83,
+   "ms": 1102,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 7903,
+   "ms": 8289,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 147,
+  "routine": 144,
   "notable": 48,
   "major": 27,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-05",
-   "time": null,
-   "title": "Board of Standards and Appeals Public Hearing Notice",
-   "note": "Board of Standards and Appeals · 22 Reade Street",
-   "strand": "hearings",
-   "source": "Board of Standards and Appeals",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 30,
-   "why": [
-    "Board of Standards and Appeals sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-05",
-   "time": "11:00 AM",
-   "title": "Committee of the Whole",
-   "note": "Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22752&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22752_A_Committee_of_the_Whole_26-10-05_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-05",
-   "time": null,
-   "title": "Proposed Rule - Rule relating to Containment Netting",
-   "note": "Buildings",
-   "strand": "hearings",
-   "source": "Buildings",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-06",
    "time": "1:00 PM",
