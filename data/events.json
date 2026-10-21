@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T00:15:56.288Z",
+ "generated": "2026-10-21T14:43:53.339Z",
  "window": {
   "start": "2026-10-07",
   "end": "2027-11-25"
@@ -10,7 +10,7 @@
    "name": "Curated",
    "ok": true,
    "count": 59,
-   "ms": 3,
+   "ms": 2,
    "note": null
   },
   {
@@ -23,27 +23,27 @@
   {
    "name": "City Record",
    "ok": true,
-   "count": 57,
-   "ms": 660,
+   "count": 61,
+   "ms": 753,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 83,
-   "ms": 1019,
+   "ms": 1093,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5398,
+   "ms": 8119,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 148,
+  "routine": 152,
   "notable": 48,
   "major": 27,
   "marquee": 5
@@ -956,6 +956,36 @@
   },
   {
    "date": "2026-10-21",
+   "time": null,
+   "title": "Advisory Report for September 2026",
+   "note": "Landmarks Preservation Commission · 253 Broadway",
+   "strand": "hearings",
+   "source": "Landmarks Preservation Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Landmarks Preservation Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-21",
+   "time": null,
+   "title": "Binding Report for September 2026",
+   "note": "Landmarks Preservation Commission · 253 Broadway",
+   "strand": "hearings",
+   "source": "Landmarks Preservation Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Landmarks Preservation Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-21",
    "time": "10:00 AM",
    "title": "Committee on Housing and Buildings",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
@@ -1505,6 +1535,19 @@
    "note": "Board of Education Retirement System · 55 Water Street",
    "strand": "hearings",
    "source": "Board of Education Retirement System",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-27",
+   "time": null,
+   "title": "October 27, 2026 PUBLIC HEARING",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
@@ -2449,6 +2492,19 @@
    "date": "2026-11-23",
    "time": null,
    "title": "Bergen Green",
+   "note": "Housing Preservation and Development",
+   "strand": "hearings",
+   "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-23",
+   "time": null,
+   "title": "MEC B Center",
    "note": "Housing Preservation and Development",
    "strand": "hearings",
    "source": "Housing Preservation and Development",
