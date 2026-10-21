@@ -1,15 +1,15 @@
 {
- "generated": "2026-10-20T14:32:42.312Z",
+ "generated": "2026-10-21T00:15:56.288Z",
  "window": {
-  "start": "2026-10-06",
-  "end": "2027-11-24"
+  "start": "2026-10-07",
+  "end": "2027-11-25"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 60,
+   "count": 59,
    "ms": 3,
    "note": null
   },
@@ -17,134 +17,38 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 8,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 58,
-   "ms": 763,
+   "count": 57,
+   "ms": 660,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 84,
-   "ms": 1319,
+   "count": 83,
+   "ms": 1019,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6024,
+   "ms": 5398,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 151,
+  "routine": 148,
   "notable": 48,
   "major": 27,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-06",
-   "time": "1:00 PM",
-   "title": "Committee on Land Use",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22739&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22739_A_Committee_on_Land_Use_26-10-06_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-06",
-   "time": null,
-   "title": "OCTOBER 6, 2026, PUBLIC HEARING AGENDA",
-   "note": "Landmarks Preservation Commission · 253 Broadway",
-   "strand": "hearings",
-   "source": "Landmarks Preservation Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 34,
-   "why": [
-    "Landmarks Preservation Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-06",
-   "time": null,
-   "title": "Cities of Gods, by Jörg Rüpke",
-   "note": "How urbanization and religion have made and remade each other, from Mesopotamia to the modern metropolis. (Princeton)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://press.princeton.edu/isbn/9780691223735",
-   "significance": 30,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-06",
-   "time": "11:00 AM",
-   "title": "Subcommittee on Zoning and Franchises",
-   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22615&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22615_A_Subcommittee_on_Zoning_and_Franchises_26-10-06_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-06",
-   "time": "10:00 AM",
-   "title": "Committee on Fire and Emergency Management",
-   "note": "Jointly with the Committee on Hospitals. · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22694&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22694_A_Committee_on_Fire_and_Emergency_Management_26-10-06_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-06",
-   "time": "10:00 AM",
-   "title": "Committee on Hospitals",
-   "note": "Jointly with the Committee on Fire and Emergency Management · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22695&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22695_A_Committee_on_Hospitals_26-10-06_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-07",
    "time": "12:00 PM",
@@ -1035,6 +939,23 @@
   },
   {
    "date": "2026-10-21",
+   "time": "11:00 AM",
+   "title": "Subcommittee on Early Childhood Education",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22808&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22808_A_Subcommittee_on_Early_Childhood_Education_26-10-21_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-21",
    "time": "10:00 AM",
    "title": "Committee on Housing and Buildings",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
@@ -1208,6 +1129,23 @@
   },
   {
    "date": "2026-10-22",
+   "time": "9:00 AM",
+   "title": "Committee on Education",
+   "note": "VOTE* · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22817&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22817_A_Committee_on_Education_26-10-22_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-22",
    "time": "10:15 AM",
    "title": "Committee on Health",
    "note": "VOTE* · Council Chambers - City Hall",
@@ -1261,7 +1199,7 @@
    "date": "2026-10-22",
    "time": "10:30 AM",
    "title": "Committee on Cultural Affairs, Libraries and International Relations",
-   "note": "VOTE* · Committee Room - City Hall",
+   "note": "VOTE · Committee Room - City Hall",
    "strand": "hearings",
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22802&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -2742,6 +2680,20 @@
    ],
    "approx": true,
    "live": false,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "1:00 PM",
+   "title": "Committee on Cultural Affairs, Libraries and International Relations",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22813&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22813_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-12-15_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
    "tier": "routine"
   },
   {
