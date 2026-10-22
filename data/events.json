@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-21T14:43:53.339Z",
+ "generated": "2026-10-22T00:20:01.225Z",
  "window": {
-  "start": "2026-10-07",
-  "end": "2027-11-25"
+  "start": "2026-10-08",
+  "end": "2027-11-26"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,164 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 59,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 7,
+   "ms": 9,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 61,
-   "ms": 753,
+   "count": 59,
+   "ms": 846,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 83,
-   "ms": 1093,
+   "count": 78,
+   "ms": 1182,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8119,
+   "ms": 4879,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 152,
   "notable": 48,
+  "routine": 145,
   "major": 27,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-07",
-   "time": "12:00 PM",
-   "title": "Committee on Education",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22781&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22781_A_Committee_on_Education_26-10-07_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-07",
-   "time": "11:00 AM",
-   "title": "Committee on Land Use",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22616&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22616_A_Committee_on_Land_Use_26-10-07_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-07",
-   "time": "1:00 PM",
-   "title": "Subcommittee on Early Childhood Education",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22732&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22732_A_Subcommittee_on_Early_Childhood_Education_26-10-07_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-07",
-   "time": "11:00 AM",
-   "title": "Committee on Small Business",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22782&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22782_A_Committee_on_Small_Business_26-10-07_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-07",
-   "time": "10:00 AM",
-   "title": "Committee on Consumer and Worker Protection",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22681&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22681_A_Committee_on_Consumer_and_Worker_Protection_26-10-07_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-07",
-   "time": "10:00 AM",
-   "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
-   "note": "250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22771&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22771_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-10-07_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-07",
-   "time": null,
-   "title": "NYC Workforce Development Board Quarterly Meeting",
-   "note": "NYC Workforce Development Board · 1 Liberty Plaza",
-   "strand": "hearings",
-   "source": "NYC Workforce Development Board",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-07",
-   "time": null,
-   "title": "Shore Road Bridge over Hutchinson River Project",
-   "note": "Transportation · Address Not Listed In The Dropdown",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-08",
    "time": "1:30 PM",
@@ -1259,6 +1140,20 @@
   },
   {
    "date": "2026-10-22",
+   "time": "9:30 AM",
+   "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "note": "Committee Room - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22792&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22792_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-10-22_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-22",
    "time": null,
    "title": "Board of Education Retirement System Board of Trustees Meeting",
    "note": "Board of Education Retirement System · 55 Water Street",
@@ -1730,7 +1625,7 @@
   },
   {
    "date": "2026-10-29",
-   "time": "1:00 PM",
+   "time": "2:00 PM",
    "title": "Committee on Contracts",
    "note": "250 Broadway - 8th Floor - Hearing Room 2",
    "strand": "hearings",
