@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T00:20:01.225Z",
+ "generated": "2026-10-22T14:44:04.305Z",
  "window": {
   "start": "2026-10-08",
   "end": "2027-11-26"
@@ -10,41 +10,41 @@
    "name": "Curated",
    "ok": true,
    "count": 59,
-   "ms": 3,
+   "ms": 1,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 9,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 59,
-   "ms": 846,
+   "ms": 4,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 78,
-   "ms": 1182,
+   "ms": 1250,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 61,
+   "ms": 2335,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4879,
+   "ms": 8928,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "notable": 48,
-  "routine": 145,
+  "routine": 147,
   "major": 27,
   "marquee": 5
  },
@@ -1142,13 +1142,15 @@
    "date": "2026-10-22",
    "time": "9:30 AM",
    "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
-   "note": "Committee Room - City Hall",
+   "note": "VOTE · Committee Room - City Hall",
    "strand": "hearings",
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22792&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22792_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-10-22_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
    "live": true,
    "tier": "routine"
   },
@@ -1584,6 +1586,32 @@
    "note": "Citywide Administrative Services",
    "strand": "hearings",
    "source": "Citywide Administrative Services",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-28",
+   "time": null,
+   "title": "NYC WORKFORCE DEVELOPMENT BOARD EXECUTIVE COMMITTEE MEETING",
+   "note": "NYC Workforce Development Board · 1 Liberty Plaza",
+   "strand": "hearings",
+   "source": "NYC Workforce Development Board",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-28",
+   "time": null,
+   "title": "October 28, 2026 Public Hearing",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
