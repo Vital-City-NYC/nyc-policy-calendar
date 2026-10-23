@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T00:16:37.260Z",
+ "generated": "2026-10-23T14:30:17.311Z",
  "window": {
   "start": "2026-10-09",
   "end": "2027-11-27"
@@ -23,27 +23,27 @@
   {
    "name": "City Record",
    "ok": true,
-   "count": 60,
-   "ms": 738,
+   "count": 64,
+   "ms": 301,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 74,
-   "ms": 1068,
+   "ms": 900,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5953,
+   "ms": 4725,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 144,
+  "routine": 148,
   "major": 27,
   "notable": 46,
   "marquee": 5
@@ -1127,6 +1127,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-10-23",
+   "time": null,
+   "title": "Notice of Joint Public Hearing: 11/9/2026; for the Renovation, Operation and Maintenance of two (2) Parking Facilities at Maimonides Park, Coney Island, Brooklyn (Solicitation # B369-PL1,B369-PL2)",
+   "note": "Parks and Recreation · 255 Greenwich Street",
+   "strand": "hearings",
+   "source": "Parks and Recreation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-10-24",
    "time": null,
    "title": "Voter registration deadline",
@@ -1985,6 +1998,19 @@
   {
    "date": "2026-11-09",
    "time": null,
+   "title": "Notice of Joint Public Hearing: 11/9/2026; for the Installation, Operation and Management of an Outdoor Holiday Gift Market at Union Square Park, Manhattan (Solicitation # M89-AS-2025)",
+   "note": "Parks and Recreation · 255 Greenwich Street",
+   "strand": "hearings",
+   "source": "Parks and Recreation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-09",
+   "time": null,
    "title": "Notice of Public Hearing and Opportunity to Comment on Proposed Rules relating to amendments for the Dining Out NYC program",
    "note": "Transportation",
    "strand": "hearings",
@@ -2127,6 +2153,19 @@
    ],
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-11-12",
+   "time": null,
+   "title": "DINING OUT NYC PUBLIC HEARINGS",
+   "note": "Transportation",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-11-15",
@@ -2367,6 +2406,19 @@
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22797&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22797_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-11-24_Committee_Agenda.pdf",
    "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-24",
+   "time": null,
+   "title": "CECM-SAPO PROPOSED EXTENSION OF STREET FAIR MORATORIUM",
+   "note": "Office of the Mayor",
+   "strand": "hearings",
+   "source": "Office of the Mayor",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
    "why": [],
    "live": true,
    "tier": "routine"
