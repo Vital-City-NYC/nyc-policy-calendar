@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T14:44:04.305Z",
+ "generated": "2026-10-23T00:16:37.260Z",
  "window": {
-  "start": "2026-10-08",
-  "end": "2027-11-26"
+  "start": "2026-10-09",
+  "end": "2027-11-27"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,125 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 59,
-   "ms": 1,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 4,
-   "note": null
-  },
-  {
-   "name": "City Council",
-   "ok": true,
-   "count": 78,
-   "ms": 1250,
+   "ms": 8,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 61,
-   "ms": 2335,
+   "count": 60,
+   "ms": 738,
+   "note": null
+  },
+  {
+   "name": "City Council",
+   "ok": true,
+   "count": 74,
+   "ms": 1068,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8928,
+   "ms": 5953,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "notable": 48,
-  "routine": 147,
+  "routine": 144,
   "major": 27,
+  "notable": 46,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-08",
-   "time": "1:30 PM",
-   "title": "Stated meeting of the City Council",
-   "note": "Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22788&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22788_A_City_Council_26-10-08_Committee_Agenda.pdf",
-   "significance": 50,
-   "why": [
-    "stated meeting of the full Council"
-   ],
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-10-08",
-   "time": "11:30 AM",
-   "title": "Committee on Finance",
-   "note": "VOTE* · Committee Room - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22757&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22757_A_Committee_on_Finance_26-10-08_Committee_Agenda.pdf",
-   "significance": 46,
-   "why": [
-    "high-salience committee",
-    "finance committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-10-08",
-   "time": "10:45 AM",
-   "title": "Committee on Public Safety",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22778&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22778_A_Committee_on_Public_Safety_26-10-08_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-08",
-   "time": "10:00 AM",
-   "title": "Committee on Cultural Affairs, Libraries and International Relations",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22777&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22777_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-10-08_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-08",
-   "time": null,
-   "title": "Public Notice of Availability and Notice of Public Hearing",
-   "note": "Management and Budget · 120 Broadway",
-   "strand": "hearings",
-   "source": "Management and Budget",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-09",
    "time": null,
@@ -994,8 +914,8 @@
    "note": "Council Chambers - City Hall",
    "strand": "hearings",
    "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22543&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22543_A_City_Council_26-10-22_Committee_Agenda.pdf",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22812&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22812_A_City_Council_26-10-22_Committee_Agenda.pdf",
    "significance": 50,
    "why": [
     "stated meeting of the full Council"
