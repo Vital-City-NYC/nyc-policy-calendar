@@ -1,70 +1,54 @@
 {
- "generated": "2026-10-23T14:30:17.311Z",
+ "generated": "2026-10-24T00:10:03.243Z",
  "window": {
-  "start": "2026-10-09",
-  "end": "2027-11-27"
+  "start": "2026-10-10",
+  "end": "2027-11-28"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 59,
-   "ms": 3,
+   "count": 58,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 8,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 64,
-   "ms": 301,
+   "ms": 302,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 74,
-   "ms": 900,
+   "ms": 843,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4725,
+   "ms": 5032,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 148,
+  "routine": 147,
   "major": 27,
   "notable": 46,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-09",
-   "time": null,
-   "title": "Manhattan DA answers Mangione's double jeopardy claim",
-   "note": "The district attorney's response is due in the state murder case, which Judge Gregory Carro postponed indefinitely on Aug. 17 while the double jeopardy fight plays out.",
-   "strand": "city-life",
-   "source": "Curated",
-   "sourceUrl": "https://www.pbs.org/newshour/nation/luigi-mangiones-state-murder-trial-postponed-indefinitely-as-double-jeopardy-fight-plays-out",
-   "significance": 40,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-12",
    "time": null,
