@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-25T23:41:38.193Z",
+ "generated": "2026-10-26T16:20:34.019Z",
  "window": {
-  "start": "2026-10-11",
-  "end": "2027-11-29"
+  "start": "2026-10-12",
+  "end": "2027-11-30"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,7 +10,7 @@
    "name": "Curated",
    "ok": true,
    "count": 58,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
@@ -21,29 +21,29 @@
    "note": null
   },
   {
-   "name": "City Record",
-   "ok": true,
-   "count": 64,
-   "ms": 486,
-   "note": null
-  },
-  {
    "name": "City Council",
    "ok": true,
-   "count": 74,
-   "ms": 874,
+   "count": 75,
+   "ms": 818,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5742,
+   "ms": 5148,
    "note": "the Legislature is out of session"
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 66,
+   "ms": 5309,
+   "note": null
   }
  ],
  "counts": {
-  "routine": 147,
+  "routine": 150,
   "major": 27,
   "notable": 46,
   "marquee": 5
@@ -1536,6 +1536,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-10-28",
+   "time": null,
+   "title": "OCTOBER 28, 2026 PUBLIC HEARING",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-10-29",
    "time": "1:00 PM",
    "title": "Subcommittee on Early Childhood Education",
@@ -2039,6 +2052,21 @@
   },
   {
    "date": "2026-11-10",
+   "time": null,
+   "title": "November 10, 2026, Public Hearing Agenda CR",
+   "note": "Landmarks Preservation Commission · 253 Broadway",
+   "strand": "hearings",
+   "source": "Landmarks Preservation Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Landmarks Preservation Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-10",
    "time": "12:00 PM",
    "title": "Committee on Land Use",
    "note": "250 Broadway - 8th Floor - Hearing Room 3",
@@ -2338,6 +2366,22 @@
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "10:00 AM",
+   "title": "Committee on Immigration",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22819&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22819_A_Committee_on_Immigration_26-11-20_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
    "live": true,
    "tier": "routine"
   },
