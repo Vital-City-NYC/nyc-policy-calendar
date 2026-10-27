@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T01:00:54.065Z",
+ "generated": "2026-10-27T15:35:02.679Z",
  "window": {
   "start": "2026-10-13",
   "end": "2027-12-01"
@@ -10,40 +10,40 @@
    "name": "Curated",
    "ok": true,
    "count": 57,
-   "ms": 4,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 10,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 82,
-   "ms": 781,
+   "count": 83,
+   "ms": 821,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 69,
+   "ms": 909,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4847,
+   "ms": 5275,
    "note": "the Legislature is out of session"
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 66,
-   "ms": 5251,
-   "note": null
   }
  ],
  "counts": {
-  "routine": 156,
+  "routine": 160,
   "major": 27,
   "notable": 46,
   "marquee": 5
@@ -1252,6 +1252,21 @@
   },
   {
    "date": "2026-10-27",
+   "time": null,
+   "title": "Bronx CB7 FY2028 Statement of Needs and Budget Requests.",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 28,
+   "why": [
+    "subject matter of broad public interest"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-27",
    "time": "10:00 AM",
    "title": "Committee on Aging",
    "note": "Jointly with the Committee on Public Housing. · 250 Broadway - 8th Floor - Hearing Room 1",
@@ -1567,6 +1582,21 @@
   },
   {
    "date": "2026-10-29",
+   "time": null,
+   "title": "Fordham Landing South Rezoning (ULURP Number: C260173ZMX)",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 28,
+   "why": [
+    "subject matter of broad public interest"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-10-29",
    "time": "2:00 PM",
    "title": "Committee on Contracts",
    "note": "250 Broadway - 8th Floor - Hearing Room 2",
@@ -1790,6 +1820,19 @@
    "why": [
     "Health and Mental Hygiene sets policy the public feels directly"
    ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-02",
+   "time": null,
+   "title": "November 2, 2026 Public Hearing",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -2344,6 +2387,22 @@
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "1:00 PM",
+   "title": "Committee on Education",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22793&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22793_A_Committee_on_Education_26-11-18_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
    "live": true,
    "tier": "routine"
   },
