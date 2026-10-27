@@ -1,70 +1,54 @@
 {
- "generated": "2026-10-26T16:20:34.019Z",
+ "generated": "2026-10-27T01:00:54.065Z",
  "window": {
-  "start": "2026-10-12",
-  "end": "2027-11-30"
+  "start": "2026-10-13",
+  "end": "2027-12-01"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 58,
-   "ms": 3,
+   "count": 57,
+   "ms": 4,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 7,
+   "ms": 10,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 75,
-   "ms": 818,
+   "count": 82,
+   "ms": 781,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5148,
+   "ms": 4847,
    "note": "the Legislature is out of session"
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 66,
-   "ms": 5309,
+   "ms": 5251,
    "note": null
   }
  ],
  "counts": {
-  "routine": 150,
+  "routine": 156,
   "major": 27,
   "notable": 46,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-12",
-   "time": null,
-   "title": "Columbus Day / Indigenous Peoples' Day",
-   "note": "A public holiday. City offices are closed, no hearings sit and alternate side parking is suspended.",
-   "strand": "holidays",
-   "source": "Curated",
-   "sourceUrl": null,
-   "significance": 44,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-13",
    "time": null,
@@ -2215,6 +2199,38 @@
   },
   {
    "date": "2026-11-16",
+   "time": "1:00 PM",
+   "title": "Committee on Aging",
+   "note": "Jointly with the Committee on General Welfare · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22821&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22821_A_Committee_on_Aging_26-11-16_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-16",
+   "time": "1:00 PM",
+   "title": "Committee on General Welfare",
+   "note": "Jointly with the Committee on Aging. · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22822&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22822_A_Committee_on_General_Welfare_26-11-16_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-16",
    "time": null,
    "title": "Proposed Rule - Amendment of Rules relating to Natural Gas Alarms",
    "note": "Buildings",
@@ -2223,6 +2239,41 @@
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "11:00 AM",
+   "title": "Committee on Finance",
+   "note": "Jointly with the Committee on Housing and Buildings · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22823&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22823_A_Committee_on_Finance_26-11-17_Committee_Agenda.pdf",
+   "significance": 44,
+   "why": [
+    "high-salience committee",
+    "finance committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "11:00 AM",
+   "title": "Committee on Housing and Buildings",
+   "note": "Jointly with the Committee on Finance. · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22820&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22820_A_Committee_on_Housing_and_Buildings_26-11-17_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
    "live": true,
    "tier": "routine"
   },
@@ -2498,6 +2549,56 @@
    "approx": false,
    "live": false,
    "tier": "notable"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "10:00 AM",
+   "title": "Committee on Health",
+   "note": "Jointly with the Committee on Immigration and the Committee on Women and Gender Equity · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22825&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22825_A_Committee_on_Health_26-11-30_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "10:00 AM",
+   "title": "Committee on Immigration",
+   "note": "Jointly with the Committee on Health and the Committee on Women and Gender Equity. · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22824&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22824_A_Committee_on_Immigration_26-11-30_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "10:00 AM",
+   "title": "Committee on Women and Gender Equity",
+   "note": "Jointly with the Committee on Immigration and the Committee on Health · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22826&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22826_A_Committee_on_Women_and_Gender_Equity_26-11-30_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-12-01",
