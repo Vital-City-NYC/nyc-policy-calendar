@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T00:50:40.749Z",
+ "generated": "2026-10-28T16:18:59.447Z",
  "window": {
   "start": "2026-10-14",
   "end": "2027-12-02"
@@ -10,40 +10,40 @@
    "name": "Curated",
    "ok": true,
    "count": 57,
-   "ms": 3,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 6,
+   "ms": 5,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 68,
-   "ms": 846,
+   "count": 69,
+   "ms": 551,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 83,
-   "ms": 1602,
+   "count": 84,
+   "ms": 1025,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8570,
+   "ms": 8608,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 159,
+  "routine": 161,
   "major": 27,
   "notable": 46,
   "marquee": 5
@@ -2125,6 +2125,19 @@
   {
    "date": "2026-11-10",
    "time": null,
+   "title": "A Voluntary Public Hearing relating to an acquisition, pursuant to New York State General Municipal Law Section 72-h, of a portion of 10th Avenue located in the Borough of Manhattan between Gansevoort Street and Little West 12th Street.",
+   "note": "Citywide Administrative Services",
+   "strand": "hearings",
+   "source": "Citywide Administrative Services",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-10",
+   "time": null,
    "title": "Draft Scope of Work for an Environmental Impact Statement (EIS) Brooklyn-Queens Expressway/Interstate 278 (\u001aBQE\u001a) from Atlantic Avenue to Nassau Street Project (BQE Central Project), Kings County (Brooklyn), New York",
    "note": "Transportation · Address Not Listed In The Dropdown",
    "strand": "hearings",
@@ -2676,6 +2689,22 @@
    ],
    "approx": false,
    "live": false,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "1:00 PM",
+   "title": "Subcommittee on Early Childhood Education",
+   "note": "250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22828&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22828_A_Subcommittee_on_Early_Childhood_Education_26-12-02_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
+   "live": true,
    "tier": "routine"
   },
   {
