@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27T15:35:02.679Z",
+ "generated": "2026-10-28T00:50:40.749Z",
  "window": {
-  "start": "2026-10-13",
-  "end": "2027-12-01"
+  "start": "2026-10-14",
+  "end": "2027-12-02"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,58 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 57,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 7,
+   "ms": 6,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 68,
+   "ms": 846,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 83,
-   "ms": 821,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 69,
-   "ms": 909,
+   "ms": 1602,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5275,
+   "ms": 8570,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 160,
+  "routine": 159,
   "major": 27,
   "notable": 46,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-13",
-   "time": null,
-   "title": "Intent to award as a concession License Agreement to Summerville Enterprises, Inc.",
-   "note": "Transportation · 255 Greenwich Street",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-14",
    "time": null,
@@ -1317,7 +1304,7 @@
    "date": "2026-10-27",
    "time": "1:00 PM",
    "title": "Committee on Children and Youth",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "note": "Council Chambers - City Hall",
    "strand": "hearings",
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22763&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
