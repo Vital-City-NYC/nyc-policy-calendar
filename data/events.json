@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T01:27:54.658Z",
+ "generated": "2026-10-30T16:19:42.087Z",
  "window": {
   "start": "2026-10-16",
   "end": "2027-12-04"
@@ -17,34 +17,34 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 7,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 60,
-   "ms": 614,
+   "ms": 8,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 78,
-   "ms": 1071,
+   "ms": 1182,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 66,
+   "ms": 4320,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8070,
+   "ms": 9023,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 27,
-  "routine": 145,
+  "routine": 151,
   "notable": 47,
   "marquee": 5
  },
@@ -1892,6 +1892,32 @@
   {
    "date": "2026-11-10",
    "time": null,
+   "title": "FOR LEASE - 31 - 00 47th Avenue",
+   "note": "Citywide Administrative Services",
+   "strand": "hearings",
+   "source": "Citywide Administrative Services",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-10",
+   "time": null,
+   "title": "FOR LEASE - 88 -11 165th Street",
+   "note": "Citywide Administrative Services",
+   "strand": "hearings",
+   "source": "Citywide Administrative Services",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-10",
+   "time": null,
    "title": "Notice of a Public Hearing in the matter of DCAS consenting to a proposed option to renew a lease in the borough of Manhattan.",
    "note": "Citywide Administrative Services",
    "strand": "hearings",
@@ -1942,7 +1968,7 @@
    "strand": "hearings",
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22835&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": null,
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22835_A_Committee_on_Finance_26-11-12_Committee_Agenda.pdf",
    "significance": 46,
    "why": [
     "high-salience committee",
@@ -2095,6 +2121,21 @@
   {
    "date": "2026-11-17",
    "time": null,
+   "title": "November 17, 2026, Public Hearing Agenda",
+   "note": "Landmarks Preservation Commission · 253 Broadway",
+   "strand": "hearings",
+   "source": "Landmarks Preservation Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Landmarks Preservation Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-17",
+   "time": null,
    "title": "The Landmarks Preservation Commission is proposing to amend the various rules relating to staff approval for work on designated properties.",
    "note": "Landmarks Preservation Commission · 253 Broadway",
    "strand": "hearings",
@@ -2237,7 +2278,7 @@
    "date": "2026-11-19",
    "time": "11:00 AM",
    "title": "Committee on Finance",
-   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 1",
+   "note": "VOTE · Committee Room - City Hall",
    "strand": "hearings",
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22796&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -2258,6 +2299,19 @@
    "note": "Consumer and Worker Protection",
    "strand": "hearings",
    "source": "Consumer and Worker Protection",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-19",
+   "time": null,
+   "title": "Dining Out NYC Public Hearings",
+   "note": "Transportation",
+   "strand": "hearings",
+   "source": "Transportation",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
@@ -2478,6 +2532,21 @@
   },
   {
    "date": "2026-12-02",
+   "time": null,
+   "title": "City Environmental Quality Review Fee Update Rulemaking",
+   "note": "City Planning Commission · 120 Broadway",
+   "strand": "hearings",
+   "source": "City Planning Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 38,
+   "why": [
+    "City Planning Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-02",
    "time": "1:00 PM",
    "title": "Subcommittee on Early Childhood Education",
    "note": "250 Broadway - 8th Floor - Hearing Room 2",
@@ -2667,6 +2736,19 @@
    "approx": false,
    "live": false,
    "tier": "notable"
+  },
+  {
+   "date": "2026-12-18",
+   "time": null,
+   "title": "DCWP Automated Customer Service Comment Extension",
+   "note": "Consumer and Worker Protection",
+   "strand": "hearings",
+   "source": "Consumer and Worker Protection",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-12-25",
