@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-29T16:29:06.031Z",
+ "generated": "2026-10-30T01:27:54.658Z",
  "window": {
-  "start": "2026-10-15",
-  "end": "2027-12-03"
+  "start": "2026-10-16",
+  "end": "2027-12-04"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,174 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 57,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 29,
-   "ms": 5,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 65,
-   "ms": 531,
+   "count": 60,
+   "ms": 614,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 81,
-   "ms": 996,
+   "count": 78,
+   "ms": 1071,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5661,
+   "ms": 8070,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 154,
   "major": 27,
-  "notable": 46,
+  "routine": 145,
+  "notable": 47,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-15",
-   "time": "1:00 PM",
-   "title": "Committee on Education",
-   "note": "Jointly with the Committee on Higher Education · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22722&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22722_A_Committee_on_Education_26-10-15_Committee_Agenda.pdf",
-   "significance": 38,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-15",
-   "time": "1:00 PM",
-   "title": "Committee on Higher Education",
-   "note": "Jointly with the Committee on Education. · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22721&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22721_A_Committee_on_Higher_Education_26-10-15_Committee_Agenda.pdf",
-   "significance": 38,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-15",
-   "time": "1:00 PM",
-   "title": "Committee on Sanitation and Solid Waste Management",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22756&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22756_A_Committee_on_Sanitation_and_Solid_Waste_Management_26-10-15_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-15",
-   "time": "10:00 AM",
-   "title": "Committee on Workforce Development",
-   "note": "250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22718&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22718_A_Committee_on_Workforce_Development_26-10-15_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-15",
-   "time": null,
-   "title": "Corrected Ad El Barrio",
-   "note": "Housing Preservation and Development",
-   "strand": "hearings",
-   "source": "Housing Preservation and Development",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-15",
-   "time": null,
-   "title": "Dining Out NYC Public Hearings",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-15",
-   "time": null,
-   "title": "El Barrio",
-   "note": "Housing Preservation and Development",
-   "strand": "hearings",
-   "source": "Housing Preservation and Development",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-15",
-   "time": null,
-   "title": "Public Notice LUPH",
-   "note": "Borough President - Queens · 120-55 Queens Boulevard",
-   "strand": "hearings",
-   "source": "Borough President - Queens",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-15",
-   "time": null,
-   "title": "Teachers\u001a Retirement System of the City of New York Monthly Board Meeting",
-   "note": "Teachers' Retirement System · 55 Water Street",
-   "strand": "hearings",
-   "source": "Teachers' Retirement System",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-16",
    "time": null,
@@ -2059,6 +1930,24 @@
    "significance": 50,
    "why": [
     "stated meeting of the full Council"
+   ],
+   "live": true,
+   "tier": "notable"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "11:00 AM",
+   "title": "Committee on Finance",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22835&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": null,
+   "significance": 46,
+   "why": [
+    "high-salience committee",
+    "finance committee",
+    "a vote is scheduled"
    ],
    "live": true,
    "tier": "notable"
