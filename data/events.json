@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T01:16:49.931Z",
+ "generated": "2026-10-31T15:31:33.604Z",
  "window": {
   "start": "2026-10-17",
   "end": "2027-12-05"
@@ -10,35 +10,35 @@
    "name": "Curated",
    "ok": true,
    "count": 57,
-   "ms": 1,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 4,
-   "note": null
-  },
-  {
-   "name": "City Council",
-   "ok": true,
-   "count": 74,
-   "ms": 916,
+   "ms": 8,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 66,
-   "ms": 1717,
+   "ms": 440,
+   "note": null
+  },
+  {
+   "name": "City Council",
+   "ok": true,
+   "count": 74,
+   "ms": 978,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5571,
+   "ms": 5100,
    "note": "the Legislature is out of session"
   }
  ],
@@ -2043,7 +2043,7 @@
   {
    "date": "2026-11-17",
    "time": null,
-   "title": "November 17, 2026, Public Hearing Agenda",
+   "title": "Correction: November 17, 2026, Public Hearing Agenda",
    "note": "Landmarks Preservation Commission · 253 Broadway",
    "strand": "hearings",
    "source": "Landmarks Preservation Commission",
