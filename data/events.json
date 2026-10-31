@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T16:19:42.087Z",
+ "generated": "2026-10-31T01:16:49.931Z",
  "window": {
-  "start": "2026-10-16",
-  "end": "2027-12-04"
+  "start": "2026-10-17",
+  "end": "2027-12-05"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,123 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 57,
-   "ms": 3,
+   "ms": 1,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 29,
-   "ms": 8,
+   "count": 28,
+   "ms": 4,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 78,
-   "ms": 1182,
+   "count": 74,
+   "ms": 916,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 66,
-   "ms": 4320,
+   "ms": 1717,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 9023,
+   "ms": 5571,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 27,
-  "routine": 151,
+  "routine": 147,
   "notable": 47,
+  "major": 26,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-16",
-   "time": null,
-   "title": "Sanger opens first US birth control clinic — 110th anniversary",
-   "note": "Margaret Sanger opened the country's first birth control clinic in the Brownsville section of Brooklyn.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.loc.gov/item/today-in-history/october-16/",
-   "significance": 74,
-   "importance": 4,
-   "why": [
-    "110th anniversary"
-   ],
-   "historyYear": 1916,
-   "anniversaryYears": 110,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2026-10-16",
-   "time": "10:00 AM",
-   "title": "Committee on Civil and Human Rights",
-   "note": "Jointly with the Committee on Disabilities · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22780&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22780_A_Committee_on_Civil_and_Human_Rights_26-10-16_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-16",
-   "time": "10:00 AM",
-   "title": "Committee on Disabilities",
-   "note": "Jointly with the Committee on Civil and Human Rights. · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22779&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22779_A_Committee_on_Disabilities_26-10-16_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-16",
-   "time": "10:00 AM",
-   "title": "Committee on Civil Service and Labor",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22772&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22772_A_Committee_on_Civil_Service_and_Labor_26-10-16_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-16",
-   "time": "10:00 AM",
-   "title": "Committee on Technology",
-   "note": "Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22795&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22795_A_Committee_on_Technology_26-10-16_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-19",
    "time": "10:00 AM",
