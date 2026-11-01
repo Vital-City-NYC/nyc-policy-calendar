@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T00:34:45.766Z",
+ "generated": "2026-11-01T16:29:42.020Z",
  "window": {
   "start": "2026-10-18",
   "end": "2027-12-06"
@@ -10,35 +10,35 @@
    "name": "Curated",
    "ok": true,
    "count": 57,
-   "ms": 3,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 7,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 66,
-   "ms": 344,
+   "ms": 388,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 74,
-   "ms": 861,
+   "ms": 958,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4888,
+   "ms": 5815,
    "note": "the Legislature is out of session"
   }
  ],
