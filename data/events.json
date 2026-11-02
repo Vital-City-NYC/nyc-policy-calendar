@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T01:08:29.918Z",
+ "generated": "2026-11-02T19:51:50.979Z",
  "window": {
   "start": "2026-10-19",
   "end": "2027-12-07"
@@ -17,33 +17,33 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 7,
+   "ms": 9,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 66,
-   "ms": 480,
+   "count": 68,
+   "ms": 810,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 74,
-   "ms": 896,
+   "count": 78,
+   "ms": 1119,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4678,
+   "ms": 6404,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 147,
+  "routine": 153,
   "notable": 47,
   "major": 26,
   "marquee": 5
@@ -1801,6 +1801,19 @@
   {
    "date": "2026-11-10",
    "time": null,
+   "title": "Board of Education Retirement System",
+   "note": "Board of Education Retirement System · 55 Water Street",
+   "strand": "hearings",
+   "source": "Board of Education Retirement System",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-10",
+   "time": null,
    "title": "Draft Scope of Work for an Environmental Impact Statement (EIS) Brooklyn-Queens Expressway/Interstate 278 (\u001aBQE\u001a) from Atlantic Avenue to Nassau Street Project (BQE Central Project), Kings County (Brooklyn), New York",
    "note": "Transportation · Address Not Listed In The Dropdown",
    "strand": "hearings",
@@ -2122,6 +2135,21 @@
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-18",
+   "time": null,
+   "title": "City Planning Commission Public Hearing",
+   "note": "City Planning Commission · 120 Broadway",
+   "strand": "hearings",
+   "source": "City Planning Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 38,
+   "why": [
+    "City Planning Commission sets policy the public feels directly"
+   ],
    "live": true,
    "tier": "routine"
   },
@@ -2516,6 +2544,20 @@
    "tier": "notable"
   },
   {
+   "date": "2026-12-08",
+   "time": "10:00 AM",
+   "title": "Subcommittee on Zoning and Franchises",
+   "note": "250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22837&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22837_A_Subcommittee_on_Zoning_and_Franchises_26-12-08_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-12-10",
    "time": null,
    "title": "Hearing on Mangione's double jeopardy claim",
@@ -2564,6 +2606,38 @@
    "anniversaryYears": 80,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "1:00 PM",
+   "title": "Committee on Aging",
+   "note": "Jointly with the Committee on General Welfare · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22833&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22833_A_Committee_on_Aging_26-12-14_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "1:00 PM",
+   "title": "Committee on General Welfare",
+   "note": "Jointly with the Committee on Aging. · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22832&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22832_A_Committee_on_General_Welfare_26-12-14_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-12-15",
@@ -2815,6 +2889,20 @@
    "approx": true,
    "live": false,
    "tier": "notable"
+  },
+  {
+   "date": "2027-01-07",
+   "time": "10:00 AM",
+   "title": "Subcommittee on Zoning and Franchises",
+   "note": "250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22838&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2027/1/22838_A_Subcommittee_on_Zoning_and_Franchises_27-01-07_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2027-01-12",
