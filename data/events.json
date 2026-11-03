@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-02T19:51:50.979Z",
+ "generated": "2026-11-03T03:12:23.295Z",
  "window": {
-  "start": "2026-10-19",
-  "end": "2027-12-07"
+  "start": "2026-10-20",
+  "end": "2027-12-08"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,132 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 57,
-   "ms": 3,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 9,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 68,
-   "ms": 810,
+   "count": 65,
+   "ms": 632,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 78,
-   "ms": 1119,
+   "count": 79,
+   "ms": 931,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6404,
+   "ms": 5642,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 153,
+  "routine": 151,
   "notable": 47,
   "major": 26,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-19",
-   "time": "10:00 AM",
-   "title": "Committee on Criminal Justice",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22710&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22710_A_Committee_on_Criminal_Justice_26-10-19_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-19",
-   "time": "10:00 AM",
-   "title": "Committee on Health",
-   "note": "250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22766&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22766_A_Committee_on_Health_26-10-19_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-19",
-   "time": null,
-   "title": "Board of Standards and Appeals Public Hearing Notice",
-   "note": "Board of Standards and Appeals · 22 Reade Street",
-   "strand": "hearings",
-   "source": "Board of Standards and Appeals",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 30,
-   "why": [
-    "Board of Standards and Appeals sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-19",
-   "time": "1:00 PM",
-   "title": "Committee on Cultural Affairs, Libraries and International Relations",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22723&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22723_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-10-19_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-19",
-   "time": null,
-   "title": "Notice of Public Hearing and Opportunity to Comment on Proposed Amendments to Chapter 12 of Title 68 of the Rules of the City of New York Regarding the Fair Fares NYC Program",
-   "note": "Human Resources Administration",
-   "strand": "hearings",
-   "source": "Human Resources Administration",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-19",
-   "time": null,
-   "title": "OCTOBER 19, 2026 PUBLIC HEARING",
-   "note": "Community Boards · 1305 86th Street",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-20",
    "time": "1:00 PM",
@@ -1671,6 +1584,20 @@
   },
   {
    "date": "2026-11-09",
+   "time": "10:00 AM",
+   "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22841&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22841_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-11-09_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-09",
    "time": null,
    "title": "Notice of Joint Public Hearing: 11/9/2026; for the Installation, Operation and Management of an Outdoor Holiday Gift Market at Union Square Park, Manhattan (Solicitation # M89-AS-2025)",
    "note": "Parks and Recreation · 255 Greenwich Street",
@@ -1935,6 +1862,20 @@
    "source": "Industrial Development Agency",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "1:00 PM",
+   "title": "Committee on Parks and Recreation",
+   "note": "250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22840&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22840_A_Committee_on_Parks_and_Recreation_26-11-13_Committee_Agenda.pdf",
+   "significance": 22,
    "why": [],
    "live": true,
    "tier": "routine"
@@ -2481,6 +2422,20 @@
    "tier": "routine"
   },
   {
+   "date": "2026-12-01",
+   "time": "1:00 PM",
+   "title": "Committee on Small Business",
+   "note": "250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22831&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22831_A_Committee_on_Small_Business_26-12-01_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-12-02",
    "time": null,
    "title": "City Environmental Quality Review Fee Update Rulemaking",
@@ -2572,6 +2527,22 @@
    "approx": false,
    "live": false,
    "tier": "notable"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "1:00 PM",
+   "title": "Committee on Environmental Protection and Waterfronts",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22839&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22839_A_Committee_on_Environmental_Protection_and_Waterfronts_26-12-10_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-12-11",
