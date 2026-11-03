@@ -2,7 +2,7 @@
 
 A live calendar of what is coming for New York City — the days the city will feel, the deadlines
 that bind it, the anniversaries it is about to mark, and every hearing underneath. Events are sized
-by public significance rather than by who filed the paperwork.
+by public significance.
 
 Rebuilt twice a day by GitHub Actions.
 
@@ -34,7 +34,7 @@ python3 -m http.server 8733         # then open localhost:8733
 works. If every live source fails, the build aborts rather than overwriting a good calendar with an
 empty one.
 
-## The files you'd actually edit
+## The files you'd edit
 
 - `seed/curated.json` — add or re-score a cultural, sporting or statutory event
 - `seed/importance.json` — argue with how much a historical event matters today (1-5)

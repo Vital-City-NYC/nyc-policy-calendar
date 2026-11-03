@@ -48,8 +48,8 @@ td.num{font-family:var(--serif);font-size:1.15rem}
 
 <p>This calendar merges five sources every twelve hours and gives every event a single score from
 0 to 100 for <b>public significance</b>. That score is the only thing that decides how large an
-event appears on the page. It is a set of editorial judgments expressed as arithmetic, and this
-page exists so you can see the arithmetic and argue with it.</p>
+event appears on the page. It is a set of editorial judgments expressed as arithmetic, laid out
+here so you can see the arithmetic and argue with it.</p>
 
 <h2>Where the events come from</h2>
 
@@ -74,21 +74,21 @@ the same sorted list and land in the right size of type.</p>
   <tr><th>Tier</th><th>Score</th><th>Meaning</th></tr>
   <tr><td class="num">Marquee</td><td>85-100</td><td>The city notices without being told</td></tr>
   <tr><td class="num">Major</td><td>65-84</td><td>Consequential; it will be covered</td></tr>
-  <tr><td class="num">Notable</td><td>45-64</td><td>Matters to the people it matters to</td></tr>
-  <tr><td class="num">Routine</td><td>0-44</td><td>The machinery of government running</td></tr>
+  <tr><td class="num">Notable</td><td>45-64</td><td>Matters to the people it affects</td></tr>
+  <tr><td class="num">Routine</td><td>0-44</td><td>Government business on its regular schedule</td></tr>
 </table>
 
 <div class="callout">
 <b>Hearings are capped at 62.</b> The single most consequential committee hearing of the year can
 reach "notable," but it can never outrank an election, a hurricane anniversary or a World Cup
-final. This is a deliberate choice. A calendar that ranks by who filed paperwork will always bury
-the things people actually care about beneath the things government does on a schedule.
+final. A calendar that ranks by who filed paperwork will always bury
+the things people care about beneath the things government does on a schedule.
 </div>
 
 <h3>How a hearing is scored</h3>
 <p>A City Council hearing starts at 22 and earns:</p>
 <ul>
-  <li><b>+28</b> if it is a stated meeting of the full Council, where legislation is actually passed</li>
+  <li><b>+28</b> if it is a stated meeting of the full Council, where legislation is passed</li>
   <li><b>+10</b> if it belongs to a committee whose subject reliably reaches the public: public safety, housing, land use, education, health, criminal justice, immigration, transportation, finance</li>
   <li><b>+8</b> if a vote is scheduled</li>
   <li><b>+8</b> if the subject matter matches terms of broad public interest, such as rent, evictions, rezoning, police or the closure of Rikers</li>
@@ -109,7 +109,7 @@ while the 20th of a middling museum opening does not. A qualifying anniversary s
 <p><code>30 + (importance × 10) + roundness + living memory</code></p>
 <ul>
   <li><b>Importance (1-5)</b> is how much the event means to the public today. This is the dominant term.</li>
-  <li><b>Roundness</b> adds between 4 (a 10th) and 22 (a 300th). It is deliberately a small modifier, not the driver.</li>
+  <li><b>Roundness</b> adds between 4 (a 10th) and 22 (a 300th). It is deliberately a small modifier.</li>
   <li><b>Living memory</b> adds 8 if the event happened within the last 60 years, on the reasoning that a city remembers what its residents lived through.</li>
 </ul>
 
@@ -117,21 +117,18 @@ while the 20th of a middling museum opening does not. A qualifying anniversary s
 <b>Why roundness is kept small.</b> An early draft let the number of zeroes dominate, and the
 result was that the 250th anniversary of the Battle of White Plains — fought in Westchester —
 outranked both the general election and the 25th anniversary of 9/11. A 250th is not automatically
-more significant than a 25th. What the event <i>was</i> matters more than how the arithmetic of the
-calendar happens to land.
+more significant than a 25th.
 </div>
 
 <h3>A warning about importance</h3>
 <p>The importance value is the one number in this system that a machine cannot supply. It is a
 judgment: 9/11 is a 5, the Triangle Shirtwaist fire is a 5, the Battle of White Plains is a 1. Those
 judgments live in a single readable file, <code>seed/importance.json</code>, alongside the scale they
-use, so that a disagreement can be an argument about a specific number rather than a complaint about
-a black box.</p>
+use, so anyone who disagrees can point to a specific number.</p>
 
-<p>The source corpus ships its own <code>weight</code> field. It is <b>not</b> used, and it is
-important to say why: it is a display value for a timeline, and it scores 9/11 as a 1 while scoring
-Studio 54 as a 3. Treating it as significance inverted the entire ranking. It is ignored
-deliberately.</p>
+<p>The source corpus ships its own <code>weight</code> field. It is <b>not</b> used, because
+it is a display value for a timeline, and it scores 9/11 as a 1 while scoring
+Studio 54 as a 3. Treating it as significance inverted the entire ranking.</p>
 
 <h2>What this calendar does not know</h2>
 <ul>
@@ -169,8 +166,7 @@ should not invent one. They are listed here rather than given a date they do not
 <p>A GitHub Action rebuilds the calendar twice a day, at about 6am and 6pm Eastern, and commits the
 result. The page itself re-checks the feed every ten minutes while open, and offers a reload if a
 newer build has landed. The two <code>.ics</code> feeds are subscribable: a calendar app that
-subscribes will keep pulling the updated file on its own, which is the closest thing here to a
-product that never goes stale.</p>
+subscribes will keep pulling the updated file on its own.</p>
 <p>If every live source fails, the build aborts rather than publishing an empty calendar over a good
 one.</p>
 
@@ -178,8 +174,8 @@ one.</p>
 <p>You can star any event and write a private note against it, and both appear under <b>My list</b>,
 which exports to a calendar file, to plain text, or to a backup file.</p>
 <p>None of it leaves your machine. There is no account, no login and no server to send it to: stars
-and notes are written to your browser's local storage and nothing else. That has an honest downside
-worth stating plainly — <b>clearing your browsing data will erase them</b>, and they do not follow you
+and notes are written to your browser's local storage and nothing else. As a result,
+<b>clearing your browsing data will erase them</b>, and they do not follow you
 to another device or another browser. If you build up a list worth keeping, use the <b>Backup</b>
 button, which downloads a file with everything you have marked. Notes ride along into the
 <code>.ics</code> export too, so whatever you wrote shows up in your own calendar app.</p>
@@ -187,30 +183,28 @@ button, which downloads a file with everything you have marked. Notes ride along
 <h2>Corrections</h2>
 
 <p>The calendar was fact-checked against primary sources on July 14, 2026. Every claim below was
-wrong when first published and has been fixed. They are listed because a calendar that quietly
-corrects itself is not much better than one that is wrong.</p>
+wrong when first published and has been fixed.</p>
 
 <table>
   <tr><th>Was</th><th>Is</th></tr>
-  <tr><td>Mayoral control of the schools expires June 30, 2026</td><td><b>It did not.</b> The state budget enacted in late May 2026 extended it to June 30, 2028. The calendar was carrying a cliff that no longer exists.</td></tr>
+  <tr><td>Mayoral control of the schools expires June 30, 2026</td><td><b>It did not.</b> The state budget enacted in late May 2026 extended it to June 30, 2028.</td></tr>
   <tr><td>Local Law 97's first compliance deadline was May 1, 2026</td><td>The first reports were due May 1, <b>2025</b>. May 1, 2026 was the second annual filing.</td></tr>
   <tr><td>The Nunez monitor's next Rikers report lands around Nov. 15, 2026</td><td>The monitor told the court it will file <b>Sept. 30, 2026</b>, with a further report in December. The November date had been inferred from a "spring and fall" pattern the filing history does not support.</td></tr>
   <tr><td>2026 is the 50th running of the five-borough marathon course</td><td>It is the <b>55th running</b> of the marathon and the 50th <i>anniversary</i> of the five-borough course. Only 49 five-borough races will have been run, because 2012 and 2020 were cancelled.</td></tr>
   <tr><td>Voter registration for the general election closes Oct. 9</td><td><b>Oct. 24</b>, per the state Board of Elections.</td></tr>
   <tr><td>The 2026 U.S. Open begins Aug. 31</td><td><b>Aug. 30.</b> The main draw now starts on a Sunday.</td></tr>
   <tr><td>MetLife hosts more World Cup matches than any other venue</td><td>It hosts eight, including the final. <b>Dallas hosts nine.</b></td></tr>
-  <tr><td>DC 37 is "the largest municipal union, roughly 90,000 workers"</td><td>Roughly 90,000 is what the expiring <i>contract covers</i>. The union counts some <b>150,000 members</b>. Two different things.</td></tr>
+  <tr><td>DC 37 is "the largest municipal union, roughly 90,000 workers"</td><td>Roughly 90,000 is what the expiring <i>contract covers</i>. The union counts some <b>150,000 members</b>.</td></tr>
   <tr><td>Roughly a million children return to class</td><td>About <b>793,000</b> students are enrolled in K-12 public schools, down about a tenth since 2020.</td></tr>
   <tr><td>The Chelsea bombing injured 29 people</td><td><b>31.</b> The 29 was the count on the night.</td></tr>
   <tr><td>The Oct. 1 housing deadlines come from City of Yes</td><td>The dates are right, the attribution was not: they come from the charter amendment voters passed in <b>November 2025</b> and from the <b>Fair Housing Framework</b> of 2023.</td></tr>
   <tr><td>Seven cited sources</td><td>Returned <b>404</b>, including the Mayor's Management Report link and three pages on a transit authority domain that no longer exists. All replaced; a link check now runs on every build.</td></tr>
-  <tr><td>Vishaan Chakrabarti's <i>The Architecture of Urbanity</i> listed as forthcoming on Sept. 8, 2026</td><td><b>Removed.</b> The hardcover came out in September 2024. The Sept. 2026 date was real, but it belongs to the paperback reissue — a genuine future date, on a genuine publisher page, for a book that is not new. The other 27 books were re-checked against this failure and none is a reissue.</td></tr>
+  <tr><td>Vishaan Chakrabarti's <i>The Architecture of Urbanity</i> listed as forthcoming on Sept. 8, 2026</td><td><b>Removed.</b> The hardcover came out in September 2024. The Sept. 2026 date was real, but it belongs to the paperback reissue of a book that is not new. The other 27 books were re-checked against this failure and none is a reissue.</td></tr>
 </table>
 
-<p><b>What that last one taught us.</b> Verifying that a date is real is not the same as verifying that
-a book is new. A paperback reissue has an honest future date on the publisher's own page, and it will
+<p><b>The fix for that last one.</b> A paperback reissue has a real future date on the publisher's own page, and it will
 pass any check that only asks "does this date exist?" Books now have to clear a second bar — no
-earlier edition — and the build warns if a book's date slips into the past, which is the tell.</p>
+earlier edition — and the build warns if a book's date slips into the past.</p>
 
 <div class="warn">
 <b>AI caution.</b> This calendar was built with AI assistance. The hearings, agendas and session days
