@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-03T17:24:38.586Z",
+ "generated": "2026-11-04T01:46:07.912Z",
  "window": {
-  "start": "2026-10-20",
-  "end": "2027-12-08"
+  "start": "2026-10-21",
+  "end": "2027-12-09"
  },
  "corpusSize": 282,
  "sources": [
@@ -17,241 +17,38 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 6,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 79,
-   "ms": 913,
+   "count": 70,
+   "ms": 1178,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 61,
+   "ms": 2537,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6395,
+   "ms": 7858,
    "note": "the Legislature is out of session"
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 65,
-   "ms": 7576,
-   "note": null
   }
  ],
  "counts": {
-  "routine": 151,
+  "routine": 138,
   "notable": 47,
   "major": 26,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-20",
-   "time": "1:00 PM",
-   "title": "Committee on Education",
-   "note": "Jointly with the Committee on Higher Education · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22754&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22754_A_Committee_on_Education_26-10-20_Committee_Agenda.pdf",
-   "significance": 38,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "1:00 PM",
-   "title": "Committee on Higher Education",
-   "note": "Jointly with the Committee on Education. · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22753&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22753_A_Committee_on_Higher_Education_26-10-20_Committee_Agenda.pdf",
-   "significance": 38,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "10:00 AM",
-   "title": "Committee on Transportation and Infrastructure",
-   "note": "Jointly with the Committee on Economic Development · Committee Room - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22751&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22751_A_Committee_on_Transportation_and_Infrastructure_26-10-20_Committee_Agenda.pdf",
-   "significance": 38,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": null,
-   "title": "New York City Housing Authority Board Meeting",
-   "note": "Housing Authority",
-   "strand": "hearings",
-   "source": "Housing Authority",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 34,
-   "why": [
-    "Housing Authority sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": null,
-   "title": "October 20, 2026, Public Hearing Agenda CR",
-   "note": "Landmarks Preservation Commission · 253 Broadway",
-   "strand": "hearings",
-   "source": "Landmarks Preservation Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 34,
-   "why": [
-    "Landmarks Preservation Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "12:00 PM",
-   "title": "Committee on Environmental Protection and Waterfronts",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22568&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22568_A_Committee_on_Environmental_Protection_and_Waterfronts_26-10-20_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "10:00 AM",
-   "title": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22700&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22700_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-10-20_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "11:00 AM",
-   "title": "Subcommittee on Zoning and Franchises",
-   "note": "VOTE · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22701&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22701_A_Subcommittee_on_Zoning_and_Franchises_26-10-20_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "10:00 AM",
-   "title": "Committee on Economic Development",
-   "note": "Jointly with the Committee on Transportation and Infrastructure. · Committee Room - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22750&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22750_A_Committee_on_Economic_Development_26-10-20_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "10:00 AM",
-   "title": "Committee on Fire and Emergency Management",
-   "note": "Jointly with the Committee on Hospitals. · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22759&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22759_A_Committee_on_Fire_and_Emergency_Management_26-10-20_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": "10:00 AM",
-   "title": "Committee on Hospitals",
-   "note": "Jointly with the Committee on Fire and Emergency Management · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22760&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22760_A_Committee_on_Hospitals_26-10-20_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": null,
-   "title": "BUSINESS INTEGRITY COMMISSION MEETING",
-   "note": "Business Integrity Commission · 100 Church Street",
-   "strand": "hearings",
-   "source": "Business Integrity Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-20",
-   "time": null,
-   "title": "Design Commission Meeting Agenda, Tuesday, October 20, 2026",
-   "note": "Public Design Commission · City Hall Park",
-   "strand": "hearings",
-   "source": "Public Design Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-21",
    "time": "1:00 PM",
