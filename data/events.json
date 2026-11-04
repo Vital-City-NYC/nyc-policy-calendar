@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T01:46:07.912Z",
+ "generated": "2026-11-04T17:37:55.330Z",
  "window": {
   "start": "2026-10-21",
   "end": "2027-12-09"
@@ -10,7 +10,7 @@
    "name": "Curated",
    "ok": true,
    "count": 57,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
@@ -21,29 +21,29 @@
    "note": null
   },
   {
-   "name": "City Council",
-   "ok": true,
-   "count": 70,
-   "ms": 1178,
-   "note": null
-  },
-  {
    "name": "City Record",
    "ok": true,
    "count": 61,
-   "ms": 2537,
+   "ms": 431,
+   "note": null
+  },
+  {
+   "name": "City Council",
+   "ok": true,
+   "count": 72,
+   "ms": 968,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 7858,
+   "ms": 7480,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 138,
+  "routine": 140,
   "notable": 47,
   "major": 26,
   "marquee": 5
@@ -2058,6 +2058,38 @@
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "10:00 AM",
+   "title": "Committee on Disabilities",
+   "note": "Jointly with the Committee on Parks and Recreation. · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22829&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22829_A_Committee_on_Disabilities_26-11-24_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "10:00 AM",
+   "title": "Committee on Parks and Recreation",
+   "note": "Jointly with the Committee on Disabilities · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22830&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22830_A_Committee_on_Parks_and_Recreation_26-11-24_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
    "live": true,
    "tier": "routine"
   },
