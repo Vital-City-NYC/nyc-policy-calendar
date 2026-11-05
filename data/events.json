@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T01:54:41.102Z",
+ "generated": "2026-11-05T17:43:25.040Z",
  "window": {
   "start": "2026-10-22",
   "end": "2027-12-10"
@@ -21,30 +21,30 @@
    "note": null
   },
   {
-   "name": "City Record",
-   "ok": true,
-   "count": 57,
-   "ms": 602,
-   "note": null
-  },
-  {
    "name": "City Council",
    "ok": true,
-   "count": 65,
-   "ms": 1192,
+   "count": 70,
+   "ms": 991,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5307,
+   "ms": 5115,
    "note": "the Legislature is out of session"
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 64,
+   "ms": 12296,
+   "note": null
   }
  ],
  "counts": {
   "notable": 47,
-  "routine": 129,
+  "routine": 141,
   "major": 26,
   "marquee": 5
  },
@@ -1131,6 +1131,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-11-05",
+   "time": null,
+   "title": "QBP Land Use Public Hearing",
+   "note": "Borough President - Queens · 120-55 Queens Boulevard",
+   "strand": "hearings",
+   "source": "Borough President - Queens",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-11-06",
    "time": null,
    "title": "District Council 37's contract expires",
@@ -1298,6 +1311,21 @@
   },
   {
    "date": "2026-11-10",
+   "time": null,
+   "title": "Brooklyn Borough President ULURP Hearing",
+   "note": "Borough President - Brooklyn · 209 Joralemon Street",
+   "strand": "hearings",
+   "source": "Borough President - Brooklyn",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 28,
+   "why": [
+    "subject matter of broad public interest"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-10",
    "time": "11:00 AM",
    "title": "Subcommittee on Zoning and Franchises",
    "note": "250 Broadway - 8th Floor - Hearing Room 3",
@@ -1330,6 +1358,19 @@
    "note": "Citywide Administrative Services",
    "strand": "hearings",
    "source": "Citywide Administrative Services",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-10",
+   "time": null,
+   "title": "BERS AUDIT COMMITTEE MEETING",
+   "note": "Board of Education Retirement System · 55 Water Street",
+   "strand": "hearings",
+   "source": "Board of Education Retirement System",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
@@ -1450,6 +1491,38 @@
    ],
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "10:00 AM",
+   "title": "Committee on Cultural Affairs, Libraries and International Relations",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22851&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22851_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-11-12_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "10:00 AM",
+   "title": "Committee on Veterans",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22849&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22849_A_Committee_on_Veterans_26-11-12_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-11-12",
@@ -1707,6 +1780,21 @@
   },
   {
    "date": "2026-11-18",
+   "time": null,
+   "title": "New York City Housing Authority Board Meeting",
+   "note": "Housing Authority",
+   "strand": "hearings",
+   "source": "Housing Authority",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Housing Authority sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-18",
    "time": "1:00 PM",
    "title": "Committee on Education",
    "note": "Council Chambers - City Hall",
@@ -1814,6 +1902,32 @@
    "note": "Transportation",
    "strand": "hearings",
    "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-19",
+   "time": null,
+   "title": "El Barrio",
+   "note": "Housing Preservation and Development",
+   "strand": "hearings",
+   "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-19",
+   "time": null,
+   "title": "Teachers\u001a Retirement System of the City of New York Monthly Board Meeting",
+   "note": "Teachers' Retirement System · 55 Water Street",
+   "strand": "hearings",
+   "source": "Teachers' Retirement System",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
@@ -1965,6 +2079,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-11-25",
+   "time": null,
+   "title": "NOVEMBER 25, 2026 PUBLIC HEARING",
+   "note": "Transportation · 55 Water Street",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-11-26",
    "time": null,
    "title": "The 100th Macy's Thanksgiving Day Parade",
@@ -2109,6 +2236,23 @@
   },
   {
    "date": "2026-12-02",
+   "time": "10:00 AM",
+   "title": "Committee on Transportation and Infrastructure",
+   "note": "Jointly with the Committee on Contracts · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22816&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22816_A_Committee_on_Transportation_and_Infrastructure_26-12-02_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-02",
    "time": "1:00 PM",
    "title": "Subcommittee on Early Childhood Education",
    "note": "250 Broadway - 8th Floor - Hearing Room 2",
@@ -2119,6 +2263,22 @@
    "significance": 32,
    "why": [
     "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "10:00 AM",
+   "title": "Committee on Contracts",
+   "note": "Jointly with the Committee on Transportation and Infrastructure. · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22815&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22815_A_Committee_on_Contracts_26-12-02_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
    ],
    "live": true,
    "tier": "routine"
@@ -2216,6 +2376,20 @@
    "approx": false,
    "live": false,
    "tier": "major"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "10:00 AM",
+   "title": "Committee on Cultural Affairs, Libraries and International Relations",
+   "note": "250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22846&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22846_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-12-11_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-12-14",
