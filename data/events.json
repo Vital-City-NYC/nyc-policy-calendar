@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-05T17:43:25.040Z",
+ "generated": "2026-11-06T01:56:10.171Z",
  "window": {
-  "start": "2026-10-22",
-  "end": "2027-12-10"
+  "start": "2026-10-23",
+  "end": "2027-12-11"
  },
  "corpusSize": 282,
  "sources": [
@@ -17,257 +17,38 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 7,
+   "ms": 5,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 60,
+   "ms": 623,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 70,
-   "ms": 991,
+   "count": 63,
+   "ms": 1144,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5115,
+   "ms": 8365,
    "note": "the Legislature is out of session"
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 64,
-   "ms": 12296,
-   "note": null
   }
  ],
  "counts": {
-  "notable": 47,
-  "routine": 141,
+  "routine": 131,
+  "notable": 46,
   "major": 26,
   "marquee": 5
  },
  "events": [
-  {
-   "date": "2026-10-22",
-   "time": "1:30 PM",
-   "title": "Stated meeting of the City Council",
-   "note": "Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22812&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22812_A_City_Council_26-10-22_Committee_Agenda.pdf",
-   "significance": 50,
-   "why": [
-    "stated meeting of the full Council"
-   ],
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-10-22",
-   "time": "10:00 AM",
-   "title": "Committee on Finance",
-   "note": "VOTE* · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22774&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22774_A_Committee_on_Finance_26-10-22_Committee_Agenda.pdf",
-   "significance": 46,
-   "why": [
-    "high-salience committee",
-    "finance committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-10-22",
-   "time": "10:30 AM",
-   "title": "Committee on Criminal Justice",
-   "note": "VOTE* · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22807&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22807_A_Committee_on_Criminal_Justice_26-10-22_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-22",
-   "time": "9:00 AM",
-   "title": "Committee on Education",
-   "note": "VOTE* · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22817&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22817_A_Committee_on_Education_26-10-22_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-22",
-   "time": "10:15 AM",
-   "title": "Committee on Health",
-   "note": "VOTE* · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22801&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22801_A_Committee_on_Health_26-10-22_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-22",
-   "time": "11:00 AM",
-   "title": "Committee on Housing and Buildings",
-   "note": "VOTE* · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22805&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22805_A_Committee_on_Housing_and_Buildings_26-10-22_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-22",
-   "time": "10:45 AM",
-   "title": "Committee on Immigration",
-   "note": "VOTE* · Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22806&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22806_A_Committee_on_Immigration_26-10-22_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-22",
-   "time": "10:30 AM",
-   "title": "Committee on Cultural Affairs, Libraries and International Relations",
-   "note": "VOTE · Committee Room - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22802&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22802_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-10-22_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-22",
-   "time": "10:00 AM",
-   "title": "Committee on Parks and Recreation",
-   "note": "VOTE* · Committee Room - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22800&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22800_A_Committee_on_Parks_and_Recreation_26-10-22_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-22",
-   "time": "9:30 AM",
-   "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
-   "note": "VOTE · Committee Room - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22792&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22792_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-10-22_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-22",
-   "time": null,
-   "title": "Board of Education Retirement System Board of Trustees Meeting",
-   "note": "Board of Education Retirement System · 55 Water Street",
-   "strand": "hearings",
-   "source": "Board of Education Retirement System",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-22",
-   "time": null,
-   "title": "Dining Out NYC Public Hearings",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-22",
-   "time": null,
-   "title": "DISABILITY COMMITTEE MEETING",
-   "note": "Board of Education Retirement System · 55 Water Street",
-   "strand": "hearings",
-   "source": "Board of Education Retirement System",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-22",
-   "time": null,
-   "title": "El Barrio",
-   "note": "Housing Preservation and Development",
-   "strand": "hearings",
-   "source": "Housing Preservation and Development",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-23",
    "time": null,
@@ -1264,6 +1045,23 @@
   },
   {
    "date": "2026-11-10",
+   "time": "12:00 PM",
+   "title": "Committee on Land Use",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22731&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22731_A_Committee_on_Land_Use_26-11-10_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-10",
    "time": null,
    "title": "Renaissance Men, by Harriet A. Washington",
    "note": "Three Black New York physicians who reshaped medicine and culture between 1847 and 1952, and were written out of the record. (Little, Brown)",
@@ -1295,16 +1093,16 @@
   },
   {
    "date": "2026-11-10",
-   "time": "12:00 PM",
-   "title": "Committee on Land Use",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
+   "time": "11:00 AM",
+   "title": "Subcommittee on Zoning and Franchises",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
    "strand": "hearings",
    "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22731&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22731_A_Committee_on_Land_Use_26-11-10_Committee_Agenda.pdf",
-   "significance": 32,
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22730&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22730_A_Subcommittee_on_Zoning_and_Franchises_26-11-10_Committee_Agenda.pdf",
+   "significance": 30,
    "why": [
-    "high-salience committee"
+    "a vote is scheduled"
    ],
    "live": true,
    "tier": "routine"
@@ -1321,20 +1119,6 @@
    "why": [
     "subject matter of broad public interest"
    ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-10",
-   "time": "11:00 AM",
-   "title": "Subcommittee on Zoning and Franchises",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22730&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22730_A_Subcommittee_on_Zoning_and_Franchises_26-11-10_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -1494,15 +1278,16 @@
   },
   {
    "date": "2026-11-12",
-   "time": "10:00 AM",
-   "title": "Committee on Cultural Affairs, Libraries and International Relations",
+   "time": "10:30 AM",
+   "title": "Committee on Transportation and Infrastructure",
    "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
    "strand": "hearings",
    "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22851&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22851_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-11-12_Committee_Agenda.pdf",
-   "significance": 30,
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22848&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22848_A_Committee_on_Transportation_and_Infrastructure_26-11-12_Committee_Agenda.pdf",
+   "significance": 40,
    "why": [
+    "high-salience committee",
     "a vote is scheduled"
    ],
    "live": true,
@@ -1511,12 +1296,12 @@
   {
    "date": "2026-11-12",
    "time": "10:00 AM",
-   "title": "Committee on Veterans",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
+   "title": "Committee on Cultural Affairs, Libraries and International Relations",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
    "strand": "hearings",
    "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22849&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22849_A_Committee_on_Veterans_26-11-12_Committee_Agenda.pdf",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22851&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22851_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-11-12_Committee_Agenda.pdf",
    "significance": 30,
    "why": [
     "a vote is scheduled"
@@ -1937,6 +1722,41 @@
   {
    "date": "2026-11-20",
    "time": "10:00 AM",
+   "title": "Committee on Oversight and Investigations",
+   "note": "Jointly with the Committee on Consumer and Worker Protection. · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22852&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22852_A_Committee_on_Oversight_and_Investigations_26-11-20_Committee_Agenda.pdf",
+   "significance": 46,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing",
+    "subject matter of broad public interest"
+   ],
+   "live": true,
+   "tier": "notable"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "10:00 AM",
+   "title": "Committee on Consumer and Worker Protection",
+   "note": "Jointly with the Committee on Oversight and Investigations · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22853&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22853_A_Committee_on_Consumer_and_Worker_Protection_26-11-20_Committee_Agenda.pdf",
+   "significance": 36,
+   "why": [
+    "joint committee hearing",
+    "subject matter of broad public interest"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "10:00 AM",
    "title": "Committee on Immigration",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
    "strand": "hearings",
@@ -2324,6 +2144,20 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22837&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22837_A_Subcommittee_on_Zoning_and_Franchises_26-12-08_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "10:00 AM",
+   "title": "Committee on Civil and Human Rights",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22854&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22854_A_Committee_on_Civil_and_Human_Rights_26-12-09_Committee_Agenda.pdf",
    "significance": 22,
    "why": [],
    "live": true,
