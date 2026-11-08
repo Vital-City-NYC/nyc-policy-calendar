@@ -1,102 +1,54 @@
 {
- "generated": "2026-11-07T15:57:33.923Z",
+ "generated": "2026-11-08T00:58:46.548Z",
  "window": {
-  "start": "2026-10-24",
-  "end": "2027-12-12"
+  "start": "2026-10-25",
+  "end": "2027-12-13"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 57,
-   "ms": 3,
+   "count": 54,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 28,
-   "ms": 8,
-   "note": null
-  },
-  {
-   "name": "City Council",
-   "ok": true,
-   "count": 69,
-   "ms": 1007,
+   "count": 29,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 61,
-   "ms": 1291,
+   "ms": 562,
+   "note": null
+  },
+  {
+   "name": "City Council",
+   "ok": true,
+   "count": 69,
+   "ms": 931,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8137,
+   "ms": 6087,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "notable": 46,
-  "major": 26,
+  "major": 27,
   "routine": 138,
-  "marquee": 5
+  "marquee": 5,
+  "notable": 43
  },
  "events": [
-  {
-   "date": "2026-10-24",
-   "time": null,
-   "title": "Voter registration deadline",
-   "note": "Registration applications must be received by a board of elections by this date to vote in the Nov. 3 general election. Confirmed against the state Board of Elections' 2026 deadlines poster.",
-   "strand": "democracy",
-   "source": "Curated",
-   "sourceUrl": "https://elections.ny.gov/registration-and-voting-deadlines",
-   "significance": 62,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-10-24",
-   "time": null,
-   "title": "Early voting begins",
-   "note": "The nine-day early voting period for the general election runs through Nov. 1. Polls are open 6 a.m. to 9 p.m. on Election Day itself.",
-   "strand": "democracy",
-   "source": "Curated",
-   "sourceUrl": "https://elections.ny.gov/2026-election-deadlines-poster",
-   "significance": 58,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-10-24",
-   "time": null,
-   "title": "Last day to request a mail ballot",
-   "note": "The final day to apply for a general election mail ballot online or by mail. In person at a county board, the deadline is Nov. 2.",
-   "strand": "democracy",
-   "source": "Curated",
-   "sourceUrl": "https://elections.ny.gov/registration-and-voting-deadlines",
-   "significance": 50,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
   {
    "date": "2026-10-26",
    "time": null,
@@ -3388,6 +3340,24 @@
    "anniversaryYears": 100,
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2027-12-13",
+   "time": null,
+   "title": "Delmonico's opens — 200th anniversary",
+   "note": "The Swiss-born Delmonico brothers opened a small café on William Street that grew into America's pioneering fine-dining restaurant.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Delmonico's",
+   "significance": 68,
+   "importance": 2,
+   "why": [
+    "200th anniversary"
+   ],
+   "historyYear": 1827,
+   "anniversaryYears": 200,
+   "live": true,
+   "tier": "major"
   }
  ]
 }
