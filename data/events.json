@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T01:19:21.469Z",
+ "generated": "2026-11-09T20:14:13.565Z",
  "window": {
   "start": "2026-10-26",
   "end": "2027-12-14"
@@ -10,7 +10,7 @@
    "name": "Curated",
    "ok": true,
    "count": 54,
-   "ms": 3,
+   "ms": 2,
    "note": null
   },
   {
@@ -21,30 +21,30 @@
    "note": null
   },
   {
-   "name": "City Council",
+   "name": "City Record",
    "ok": true,
-   "count": 69,
-   "ms": 1357,
+   "count": 63,
+   "ms": 793,
    "note": null
   },
   {
-   "name": "City Record",
+   "name": "City Council",
    "ok": true,
-   "count": 61,
-   "ms": 2503,
+   "count": 69,
+   "ms": 1032,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 7901,
+   "ms": 7479,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 27,
-  "routine": 138,
+  "routine": 140,
   "marquee": 5,
   "notable": 43
  },
@@ -2175,6 +2175,32 @@
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22854&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22854_A_Committee_on_Civil_and_Human_Rights_26-12-09_Committee_Agenda.pdf",
    "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-09",
+   "time": null,
+   "title": "Spring Creek Phase 5 B",
+   "note": "Housing Preservation and Development",
+   "strand": "hearings",
+   "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-09",
+   "time": null,
+   "title": "Spring Creek Phase 5A",
+   "note": "Housing Preservation and Development",
+   "strand": "hearings",
+   "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
    "why": [],
    "live": true,
    "tier": "routine"
