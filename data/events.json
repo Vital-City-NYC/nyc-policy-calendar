@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T03:53:57.221Z",
+ "generated": "2026-11-10T17:20:49.176Z",
  "window": {
   "start": "2026-10-27",
   "end": "2027-12-15"
@@ -17,35 +17,35 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 6,
-   "note": null
-  },
-  {
-   "name": "City Council",
-   "ok": true,
-   "count": 67,
-   "ms": 886,
+   "ms": 5,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 62,
-   "ms": 2971,
+   "count": 63,
+   "ms": 607,
+   "note": null
+  },
+  {
+   "name": "City Council",
+   "ok": true,
+   "count": 69,
+   "ms": 915,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5686,
+   "ms": 7034,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 137,
+  "routine": 139,
   "marquee": 5,
-  "notable": 43,
+  "notable": 44,
   "major": 26
  },
  "events": [
@@ -1387,6 +1387,21 @@
   {
    "date": "2026-11-17",
    "time": null,
+   "title": "Board of Correction Public Meeting",
+   "note": "Board of Correction · 125 Worth Street",
+   "strand": "hearings",
+   "source": "Board of Correction",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 36,
+   "why": [
+    "Board of Correction sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-17",
+   "time": null,
    "title": "Correction: November 17, 2026, Public Hearing Agenda",
    "note": "Landmarks Preservation Commission · 253 Broadway",
    "strand": "hearings",
@@ -2074,6 +2089,24 @@
    "tier": "notable"
   },
   {
+   "date": "2026-12-03",
+   "time": "11:00 AM",
+   "title": "Committee on Finance",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22862&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22862_A_Committee_on_Finance_26-12-03_Committee_Agenda.pdf",
+   "significance": 46,
+   "why": [
+    "high-salience committee",
+    "finance committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "notable"
+  },
+  {
    "date": "2026-12-08",
    "time": null,
    "title": "Build or Die, by Ned Resnikoff",
@@ -2334,6 +2367,22 @@
    ],
    "approx": true,
    "live": false,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "10:00 AM",
+   "title": "Committee on Higher Education",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22864&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22864_A_Committee_on_Higher_Education_26-12-15_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
+   "live": true,
    "tier": "routine"
   },
   {
