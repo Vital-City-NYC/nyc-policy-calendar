@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-09T20:14:13.565Z",
+ "generated": "2026-11-10T03:53:57.221Z",
  "window": {
-  "start": "2026-10-26",
-  "end": "2027-12-14"
+  "start": "2026-10-27",
+  "end": "2027-12-15"
  },
  "corpusSize": 282,
  "sources": [
@@ -16,101 +16,39 @@
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 29,
-   "ms": 7,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 63,
-   "ms": 793,
+   "count": 28,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 69,
-   "ms": 1032,
+   "count": 67,
+   "ms": 886,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 62,
+   "ms": 2971,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 7479,
+   "ms": 5686,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 27,
-  "routine": 140,
+  "routine": 137,
   "marquee": 5,
-  "notable": 43
+  "notable": 43,
+  "major": 26
  },
  "events": [
-  {
-   "date": "2026-10-26",
-   "time": null,
-   "title": "The Yankees' dynasty begins — 30th anniversary",
-   "note": "The New York Yankees won the World Series over the Atlanta Braves, their first title since 1978 and the start of a late-1990s dynasty.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://baseballhall.org/hall-of-famers/torre-joe",
-   "significance": 65,
-   "importance": 2,
-   "why": [
-    "30th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 1996,
-   "anniversaryYears": 30,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2026-10-26",
-   "time": "10:00 AM",
-   "title": "Committee on Criminal Justice",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22798&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22798_A_Committee_on_Criminal_Justice_26-10-26_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-26",
-   "time": "1:00 PM",
-   "title": "Committee on General Welfare",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22773&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22773_A_Committee_on_General_Welfare_26-10-26_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-26",
-   "time": null,
-   "title": "CITY OF NEW YORK AUDIT COMMITTEE MEETING",
-   "note": "Comptroller · 1 Centre Street",
-   "strand": "hearings",
-   "source": "Comptroller",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-27",
    "time": "10:00 AM",
