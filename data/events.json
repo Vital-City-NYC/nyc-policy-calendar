@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T01:37:11.367Z",
+ "generated": "2026-11-11T17:31:21.125Z",
  "window": {
   "start": "2026-10-28",
   "end": "2027-12-16"
@@ -10,42 +10,42 @@
    "name": "Curated",
    "ok": true,
    "count": 54,
-   "ms": 1,
+   "ms": 4,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 3,
-   "note": null
-  },
-  {
-   "name": "City Council",
-   "ok": true,
-   "count": 63,
-   "ms": 1420,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 60,
-   "ms": 1662,
+   "ms": 589,
+   "note": null
+  },
+  {
+   "name": "City Council",
+   "ok": true,
+   "count": 72,
+   "ms": 955,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5679,
+   "ms": 5939,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "marquee": 5,
-  "notable": 44,
-  "routine": 130,
+  "notable": 50,
+  "routine": 133,
   "major": 26
  },
  "events": [
@@ -1067,6 +1067,22 @@
   },
   {
    "date": "2026-11-12",
+   "time": "11:00 AM",
+   "title": "Committee on Consumer and Worker Protection",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22847&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22847_A_Committee_on_Consumer_and_Worker_Protection_26-11-12_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-12",
    "time": "10:00 AM",
    "title": "Committee on Cultural Affairs, Libraries and International Relations",
    "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
@@ -1469,6 +1485,22 @@
    ],
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "10:30 AM",
+   "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22842&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22842_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-11-19_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-11-19",
@@ -2470,6 +2502,23 @@
    "tier": "notable"
   },
   {
+   "date": "2027-01-06",
+   "time": "12:00 PM",
+   "title": "Stated meeting of the City Council",
+   "note": "CHARTER MEETING · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22869&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2027/1/22869_A_City_Council_27-01-06_Committee_Agenda.pdf",
+   "significance": 58,
+   "why": [
+    "stated meeting of the full Council",
+    "subject matter of broad public interest"
+   ],
+   "live": true,
+   "tier": "notable"
+  },
+  {
    "date": "2027-01-07",
    "time": "10:00 AM",
    "title": "Subcommittee on Zoning and Franchises",
@@ -2564,6 +2613,22 @@
    "tier": "notable"
   },
   {
+   "date": "2027-01-21",
+   "time": "1:30 PM",
+   "title": "Stated meeting of the City Council",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22871&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2027/1/22871_A_City_Council_27-01-21_Committee_Agenda.pdf",
+   "significance": 50,
+   "why": [
+    "stated meeting of the full Council"
+   ],
+   "live": true,
+   "tier": "notable"
+  },
+  {
    "date": "2027-01-30",
    "time": null,
    "title": "Preliminary Mayor's Management Report",
@@ -2612,6 +2677,36 @@
    "tier": "notable"
   },
   {
+   "date": "2027-02-04",
+   "time": "1:30 PM",
+   "title": "Stated meeting of the City Council",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22872&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2027/2/22872_A_City_Council_27-02-04_Committee_Agenda.pdf",
+   "significance": 50,
+   "why": [
+    "stated meeting of the full Council"
+   ],
+   "live": true,
+   "tier": "notable"
+  },
+  {
+   "date": "2027-02-10",
+   "time": "10:00 AM",
+   "title": "Committee on Contracts",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22870&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2027/2/22870_A_Committee_on_Contracts_27-02-10_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2027-02-15",
    "time": null,
    "title": "Presidents Day",
@@ -2628,6 +2723,38 @@
    "tier": "routine"
   },
   {
+   "date": "2027-02-25",
+   "time": "1:30 PM",
+   "title": "Stated meeting of the City Council",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22873&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2027/2/22873_A_City_Council_27-02-25_Committee_Agenda.pdf",
+   "significance": 50,
+   "why": [
+    "stated meeting of the full Council"
+   ],
+   "live": true,
+   "tier": "notable"
+  },
+  {
+   "date": "2027-03-10",
+   "time": "1:30 PM",
+   "title": "Stated meeting of the City Council",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22874&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2027/3/22874_A_City_Council_27-03-10_Committee_Agenda.pdf",
+   "significance": 50,
+   "why": [
+    "stated meeting of the full Council"
+   ],
+   "live": true,
+   "tier": "notable"
+  },
+  {
    "date": "2027-03-25",
    "time": null,
    "title": "Council preliminary budget hearings conclude",
@@ -2641,6 +2768,22 @@
    ],
    "approx": false,
    "live": false,
+   "tier": "notable"
+  },
+  {
+   "date": "2027-03-25",
+   "time": "1:30 PM",
+   "title": "Stated meeting of the City Council",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22875&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2027/3/22875_A_City_Council_27-03-25_Committee_Agenda.pdf",
+   "significance": 50,
+   "why": [
+    "stated meeting of the full Council"
+   ],
+   "live": true,
    "tier": "notable"
   },
   {
