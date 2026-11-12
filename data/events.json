@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-11T17:31:21.125Z",
+ "generated": "2026-11-12T02:37:23.081Z",
  "window": {
-  "start": "2026-10-28",
-  "end": "2027-12-16"
+  "start": "2026-10-29",
+  "end": "2027-12-17"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,225 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 54,
-   "ms": 4,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 28,
-   "ms": 7,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 60,
-   "ms": 589,
+   "count": 26,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 72,
-   "ms": 955,
+   "count": 67,
+   "ms": 922,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 55,
+   "ms": 1946,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5939,
+   "ms": 5512,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "marquee": 5,
-  "notable": 50,
-  "routine": 133,
-  "major": 26
+  "routine": 123,
+  "major": 26,
+  "notable": 49,
+  "marquee": 4
  },
  "events": [
-  {
-   "date": "2026-10-28",
-   "time": null,
-   "title": "The Statue of Liberty is dedicated — 140th anniversary",
-   "note": "President Grover Cleveland dedicated the Statue of Liberty on Bedloe's Island in New York Harbor.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.nps.gov/museum/exhibits/statue_liberty/opening_ceremony.html",
-   "significance": 85,
-   "importance": 5,
-   "why": [
-    "140th anniversary"
-   ],
-   "historyYear": 1886,
-   "anniversaryYears": 140,
-   "live": true,
-   "tier": "marquee"
-  },
-  {
-   "date": "2026-10-28",
-   "time": null,
-   "title": "The Battle of White Plains — 250th anniversary",
-   "note": "British and Hessian forces under Howe defeated Washington at White Plains in Westchester on October 28, 1776.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.battlefields.org/learn/revolutionary-war/battles/white-plains",
-   "significance": 60,
-   "importance": 1,
-   "why": [
-    "250th anniversary"
-   ],
-   "historyYear": 1776,
-   "anniversaryYears": 250,
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-10-28",
-   "time": "1:00 PM",
-   "title": "Committee on Finance",
-   "note": "Jointly with the Committee on Housing and Buildings · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22776&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22776_A_Committee_on_Finance_26-10-28_Committee_Agenda.pdf",
-   "significance": 44,
-   "why": [
-    "high-salience committee",
-    "finance committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-28",
-   "time": null,
-   "title": "City Planning Commission Public Hearing",
-   "note": "City Planning Commission · 120 Broadway",
-   "strand": "hearings",
-   "source": "City Planning Commission",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 38,
-   "why": [
-    "City Planning Commission sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-28",
-   "time": "1:00 PM",
-   "title": "Committee on Housing and Buildings",
-   "note": "Jointly with the Committee on Finance. · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22775&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22775_A_Committee_on_Housing_and_Buildings_26-10-28_Committee_Agenda.pdf",
-   "significance": 38,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-28",
-   "time": "1:00 PM",
-   "title": "Committee on General Welfare",
-   "note": "250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22803&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22803_A_Committee_on_General_Welfare_26-10-28_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-28",
-   "time": "10:00 AM",
-   "title": "Committee on Governmental Operations, State & Federal Legislation",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22765&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22765_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-10-28_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-28",
-   "time": "1:00 PM",
-   "title": "Committee on Hospitals",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22789&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22789_A_Committee_on_Hospitals_26-10-28_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-28",
-   "time": null,
-   "title": "FOR LEASE - 105 East 106th Street & 104 East 107th Street",
-   "note": "Citywide Administrative Services",
-   "strand": "hearings",
-   "source": "Citywide Administrative Services",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-28",
-   "time": null,
-   "title": "NYC WORKFORCE DEVELOPMENT BOARD EXECUTIVE COMMITTEE MEETING",
-   "note": "NYC Workforce Development Board · 1 Liberty Plaza",
-   "strand": "hearings",
-   "source": "NYC Workforce Development Board",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-28",
-   "time": null,
-   "title": "October 28, 2026 Public Hearing",
-   "note": "Community Boards",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-28",
-   "time": null,
-   "title": "OCTOBER 28, 2026 PUBLIC HEARING",
-   "note": "Community Boards",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-29",
    "time": "1:00 PM",
