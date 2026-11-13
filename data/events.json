@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-12T17:46:42.219Z",
+ "generated": "2026-11-13T02:17:26.334Z",
  "window": {
-  "start": "2026-10-29",
-  "end": "2027-12-17"
+  "start": "2026-10-30",
+  "end": "2027-12-18"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,133 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 54,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 26,
-   "ms": 5,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 73,
-   "ms": 986,
+   "count": 71,
+   "ms": 1017,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 55,
+   "ms": 2823,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5277,
+   "ms": 5182,
    "note": "the Legislature is out of session"
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 58,
-   "ms": 12636,
-   "note": null
   }
  ],
  "counts": {
-  "routine": 132,
+  "routine": 127,
   "major": 26,
   "notable": 49,
   "marquee": 4
  },
  "events": [
-  {
-   "date": "2026-10-29",
-   "time": "1:00 PM",
-   "title": "Subcommittee on Early Childhood Education",
-   "note": "Jointly with the Committee on Small Business · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22740&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22740_A_Subcommittee_on_Early_Childhood_Education_26-10-29_Committee_Agenda.pdf",
-   "significance": 38,
-   "why": [
-    "high-salience committee",
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-29",
-   "time": "1:00 PM",
-   "title": "Committee on Small Business",
-   "note": "Jointly with the Subcommittee on Early Childhood Education. · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22741&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22741_A_Committee_on_Small_Business_26-10-29_Committee_Agenda.pdf",
-   "significance": 28,
-   "why": [
-    "joint committee hearing"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-29",
-   "time": null,
-   "title": "Fordham Landing South Rezoning (ULURP Number: C260173ZMX)",
-   "note": "Community Boards",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 28,
-   "why": [
-    "subject matter of broad public interest"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-29",
-   "time": "2:00 PM",
-   "title": "Committee on Contracts",
-   "note": "250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22794&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/10/22794_A_Committee_on_Contracts_26-10-29_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-29",
-   "time": null,
-   "title": "100 Gold Street Redevelopment Project: Draft Scope of Work and Public Scoping Meeting Notice",
-   "note": "Mayor's Office of Environmental Coordination",
-   "strand": "hearings",
-   "source": "Mayor's Office of Environmental Coordination",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-10-29",
-   "time": null,
-   "title": "Dining Out NYC Public Hearings",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-10-30",
    "time": "10:00 AM",
@@ -1926,6 +1838,22 @@
    "approx": false,
    "live": false,
    "tier": "notable"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "10:00 AM",
+   "title": "Committee on Higher Education",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22887&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22887_A_Committee_on_Higher_Education_26-12-08_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-12-08",
