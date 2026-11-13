@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T02:17:26.334Z",
+ "generated": "2026-11-13T17:24:47.442Z",
  "window": {
   "start": "2026-10-30",
   "end": "2027-12-18"
@@ -17,33 +17,33 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 26,
-   "ms": 7,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 71,
-   "ms": 1017,
+   "count": 77,
+   "ms": 1170,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 55,
-   "ms": 2823,
+   "count": 59,
+   "ms": 3061,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5182,
+   "ms": 8367,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 127,
+  "routine": 137,
   "major": 26,
   "notable": 49,
   "marquee": 4
@@ -873,6 +873,21 @@
   },
   {
    "date": "2026-11-13",
+   "time": null,
+   "title": "NYC TLC Accessible Taxi Loan Assistance (ATLAS) Pilot Program - Notice to Participate",
+   "note": "Taxi and Limousine Commission",
+   "strand": "hearings",
+   "source": "Taxi and Limousine Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 28,
+   "why": [
+    "Taxi and Limousine Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-13",
    "time": "1:00 PM",
    "title": "Committee on Parks and Recreation",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
@@ -981,7 +996,7 @@
    "date": "2026-11-17",
    "time": "11:00 AM",
    "title": "Committee on Finance",
-   "note": "Jointly with the Committee on Housing and Buildings · 250 Broadway - 8th Floor - Hearing Room 2",
+   "note": "Jointly with the Committee on Housing and Buildings. · 250 Broadway - 8th Floor - Hearing Room 2",
    "strand": "hearings",
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22823&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -999,7 +1014,7 @@
    "date": "2026-11-17",
    "time": "11:00 AM",
    "title": "Committee on Housing and Buildings",
-   "note": "Jointly with the Committee on Finance. · 250 Broadway - 8th Floor - Hearing Room 2",
+   "note": "Jointly with the Committee on Finance · 250 Broadway - 8th Floor - Hearing Room 2",
    "strand": "hearings",
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22820&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
@@ -1246,7 +1261,41 @@
   },
   {
    "date": "2026-11-19",
-   "time": "10:30 AM",
+   "time": "11:00 AM",
+   "title": "Committee on Education",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22876&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22876_A_Committee_on_Education_26-11-19_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "11:00 AM",
+   "title": "Committee on Health",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22879&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22879_A_Committee_on_Health_26-11-19_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "10:00 AM",
    "title": "Committee on Immigration",
    "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
    "strand": "hearings",
@@ -1263,6 +1312,22 @@
   },
   {
    "date": "2026-11-19",
+   "time": "10:00 AM",
+   "title": "Committee on Governmental Operations, State & Federal Legislation",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22877&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22877_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-11-19_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-19",
    "time": "10:30 AM",
    "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
    "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
@@ -1270,6 +1335,22 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22842&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22842_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-11-19_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "10:30 AM",
+   "title": "Committee on Women and Gender Equity",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22880&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22880_A_Committee_on_Women_and_Gender_Equity_26-11-19_Committee_Agenda.pdf",
    "significance": 30,
    "why": [
     "a vote is scheduled"
@@ -1824,6 +1905,45 @@
    "tier": "notable"
   },
   {
+   "date": "2026-12-03",
+   "time": null,
+   "title": "DINING OUT NYC PUBLIC HEARINGS",
+   "note": "Transportation",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-07",
+   "time": null,
+   "title": "A notice of a FCRC hearing on a proposed coordinated street furniture franchise agreement between the City of New York and JCDecaux Street Furniture New York, LLC.",
+   "note": "Transportation · 255 Greenwich Street",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-07",
+   "time": null,
+   "title": "NOTICE OF A FRANCHISE AND CONCESSION REVIEW COMMITTEE (\u001aFCRC\u001a) PUBLIC HEARING",
+   "note": "Information Technology and Telecommunications · 255 Greenwich Street",
+   "strand": "hearings",
+   "source": "Information Technology and Telecommunications",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-12-08",
    "time": null,
    "title": "Build or Die, by Ned Resnikoff",
@@ -2132,6 +2252,40 @@
    ],
    "approx": true,
    "live": false,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "10:00 AM",
+   "title": "Committee on Public Safety",
+   "note": "Jointly with Committee on Transportation and Infrastructure. · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22888&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22888_A_Committee_on_Public_Safety_26-12-15_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "10:00 AM",
+   "title": "Committee on Transportation and Infrastructure",
+   "note": "Jointly with the Committee on Public Safety · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22889&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22889_A_Committee_on_Transportation_and_Infrastructure_26-12-15_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
    "tier": "routine"
   },
   {
