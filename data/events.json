@@ -1,15 +1,15 @@
 {
- "generated": "2026-11-15T16:40:35.680Z",
+ "generated": "2026-11-16T01:29:37.249Z",
  "window": {
-  "start": "2026-11-01",
-  "end": "2027-12-20"
+  "start": "2026-11-02",
+  "end": "2027-12-21"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 54,
+   "count": 51,
    "ms": 2,
    "note": null
   },
@@ -17,86 +17,38 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 26,
-   "ms": 4,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
    "count": 57,
-   "ms": 692,
+   "ms": 673,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 73,
-   "ms": 1100,
+   "ms": 902,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8800,
+   "ms": 6106,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 26,
-  "notable": 49,
-  "routine": 131,
-  "marquee": 4
+  "routine": 130,
+  "marquee": 4,
+  "major": 25,
+  "notable": 48
  },
  "events": [
-  {
-   "date": "2026-11-01",
-   "time": null,
-   "title": "New York City Marathon: 50 years of the five-borough course",
-   "note": "The 55th running of the marathon, and the 50th anniversary of the five-borough course, which was first run in 1976 for the bicentennial. It is not the 50th five-borough running — that count is 49, because the race was cancelled in 2012 for Hurricane Sandy and in 2020 for COVID-19.",
-   "strand": "city-life",
-   "source": "Curated",
-   "sourceUrl": "https://www.nyrr.org/media-center/press-release/2026_0203_50anniversary5boromarathon",
-   "significance": 78,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "major"
-  },
-  {
-   "date": "2026-11-01",
-   "time": null,
-   "title": "Early voting ends",
-   "note": "The last of the nine early voting days before Tuesday's election.",
-   "strand": "democracy",
-   "source": "Curated",
-   "sourceUrl": "https://elections.ny.gov/2026-election-deadlines-poster",
-   "significance": 46,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-11-01",
-   "time": null,
-   "title": "Holding On to Home, by Sarah Bruhn",
-   "note": "Five years of fieldwork on immigrant women resisting both immigration enforcement and displacement in a gentrifying city. Publisher gives the month only. (California)",
-   "strand": "books",
-   "source": "Curated",
-   "sourceUrl": "https://www.ucpress.edu/books/holding-on-to-home/paper",
-   "significance": 32,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": true,
-   "live": false,
-   "tier": "routine"
-  },
   {
    "date": "2026-11-02",
    "time": "10:00 AM",
