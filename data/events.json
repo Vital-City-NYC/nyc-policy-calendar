@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T01:29:37.249Z",
+ "generated": "2026-11-16T19:54:48.944Z",
  "window": {
   "start": "2026-11-02",
   "end": "2027-12-21"
@@ -17,33 +17,33 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 26,
-   "ms": 7,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 57,
-   "ms": 673,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 73,
-   "ms": 902,
+   "count": 76,
+   "ms": 1362,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 58,
+   "ms": 5785,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6106,
+   "ms": 8182,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 130,
+  "routine": 134,
   "marquee": 4,
   "major": 25,
   "notable": 48
@@ -1761,6 +1761,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-12-03",
+   "time": null,
+   "title": "New York City Environmental Control Board Meeting December 3, 2026",
+   "note": "Environmental Control Board · 100 Church Street",
+   "strand": "hearings",
+   "source": "Environmental Control Board",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-12-07",
    "time": null,
    "title": "A notice of a FCRC hearing on a proposed coordinated street furniture franchise agreement between the City of New York and JCDecaux Street Furniture New York, LLC.",
@@ -1829,6 +1842,22 @@
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22837_A_Subcommittee_on_Zoning_and_Franchises_26-12-08_Committee_Agenda.pdf",
    "significance": 22,
    "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "10:00 AM",
+   "title": "Committee on Mental Health and Substance Use",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22893&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22893_A_Committee_on_Mental_Health_and_Substance_Use_26-12-09_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
    "live": true,
    "tier": "routine"
   },
@@ -2080,6 +2109,20 @@
    "tier": "routine"
   },
   {
+   "date": "2026-12-14",
+   "time": "10:00 AM",
+   "title": "Committee on Civil and Human Rights",
+   "note": "Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22895&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22895_A_Committee_on_Civil_and_Human_Rights_26-12-14_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-12-15",
    "time": null,
    "title": "Nunez monitor report on the 22nd monitoring period",
@@ -2200,6 +2243,20 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22857&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22857_A_Committee_on_Hospitals_26-12-15_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "1:00 PM",
+   "title": "Committee on Economic Development",
+   "note": "Committee Room - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22863&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22863_A_Committee_on_Economic_Development_26-12-16_Committee_Agenda.pdf",
    "significance": 22,
    "why": [],
    "live": true,
