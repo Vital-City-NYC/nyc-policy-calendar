@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-16T19:54:48.944Z",
+ "generated": "2026-11-17T04:15:27.683Z",
  "window": {
-  "start": "2026-11-02",
-  "end": "2027-12-21"
+  "start": "2026-11-03",
+  "end": "2027-12-22"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,102 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 51,
-   "ms": 2,
+   "ms": 1,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 26,
-   "ms": 6,
-   "note": null
-  },
-  {
-   "name": "City Council",
-   "ok": true,
-   "count": 76,
-   "ms": 1362,
+   "count": 28,
+   "ms": 5,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 58,
-   "ms": 5785,
+   "count": 55,
+   "ms": 935,
+   "note": null
+  },
+  {
+   "name": "City Council",
+   "ok": true,
+   "count": 75,
+   "ms": 1141,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 8182,
+   "ms": 7586,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 134,
   "marquee": 4,
-  "major": 25,
-  "notable": 48
+  "major": 26,
+  "notable": 49,
+  "routine": 130
  },
  "events": [
-  {
-   "date": "2026-11-02",
-   "time": "10:00 AM",
-   "title": "Committee on Sanitation and Solid Waste Management",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22764&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22764_A_Committee_on_Sanitation_and_Solid_Waste_Management_26-11-02_Committee_Agenda.pdf",
-   "significance": 32,
-   "why": [
-    "high-salience committee"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-02",
-   "time": null,
-   "title": "Amendment of Rules Relating to Medical Room Standards in Schools",
-   "note": "Health and Mental Hygiene",
-   "strand": "hearings",
-   "source": "Health and Mental Hygiene",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 28,
-   "why": [
-    "Health and Mental Hygiene sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-02",
-   "time": null,
-   "title": "November 2, 2026 Public Hearing",
-   "note": "Community Boards",
-   "strand": "hearings",
-   "source": "Community Boards",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-02",
-   "time": null,
-   "title": "Proposed Rule - City Housing Assistance Program",
-   "note": "Housing Preservation and Development",
-   "strand": "hearings",
-   "source": "Housing Preservation and Development",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-11-03",
    "time": null,
@@ -3331,6 +3274,42 @@
    "anniversaryYears": 200,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2027-12-22",
+   "time": null,
+   "title": "The Natural History Museum opens its home — 150th anniversary",
+   "note": "The American Museum of Natural History's first purpose-built building opened on the Upper West Side.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://data.library.amnh.org/archives-authorities/id/amnhc_7000001",
+   "significance": 66,
+   "importance": 2,
+   "why": [
+    "150th anniversary"
+   ],
+   "historyYear": 1877,
+   "anniversaryYears": 150,
+   "live": true,
+   "tier": "major"
+  },
+  {
+   "date": "2027-12-22",
+   "time": null,
+   "title": "Lincoln Tunnel's first tube opens — 90th anniversary",
+   "note": "The first tube of the Lincoln Tunnel opened beneath the Hudson River, adding a second vehicular crossing to New Jersey.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/lincoln-tunnel",
+   "significance": 57,
+   "importance": 2,
+   "why": [
+    "90th anniversary"
+   ],
+   "historyYear": 1937,
+   "anniversaryYears": 90,
+   "live": true,
+   "tier": "notable"
   }
  ]
 }
