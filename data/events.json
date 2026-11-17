@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T04:15:27.683Z",
+ "generated": "2026-11-17T18:50:27.718Z",
  "window": {
   "start": "2026-11-03",
   "end": "2027-12-22"
@@ -10,7 +10,7 @@
    "name": "Curated",
    "ok": true,
    "count": 51,
-   "ms": 1,
+   "ms": 2,
    "note": null
   },
   {
@@ -21,32 +21,32 @@
    "note": null
   },
   {
-   "name": "City Record",
-   "ok": true,
-   "count": 55,
-   "ms": 935,
-   "note": null
-  },
-  {
    "name": "City Council",
    "ok": true,
-   "count": 75,
-   "ms": 1141,
+   "count": 78,
+   "ms": 1014,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 7586,
+   "ms": 6025,
    "note": "the Legislature is out of session"
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 59,
+   "ms": 6222,
+   "note": null
   }
  ],
  "counts": {
   "marquee": 4,
   "major": 26,
   "notable": 49,
-  "routine": 130
+  "routine": 137
  },
  "events": [
   {
@@ -831,6 +831,36 @@
   {
    "date": "2026-11-17",
    "time": null,
+   "title": "Advisory Report for October 2026",
+   "note": "Landmarks Preservation Commission",
+   "strand": "hearings",
+   "source": "Landmarks Preservation Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Landmarks Preservation Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-17",
+   "time": null,
+   "title": "Binding Report for October 2026",
+   "note": "Landmarks Preservation Commission",
+   "strand": "hearings",
+   "source": "Landmarks Preservation Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Landmarks Preservation Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-17",
+   "time": null,
    "title": "Correction: November 17, 2026, Public Hearing Agenda",
    "note": "Landmarks Preservation Commission · 253 Broadway",
    "strand": "hearings",
@@ -1081,6 +1111,23 @@
   },
   {
    "date": "2026-11-19",
+   "time": "11:15 AM",
+   "title": "Committee on Housing and Buildings",
+   "note": "VOTE* · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22878&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22878_A_Committee_on_Housing_and_Buildings_26-11-19_Committee_Agenda.pdf",
+   "significance": 40,
+   "why": [
+    "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-19",
    "time": "10:00 AM",
    "title": "Committee on Immigration",
    "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
@@ -1091,6 +1138,22 @@
    "significance": 40,
    "why": [
     "high-salience committee",
+    "a vote is scheduled"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "10:00 AM",
+   "title": "Committee on Cultural Affairs, Libraries and International Relations",
+   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22891&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22891_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-11-19_Committee_Agenda.pdf",
+   "significance": 30,
+   "why": [
     "a vote is scheduled"
    ],
    "live": true,
@@ -1367,7 +1430,7 @@
   },
   {
    "date": "2026-11-24",
-   "time": "11:00 AM",
+   "time": "12:00 PM",
    "title": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
    "note": "250 Broadway - 8th Floor - Hearing Room 3",
    "strand": "hearings",
@@ -1537,6 +1600,21 @@
   },
   {
    "date": "2026-12-01",
+   "time": null,
+   "title": "December 1, 2026, Public Hearing Agenda CR",
+   "note": "Landmarks Preservation Commission · 253 Broadway",
+   "strand": "hearings",
+   "source": "Landmarks Preservation Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Landmarks Preservation Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-01",
    "time": "11:30 AM",
    "title": "Committee on Land Use",
    "note": "250 Broadway - 8th Floor - Hearing Room 3",
@@ -1583,6 +1661,21 @@
    "date": "2026-12-02",
    "time": null,
    "title": "City Environmental Quality Review Fee Update Rulemaking",
+   "note": "City Planning Commission · 120 Broadway",
+   "strand": "hearings",
+   "source": "City Planning Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 38,
+   "why": [
+    "City Planning Commission sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-02",
+   "time": null,
+   "title": "City Planning Commission Public Hearing Ad",
    "note": "City Planning Commission · 120 Broadway",
    "strand": "hearings",
    "source": "City Planning Commission",
@@ -2186,6 +2279,20 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22857&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22857_A_Committee_on_Hospitals_26-12-15_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "10:00 AM",
+   "title": "Committee on Contracts",
+   "note": "250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22896&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22896_A_Committee_on_Contracts_26-12-16_Committee_Agenda.pdf",
    "significance": 22,
    "why": [],
    "live": true,
