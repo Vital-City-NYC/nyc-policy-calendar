@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-18T18:29:07.772Z",
+ "generated": "2026-11-19T02:53:30.533Z",
  "window": {
-  "start": "2026-11-04",
-  "end": "2027-12-23"
+  "start": "2026-11-05",
+  "end": "2027-12-24"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,71 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 48,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 6,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 64,
-   "ms": 464,
+   "count": 62,
+   "ms": 877,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 79,
-   "ms": 1819,
+   "count": 81,
+   "ms": 1227,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5445,
+   "ms": 9132,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 143,
   "major": 25,
+  "routine": 143,
   "notable": 48,
   "marquee": 3
  },
  "events": [
-  {
-   "date": "2026-11-04",
-   "time": null,
-   "title": "Draft Scope of Work for an Environmental Impact Statement (EIS) Brooklyn-Queens Expressway/Interstate 278 (\u001aBQE\u001a) from Atlantic Avenue to Nassau Street Project (BQE Central Project), Kings County (Brooklyn), New York",
-   "note": "Transportation · Address Not Listed In The Dropdown",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-04",
-   "time": null,
-   "title": "Proposed Rule - Amendment of Rules relating to Ancillary Dwelling Units",
-   "note": "Buildings",
-   "strand": "hearings",
-   "source": "Buildings",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-11-05",
    "time": null,
@@ -1898,6 +1872,38 @@
    "significance": 32,
    "why": [
     "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "1:00 PM",
+   "title": "Committee on Small Business",
+   "note": "Jointly with the Committee on Veterans · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22900&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22900_A_Committee_on_Small_Business_26-12-09_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "1:00 PM",
+   "title": "Committee on Veterans",
+   "note": "Jointly with the Committee on Small Business. · 250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22899&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22899_A_Committee_on_Veterans_26-12-09_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
    ],
    "live": true,
    "tier": "routine"
