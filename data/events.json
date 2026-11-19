@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T02:53:30.533Z",
+ "generated": "2026-11-19T18:42:59.460Z",
  "window": {
   "start": "2026-11-05",
   "end": "2027-12-24"
@@ -10,41 +10,41 @@
    "name": "Curated",
    "ok": true,
    "count": 48,
-   "ms": 3,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 7,
+   "ms": 5,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 62,
-   "ms": 877,
+   "count": 65,
+   "ms": 815,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 81,
-   "ms": 1227,
+   "ms": 1019,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 9132,
+   "ms": 6979,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 25,
-  "routine": 143,
+  "routine": 146,
   "notable": 48,
   "marquee": 3
  },
@@ -987,8 +987,8 @@
    "note": "Council Chambers - City Hall",
    "strand": "hearings",
    "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22545&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22545_A_City_Council_26-11-19_Committee_Agenda.pdf",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22897&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22897_A_City_Council_26-11-19_Committee_Agenda.pdf",
    "significance": 50,
    "why": [
     "stated meeting of the full Council"
@@ -1193,6 +1193,19 @@
    "note": "Housing Preservation and Development",
    "strand": "hearings",
    "source": "Housing Preservation and Development",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-11-19",
+   "time": null,
+   "title": "Notice of a Public Hearing In the matter of the conveyance of encroachment easements at or above sidewalks located at the World Trade Center (WTC) site in the Borough of Manhattan.",
+   "note": "Citywide Administrative Services",
+   "strand": "hearings",
+   "source": "Citywide Administrative Services",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
@@ -1735,6 +1748,21 @@
    ],
    "live": true,
    "tier": "notable"
+  },
+  {
+   "date": "2026-12-03",
+   "time": null,
+   "title": "NYCHA Audit and Finance Committee Meeting.",
+   "note": "Housing Authority",
+   "strand": "hearings",
+   "source": "Housing Authority",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 34,
+   "why": [
+    "Housing Authority sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-12-03",
@@ -2388,6 +2416,19 @@
    "note": "Consumer and Worker Protection",
    "strand": "hearings",
    "source": "Consumer and Worker Protection",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-21",
+   "time": null,
+   "title": "DSNY Proposed Amendment of Rules Relating to Recycling by City Agencies and Institutions",
+   "note": "Sanitation",
+   "strand": "hearings",
+   "source": "Sanitation",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
