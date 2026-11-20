@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-19T18:42:59.460Z",
+ "generated": "2026-11-20T02:45:41.512Z",
  "window": {
-  "start": "2026-11-05",
-  "end": "2027-12-24"
+  "start": "2026-11-06",
+  "end": "2027-12-25"
  },
  "corpusSize": 282,
  "sources": [
@@ -16,85 +16,39 @@
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 28,
-   "ms": 5,
+   "count": 27,
+   "ms": 7,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 65,
-   "ms": 815,
+   "count": 63,
+   "ms": 202,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 81,
-   "ms": 1019,
+   "count": 83,
+   "ms": 840,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 6979,
+   "ms": 4914,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "major": 25,
-  "routine": 146,
+  "major": 24,
   "notable": 48,
+  "routine": 146,
   "marquee": 3
  },
  "events": [
-  {
-   "date": "2026-11-05",
-   "time": null,
-   "title": "The Schaghen letter records the 'purchase' of Manhattan — 400th anniversary",
-   "note": "A letter by Dutch official Pieter Schaghen, dated Nov. 5, 1626, reported that colonists had 'purchased' the island of Manhattan from its Native inhabitants for goods worth 60 guilders. It is the only contemporary document of the transaction.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://newnetherlandinstitute.org/content/peter-schagen-letter/",
-   "significance": 68,
-   "importance": 2,
-   "why": [
-    "400th anniversary"
-   ],
-   "historyYear": 1626,
-   "anniversaryYears": 400,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2026-11-05",
-   "time": null,
-   "title": "Amendment of Rules Relating to Syndromic Surveillance",
-   "note": "Health and Mental Hygiene",
-   "strand": "hearings",
-   "source": "Health and Mental Hygiene",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 28,
-   "why": [
-    "Health and Mental Hygiene sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-05",
-   "time": null,
-   "title": "QBP Land Use Public Hearing",
-   "note": "Borough President - Queens · 120-55 Queens Boulevard",
-   "strand": "hearings",
-   "source": "Borough President - Queens",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-11-06",
    "time": null,
@@ -2072,6 +2026,20 @@
   },
   {
    "date": "2026-12-10",
+   "time": "1:00 PM",
+   "title": "Committee on Consumer and Worker Protection",
+   "note": "250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22827&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22827_A_Committee_on_Consumer_and_Worker_Protection_26-12-10_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-10",
    "time": null,
    "title": "Department of Design and Construction, NYS Civil Service Commission Proposal",
    "note": "Citywide Administrative Services",
@@ -2624,6 +2592,20 @@
    ],
    "approx": false,
    "live": false,
+   "tier": "routine"
+  },
+  {
+   "date": "2027-01-12",
+   "time": "10:00 AM",
+   "title": "Committee on General Welfare",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22902&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2027/1/22902_A_Committee_on_General_Welfare_27-01-12_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
    "tier": "routine"
   },
   {
