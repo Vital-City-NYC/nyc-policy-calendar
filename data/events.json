@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T02:45:41.512Z",
+ "generated": "2026-11-20T18:03:54.351Z",
  "window": {
   "start": "2026-11-06",
   "end": "2027-12-25"
@@ -10,42 +10,42 @@
    "name": "Curated",
    "ok": true,
    "count": 48,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 27,
-   "ms": 7,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 63,
-   "ms": 202,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 83,
-   "ms": 840,
+   "count": 86,
+   "ms": 1049,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 65,
+   "ms": 1208,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4914,
+   "ms": 5226,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
   "major": 24,
   "notable": 48,
-  "routine": 146,
+  "routine": 151,
   "marquee": 3
  },
  "events": [
@@ -1907,6 +1907,19 @@
   {
    "date": "2026-12-09",
    "time": null,
+   "title": "FCRC DECEMBER PUBLIC MEETING",
+   "note": "Franchise and Concession Review Committee · 255 Greenwich Street",
+   "strand": "hearings",
+   "source": "Franchise and Concession Review Committee",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-09",
+   "time": null,
    "title": "Spring Creek Phase 5 B",
    "note": "Housing Preservation and Development",
    "strand": "hearings",
@@ -2045,6 +2058,19 @@
    "note": "Citywide Administrative Services",
    "strand": "hearings",
    "source": "Citywide Administrative Services",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-10",
+   "time": null,
+   "title": "DINING OUT NYC PUBLIC HEARINGS",
+   "note": "Transportation",
+   "strand": "hearings",
+   "source": "Transportation",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
@@ -2291,6 +2317,22 @@
   },
   {
    "date": "2026-12-15",
+   "time": "11:30 AM",
+   "title": "Committee on Land Use",
+   "note": "250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22884&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22884_A_Committee_on_Land_Use_26-12-15_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-15",
    "time": "1:00 PM",
    "title": "Committee on Cultural Affairs, Libraries and International Relations",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
@@ -2312,6 +2354,34 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22857&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22857_A_Committee_on_Hospitals_26-12-15_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "11:00 AM",
+   "title": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
+   "note": "250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22886&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22886_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-12-15_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "11:15 AM",
+   "title": "Subcommittee on Zoning and Franchises",
+   "note": "250 Broadway - 8th Floor - Hearing Room 3",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22885&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22885_A_Subcommittee_on_Zoning_and_Franchises_26-12-15_Committee_Agenda.pdf",
    "significance": 22,
    "why": [],
    "live": true,
