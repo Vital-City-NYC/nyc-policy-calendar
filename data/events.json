@@ -1,102 +1,54 @@
 {
- "generated": "2026-11-20T18:03:54.351Z",
+ "generated": "2026-11-21T02:55:58.356Z",
  "window": {
-  "start": "2026-11-06",
-  "end": "2027-12-25"
+  "start": "2026-11-07",
+  "end": "2027-12-26"
  },
  "corpusSize": 282,
  "sources": [
   {
    "name": "Curated",
    "ok": true,
-   "count": 48,
-   "ms": 3,
+   "count": 47,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 27,
-   "ms": 6,
+   "count": 26,
+   "ms": 5,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 86,
-   "ms": 1049,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 65,
-   "ms": 1208,
+   "count": 87,
+   "ms": 850,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5226,
+   "ms": 4527,
    "note": "the Legislature is out of session"
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 64,
+   "ms": 4659,
+   "note": null
   }
  ],
  "counts": {
-  "major": 24,
-  "notable": 48,
   "routine": 151,
+  "notable": 47,
+  "major": 23,
   "marquee": 3
  },
  "events": [
-  {
-   "date": "2026-11-06",
-   "time": null,
-   "title": "District Council 37's contract expires",
-   "note": "The 2021-2026 agreement for District Council 37, known as DC 37, covers nearly 90,000 city employees, about a quarter of the municipal workforce. DC 37 is the city's largest union, counting some 150,000 members across sectors. The deal that replaces this one sets the pattern for the teachers and everyone else, and is the first major labor test of this administration.",
-   "strand": "power",
-   "source": "Curated",
-   "sourceUrl": "https://www.nyc.gov/assets/olr/downloads/pdf/collectivebargaining/2021-2026/dc-37-2021-2026-moa.pdf",
-   "significance": 70,
-   "why": [
-    "editorially judged"
-   ],
-   "approx": false,
-   "live": false,
-   "tier": "major"
-  },
-  {
-   "date": "2026-11-06",
-   "time": null,
-   "title": "Bloomberg elected mayor after 9/11 — 25th anniversary",
-   "note": "Media entrepreneur Michael Bloomberg won the mayoralty just weeks after the September 11 attacks, defeating Democrat Mark Green. He took office as the 108th mayor on Jan. 1, 2002.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://en.wikipedia.org/wiki/Mayoralty_of_Michael_Bloomberg",
-   "significance": 64,
-   "importance": 2,
-   "why": [
-    "25th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 2001,
-   "anniversaryYears": 25,
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-11-06",
-   "time": null,
-   "title": "Extension of Time to File and Expansion of Processes \u001a Permanent Rule Amendment of Rule Relating to Surcharge on Certain Non-Primary Residences",
-   "note": "Finance · Address Not Listed In The Dropdown",
-   "strand": "hearings",
-   "source": "Finance",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-11-09",
    "time": null,
@@ -2354,6 +2306,20 @@
    "source": "City Council",
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22857&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22857_A_Committee_on_Hospitals_26-12-15_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "1:00 PM",
+   "title": "Committee on Public Housing",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22894&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22894_A_Committee_on_Public_Housing_26-12-15_Committee_Agenda.pdf",
    "significance": 22,
    "why": [],
    "live": true,
