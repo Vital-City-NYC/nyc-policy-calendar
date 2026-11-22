@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-21T16:59:46.705Z",
+ "generated": "2026-11-22T01:49:46.722Z",
  "window": {
-  "start": "2026-11-07",
-  "end": "2027-12-26"
+  "start": "2026-11-08",
+  "end": "2027-12-27"
  },
  "corpusSize": 282,
  "sources": [
@@ -16,36 +16,36 @@
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 26,
-   "ms": 8,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 64,
-   "ms": 296,
+   "count": 28,
+   "ms": 6,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 87,
-   "ms": 768,
+   "ms": 647,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5217,
+   "ms": 4487,
    "note": "the Legislature is out of session"
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 64,
+   "ms": 7800,
+   "note": null
   }
  ],
  "counts": {
   "routine": 151,
-  "notable": 47,
-  "major": 23,
+  "notable": 48,
+  "major": 24,
   "marquee": 3
  },
  "events": [
@@ -3511,6 +3511,42 @@
    ],
    "historyYear": 1937,
    "anniversaryYears": 90,
+   "live": true,
+   "tier": "notable"
+  },
+  {
+   "date": "2027-12-27",
+   "time": null,
+   "title": "The Flushing Remonstrance defends religious liberty — 370th anniversary",
+   "note": "On Dec. 27, 1657, residents of Vlissingen (Flushing, Queens) signed a petition protesting Stuyvesant's ban on Quakers. The Flushing Remonstrance is celebrated as an early American statement of religious freedom.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://www.bownehouse.org/trials-of-john-bowne/live-blogging-john-bownes-trial",
+   "significance": 74,
+   "importance": 4,
+   "why": [
+    "370th anniversary"
+   ],
+   "historyYear": 1657,
+   "anniversaryYears": 370,
+   "live": true,
+   "tier": "major"
+  },
+  {
+   "date": "2027-12-27",
+   "time": null,
+   "title": "\"Show Boat\" premieres and reinvents the musical — 100th anniversary",
+   "note": "Jerome Kern and Oscar Hammerstein II's \"Show Boat\" opened at the Ziegfeld Theatre, weaving serious themes of race and heartbreak into a Broadway musical for the first time. It ran 572 performances.",
+   "strand": "anniversary",
+   "source": "New York, in Time",
+   "sourceUrl": "https://www.pbs.org/wnet/broadway/shows/show-boat/",
+   "significance": 64,
+   "importance": 2,
+   "why": [
+    "100th anniversary"
+   ],
+   "historyYear": 1927,
+   "anniversaryYears": 100,
    "live": true,
    "tier": "notable"
   }
