@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T13:34:11.836Z",
+ "generated": "2026-11-23T21:47:10.388Z",
  "window": {
   "start": "2026-11-09",
   "end": "2027-12-28"
@@ -10,40 +10,40 @@
    "name": "Curated",
    "ok": true,
    "count": 47,
-   "ms": 1,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 6,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 64,
-   "ms": 1265,
+   "ms": 8,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 87,
-   "ms": 1900,
+   "count": 91,
+   "ms": 1171,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 67,
+   "ms": 5734,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 9656,
+   "ms": 9588,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 151,
+  "routine": 158,
   "notable": 48,
   "major": 24,
   "marquee": 3
@@ -1439,6 +1439,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-11-30",
+   "time": null,
+   "title": "Bronx Borough President Public Hearing Notice \u001a C 240216 ZMX \u001a 4506 Park Avenue Rezoning",
+   "note": "Borough President - Bronx",
+   "strand": "hearings",
+   "source": "Borough President - Bronx",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-12-01",
    "time": null,
    "title": "New York, 1860, by Joshua K. Leon",
@@ -1605,6 +1618,19 @@
    "why": [
     "joint committee hearing"
    ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-02",
+   "time": null,
+   "title": "BERS EXECUTIVE COMMITTEE MEETING",
+   "note": "Board of Education Retirement System · 55 Water Street",
+   "strand": "hearings",
+   "source": "Board of Education Retirement System",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
    "live": true,
    "tier": "routine"
   },
@@ -1962,6 +1988,38 @@
   {
    "date": "2026-12-10",
    "time": "10:00 AM",
+   "title": "Committee on Public Housing",
+   "note": "Jointly with the Committee on Women and Gender Equity · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22904&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22904_A_Committee_on_Public_Housing_26-12-10_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "10:00 AM",
+   "title": "Committee on Women and Gender Equity",
+   "note": "Jointly with the Committee on Public Housing. · 250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22903&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22903_A_Committee_on_Women_and_Gender_Equity_26-12-10_Committee_Agenda.pdf",
+   "significance": 28,
+   "why": [
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "10:00 AM",
    "title": "Committee on Workforce Development",
    "note": "Jointly with the Committee on Children and Youth and the Committee on Civil Service and Labor · 250 Broadway - 8th Floor - Hearing Room 2",
    "strand": "hearings",
@@ -2094,6 +2152,20 @@
   },
   {
    "date": "2026-12-11",
+   "time": "10:00 AM",
+   "title": "Committee on Governmental Operations, State & Federal Legislation",
+   "note": "250 Broadway - 8th Floor - Hearing Room 1",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22834&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22834_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_26-12-11_Committee_Agenda.pdf",
+   "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-11",
    "time": null,
    "title": "List Appropriations, Fraud Investigator (31113) to Investigator (31105)",
    "note": "Citywide Administrative Services",
@@ -2122,6 +2194,37 @@
    "anniversaryYears": 80,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "1:00 PM",
+   "title": "Committee on Education",
+   "note": "250 Broadway - 8th Floor - Hearing Room 2",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22901&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22901_A_Committee_on_Education_26-12-14_Committee_Agenda.pdf",
+   "significance": 32,
+   "why": [
+    "high-salience committee"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-14",
+   "time": null,
+   "title": "Board of Standards and Appeals Public Hearing Notice",
+   "note": "Board of Standards and Appeals · 22 Reade Street",
+   "strand": "hearings",
+   "source": "Board of Standards and Appeals",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 30,
+   "why": [
+    "Board of Standards and Appeals sets policy the public feels directly"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-12-14",
