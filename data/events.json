@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T21:47:10.388Z",
+ "generated": "2026-11-24T05:41:23.671Z",
  "window": {
-  "start": "2026-11-09",
-  "end": "2027-12-28"
+  "start": "2026-11-10",
+  "end": "2027-12-29"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,7 +10,7 @@
    "name": "Curated",
    "ok": true,
    "count": 47,
-   "ms": 2,
+   "ms": 3,
    "note": null
   },
   {
@@ -21,89 +21,34 @@
    "note": null
   },
   {
-   "name": "City Council",
+   "name": "City Record",
    "ok": true,
-   "count": 91,
-   "ms": 1171,
+   "count": 64,
+   "ms": 787,
    "note": null
   },
   {
-   "name": "City Record",
+   "name": "City Council",
    "ok": true,
-   "count": 67,
-   "ms": 5734,
+   "count": 90,
+   "ms": 1175,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 9588,
+   "ms": 7858,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 158,
   "notable": 48,
+  "routine": 154,
   "major": 24,
   "marquee": 3
  },
  "events": [
-  {
-   "date": "2026-11-09",
-   "time": null,
-   "title": "Board of Standards and Appeals Public Hearing Notice",
-   "note": "Board of Standards and Appeals · 22 Reade Street",
-   "strand": "hearings",
-   "source": "Board of Standards and Appeals",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 30,
-   "why": [
-    "Board of Standards and Appeals sets policy the public feels directly"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-09",
-   "time": "10:00 AM",
-   "title": "Committee on Rules, Privileges, Elections, Standards and Ethics",
-   "note": "250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22841&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22841_A_Committee_on_Rules%2C_Privileges%2C_Elections%2C_Standards_and_Ethics_26-11-09_Committee_Agenda.pdf",
-   "significance": 22,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-09",
-   "time": null,
-   "title": "Notice of Joint Public Hearing: 11/9/2026; for the Installation, Operation and Management of an Outdoor Holiday Gift Market at Union Square Park, Manhattan (Solicitation # M89-AS-2025)",
-   "note": "Parks and Recreation · 255 Greenwich Street",
-   "strand": "hearings",
-   "source": "Parks and Recreation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-09",
-   "time": null,
-   "title": "Notice of Public Hearing and Opportunity to Comment on Proposed Rules relating to amendments for the Dining Out NYC program",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-11-10",
    "time": null,
