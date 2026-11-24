@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T11:44:32.921Z",
+ "generated": "2026-11-24T20:24:37.731Z",
  "window": {
   "start": "2026-11-10",
   "end": "2027-12-29"
@@ -17,34 +17,34 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 28,
-   "ms": 5,
+   "ms": 6,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 68,
+   "ms": 566,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 90,
-   "ms": 678,
+   "count": 94,
+   "ms": 852,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4593,
+   "ms": 5787,
    "note": "the Legislature is out of session"
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 64,
-   "ms": 9236,
-   "note": null
   }
  ],
  "counts": {
-  "notable": 48,
-  "routine": 154,
+  "notable": 49,
+  "routine": 161,
   "major": 24,
   "marquee": 3
  },
@@ -1488,6 +1488,32 @@
    "tier": "routine"
   },
   {
+   "date": "2026-12-01",
+   "time": null,
+   "title": "Bronx Borough President Public Hearing Notice \u001a ELURP Application: HPD 260002 PPX \u001a The Stemma (HPD ELURP)",
+   "note": "Borough President - Bronx",
+   "strand": "hearings",
+   "source": "Borough President - Bronx",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-01",
+   "time": null,
+   "title": "Bronx Borough President Public Hearing Notice \u001a ELURP Application: HPD 270002 PPX \u001a 1605 Nelson Avenue (HPD ELURP)",
+   "note": "Borough President - Bronx",
+   "strand": "hearings",
+   "source": "Borough President - Bronx",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-12-02",
    "time": null,
    "title": "City Environmental Quality Review Fee Update Rulemaking",
@@ -1586,6 +1612,19 @@
    "note": "Supreme Court · 851 Grand Concourse",
    "strand": "hearings",
    "source": "Supreme Court",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-02",
+   "time": null,
+   "title": "City of New York Deferred Compensation Plan Board Meeting",
+   "note": "Office of Labor Relations",
+   "strand": "hearings",
+   "source": "Office of Labor Relations",
    "sourceUrl": "https://a856-cityrecord.nyc.gov/",
    "significance": 20,
    "why": [],
@@ -1884,6 +1923,40 @@
   },
   {
    "date": "2026-12-10",
+   "time": "10:00 AM",
+   "title": "Committee on Public Safety",
+   "note": "Jointly with Committee on Transportation and Infrastructure. · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22905&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22905_A_Committee_on_Public_Safety_26-12-10_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "10:00 AM",
+   "title": "Committee on Transportation and Infrastructure",
+   "note": "Jointly with the Committee on Public Safety · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22906&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22906_A_Committee_on_Transportation_and_Infrastructure_26-12-10_Committee_Agenda.pdf",
+   "significance": 38,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing"
+   ],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-10",
    "time": "1:00 PM",
    "title": "Committee on Environmental Protection and Waterfronts",
    "note": "250 Broadway - 8th Floor - Hearing Room 1",
@@ -2033,6 +2106,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-12-10",
+   "time": null,
+   "title": "Procurement Policy Board (PPB) Meeting Notice",
+   "note": "Procurement Policy Board · 255 Greenwich Street",
+   "strand": "hearings",
+   "source": "Procurement Policy Board",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-12-11",
    "time": null,
    "title": "Federal stopgap funding expires; shutdown risk",
@@ -2139,6 +2225,41 @@
    "anniversaryYears": 80,
    "live": true,
    "tier": "major"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "1:00 PM",
+   "title": "Committee on Oversight and Investigations",
+   "note": "Jointly with the Committee on Consumer and Worker Protection · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22909&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22909_A_Committee_on_Oversight_and_Investigations_26-12-14_Committee_Agenda.pdf",
+   "significance": 46,
+   "why": [
+    "high-salience committee",
+    "joint committee hearing",
+    "subject matter of broad public interest"
+   ],
+   "live": true,
+   "tier": "notable"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "1:00 PM",
+   "title": "Committee on Consumer and Worker Protection",
+   "note": "Jointly with the Committee on Oversight and Investigations. · Council Chambers - City Hall",
+   "strand": "hearings",
+   "source": "City Council",
+   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22908&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22908_A_Committee_on_Consumer_and_Worker_Protection_26-12-14_Committee_Agenda.pdf",
+   "significance": 36,
+   "why": [
+    "joint committee hearing",
+    "subject matter of broad public interest"
+   ],
+   "live": true,
+   "tier": "routine"
   },
   {
    "date": "2026-12-14",
