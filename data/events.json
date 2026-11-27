@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-26T19:19:26.967Z",
+ "generated": "2026-11-27T03:52:51.637Z",
  "window": {
-  "start": "2026-11-12",
-  "end": "2027-12-31"
+  "start": "2026-11-13",
+  "end": "2028-01-01"
  },
  "corpusSize": 282,
  "sources": [
@@ -10,187 +10,45 @@
    "name": "Curated",
    "ok": true,
    "count": 44,
-   "ms": 3,
+   "ms": 2,
    "note": null
   },
   {
    "name": "Anniversaries",
    "ok": true,
-   "count": 30,
-   "ms": 8,
+   "count": 3,
+   "ms": 5,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
-   "count": 97,
-   "ms": 755,
+   "count": 90,
+   "ms": 851,
    "note": null
   },
   {
    "name": "City Record",
    "ok": true,
-   "count": 57,
-   "ms": 725,
+   "count": 55,
+   "ms": 907,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 5314,
+   "ms": 4692,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "notable": 50,
-  "routine": 151,
-  "major": 24,
-  "marquee": 3
+  "routine": 144,
+  "notable": 36,
+  "major": 11,
+  "marquee": 1
  },
  "events": [
-  {
-   "date": "2026-11-12",
-   "time": "1:30 PM",
-   "title": "Stated meeting of the City Council",
-   "note": "Council Chambers - City Hall",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22860&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22860_A_City_Council_26-11-12_Council_Agenda.pdf",
-   "significance": 50,
-   "why": [
-    "stated meeting of the full Council"
-   ],
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-11-12",
-   "time": "11:00 AM",
-   "title": "Committee on Finance",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22835&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22835_A_Committee_on_Finance_26-11-12_Committee_Agenda.pdf",
-   "significance": 46,
-   "why": [
-    "high-salience committee",
-    "finance committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2026-11-12",
-   "time": "11:00 AM",
-   "title": "Committee on Housing and Buildings",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22850&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22850_A_Committee_on_Housing_and_Buildings_26-11-12_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-12",
-   "time": "10:30 AM",
-   "title": "Committee on Transportation and Infrastructure",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22848&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22848_A_Committee_on_Transportation_and_Infrastructure_26-11-12_Committee_Agenda.pdf",
-   "significance": 40,
-   "why": [
-    "high-salience committee",
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-12",
-   "time": "11:00 AM",
-   "title": "Committee on Consumer and Worker Protection",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 3",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22847&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22847_A_Committee_on_Consumer_and_Worker_Protection_26-11-12_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-12",
-   "time": "10:00 AM",
-   "title": "Committee on Cultural Affairs, Libraries and International Relations",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 1",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22851&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22851_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Relations_26-11-12_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-12",
-   "time": "10:00 AM",
-   "title": "Committee on Veterans",
-   "note": "VOTE* · 250 Broadway - 8th Floor - Hearing Room 2",
-   "strand": "hearings",
-   "source": "City Council",
-   "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22849&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-   "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/11/22849_A_Committee_on_Veterans_26-11-12_Committee_Agenda.pdf",
-   "significance": 30,
-   "why": [
-    "a vote is scheduled"
-   ],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-12",
-   "time": null,
-   "title": "DINING OUT NYC PUBLIC HEARINGS",
-   "note": "Transportation",
-   "strand": "hearings",
-   "source": "Transportation",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
-  {
-   "date": "2026-11-12",
-   "time": null,
-   "title": "NEW YORK CITY INDUSTRIAL DEVELOPMENT AGENCY - NOTICE OF PUBLIC HEARING - November 12, 2026",
-   "note": "Industrial Development Agency · 1 Liberty Plaza",
-   "strand": "hearings",
-   "source": "Industrial Development Agency",
-   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
-   "significance": 20,
-   "why": [],
-   "live": true,
-   "tier": "routine"
-  },
   {
    "date": "2026-11-13",
    "time": null,
@@ -2931,24 +2789,6 @@
    "tier": "notable"
   },
   {
-   "date": "2027-04-06",
-   "time": null,
-   "title": "First Tony Awards honor Broadway — 80th anniversary",
-   "note": "The American Theatre Wing held the first Antoinette Perry Awards in the Grand Ballroom of the Waldorf-Astoria, honoring excellence on Broadway. The awards were nicknamed the \"Tonys\" during the ceremony itself.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.tonyawards.com/history/our-history/",
-   "significance": 58,
-   "importance": 2,
-   "why": [
-    "80th anniversary"
-   ],
-   "historyYear": 1947,
-   "anniversaryYears": 80,
-   "live": true,
-   "tier": "notable"
-  },
-  {
    "date": "2027-04-13",
    "time": null,
    "title": "Roofless, by Karen A. Snedker and Jennifer McKinney",
@@ -2965,43 +2805,6 @@
    "tier": "routine"
   },
   {
-   "date": "2027-04-15",
-   "time": null,
-   "title": "Jackie Robinson breaks baseball's color barrier — 80th anniversary",
-   "note": "Jackie Robinson debuted at first base for the Brooklyn Dodgers, becoming the first Black player in the modern major leagues.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://baseballhall.org/hall-of-famers/robinson-jackie",
-   "significance": 78,
-   "importance": 4,
-   "why": [
-    "80th anniversary"
-   ],
-   "historyYear": 1947,
-   "anniversaryYears": 80,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2027-04-26",
-   "time": null,
-   "title": "Studio 54 opens — 50th anniversary",
-   "note": "The Midtown discotheque opened and instantly became the epicenter of celebrity nightlife and disco excess.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.britannica.com/topic/Studio-54",
-   "significance": 68,
-   "importance": 2,
-   "why": [
-    "50th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 1977,
-   "anniversaryYears": 50,
-   "live": true,
-   "tier": "major"
-  },
-  {
    "date": "2027-04-26",
    "time": null,
    "title": "Ten-year capital strategy issued",
@@ -3015,24 +2818,6 @@
    ],
    "approx": false,
    "live": false,
-   "tier": "notable"
-  },
-  {
-   "date": "2027-04-29",
-   "time": null,
-   "title": "Lever House brings the glass curtain wall to Park Avenue — 75th anniversary",
-   "note": "Gordon Bunshaft's Lever House, for Skidmore, Owings & Merrill, opened at 390 Park Avenue. Its blue-green glass skin was among the first true curtain walls on an American office tower.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "http://s-media.nyc.gov/agencies/lpc/lp/1277.pdf",
-   "significance": 61,
-   "importance": 2,
-   "why": [
-    "75th anniversary"
-   ],
-   "historyYear": 1952,
-   "anniversaryYears": 75,
-   "live": true,
    "tier": "notable"
   },
   {
@@ -3084,42 +2869,6 @@
    "tier": "notable"
   },
   {
-   "date": "2027-05-06",
-   "time": null,
-   "title": "Trinity Church receives its royal charter — 330th anniversary",
-   "note": "The Anglican parish of Trinity Church was chartered on May 6, 1697, on behalf of King William III by Royal Governor Benjamin Fletcher.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://trinitychurchnyc.org/visit-history/places/trinity-church",
-   "significance": 57,
-   "importance": 2,
-   "why": [
-    "330th anniversary"
-   ],
-   "historyYear": 1697,
-   "anniversaryYears": 330,
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2027-05-07",
-   "time": null,
-   "title": "Live TV's Golden Age begins with Kraft Theatre — 80th anniversary",
-   "note": "The premiere of Kraft Television Theatre on May 7, 1947 opened the Golden Age of live television drama, an era of anthology plays broadcast largely from New York studios.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://en.wikipedia.org/wiki/Golden_Age_of_Television",
-   "significance": 58,
-   "importance": 2,
-   "why": [
-    "80th anniversary"
-   ],
-   "historyYear": 1947,
-   "anniversaryYears": 80,
-   "live": true,
-   "tier": "notable"
-  },
-  {
    "date": "2027-05-31",
    "time": null,
    "title": "Memorial Day",
@@ -3134,24 +2883,6 @@
    "approx": false,
    "live": false,
    "tier": "notable"
-  },
-  {
-   "date": "2027-06-13",
-   "time": null,
-   "title": "Lindbergh gets a ticker-tape hero's welcome — 100th anniversary",
-   "note": "Millions lined Broadway for a ticker-tape parade honoring Charles Lindbergh after his solo flight across the Atlantic.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.britannica.com/biography/Charles-Lindbergh",
-   "significance": 84,
-   "importance": 4,
-   "why": [
-    "100th anniversary"
-   ],
-   "historyYear": 1927,
-   "anniversaryYears": 100,
-   "live": true,
-   "tier": "major"
   },
   {
    "date": "2027-06-19",
@@ -3202,24 +2933,6 @@
    "tier": "major"
   },
   {
-   "date": "2027-07-04",
-   "time": null,
-   "title": "Slavery ends in New York State — 200th anniversary",
-   "note": "An 1817 law took full effect on July 4, 1827, ending legal slavery in New York and freeing thousands of remaining enslaved people.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://history.nycourts.gov/when-did-slavery-end-in-new-york/",
-   "significance": 88,
-   "importance": 4,
-   "why": [
-    "200th anniversary"
-   ],
-   "historyYear": 1827,
-   "anniversaryYears": 200,
-   "live": true,
-   "tier": "marquee"
-  },
-  {
    "date": "2027-07-05",
    "time": null,
    "title": "Independence Day observed",
@@ -3236,372 +2949,22 @@
    "tier": "notable"
   },
   {
-   "date": "2027-07-13",
+   "date": "2028-01-01",
    "time": null,
-   "title": "The blackout that broke the city's spirit — 50th anniversary",
-   "note": "Lightning strikes knocked out power for some 25 hours, unleashing widespread looting and arson across the crime-plagued, cash-strapped city.",
+   "title": "Five boroughs consolidate into Greater New York — 130th anniversary",
+   "note": "On New Year's Day 1898 Manhattan, Brooklyn, Queens, the Bronx and Staten Island merged into a single city of more than three million people.",
    "strand": "anniversary",
    "source": "New York, in Time",
-   "sourceUrl": "https://www.britannica.com/event/New-York-City-blackout-of-1977",
-   "significance": 98,
+   "sourceUrl": "https://en.wikipedia.org/wiki/City_of_Greater_New_York",
+   "significance": 84,
    "importance": 5,
    "why": [
-    "50th anniversary",
-    "within living memory"
+    "130th anniversary"
    ],
-   "historyYear": 1977,
-   "anniversaryYears": 50,
-   "live": true,
-   "tier": "marquee"
-  },
-  {
-   "date": "2027-07-28",
-   "time": null,
-   "title": "Silent Parade marches down Fifth Avenue — 110th anniversary",
-   "note": "Thousands of Black New Yorkers marched in silence down Fifth Avenue to protest lynchings and the East St. Louis massacre.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://guides.loc.gov/chronicling-america-silent-protest-parade",
-   "significance": 74,
-   "importance": 4,
-   "why": [
-    "110th anniversary"
-   ],
-   "historyYear": 1917,
-   "anniversaryYears": 110,
+   "historyYear": 1898,
+   "anniversaryYears": 130,
    "live": true,
    "tier": "major"
-  },
-  {
-   "date": "2027-08-10",
-   "time": null,
-   "title": "The Son of Sam is captured — 50th anniversary",
-   "note": "Police arrested David Berkowitz, ending a serial-killing spree that terrorized the city for more than a year.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.britannica.com/biography/David-Berkowitz",
-   "significance": 78,
-   "importance": 3,
-   "why": [
-    "50th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 1977,
-   "anniversaryYears": 50,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2027-10-01",
-   "time": null,
-   "title": "The Plaza Hotel opens facing Central Park — 120th anniversary",
-   "note": "Henry Hardenbergh's Plaza Hotel opened at Fifth Avenue and Central Park South. The French Renaissance chateau-style tower quickly became the grandest hotel in the city.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.nps.gov/places/the-plaza-hotel.htm",
-   "significance": 58,
-   "importance": 2,
-   "why": [
-    "120th anniversary"
-   ],
-   "historyYear": 1907,
-   "anniversaryYears": 120,
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2027-10-12",
-   "time": null,
-   "title": "Citicorp Center opens, then is secretly reinforced — 50th anniversary",
-   "note": "Hugh Stubbins and engineer William LeMessurier completed Citicorp Center, a 59-story tower on stilts with a distinctive sloped top. A year later a hidden structural flaw prompted a secret emergency repair.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.enr.com/articles/60648-author-details-citicorp-tower-design-error-and-the-race-to-fix-it",
-   "significance": 68,
-   "importance": 2,
-   "why": [
-    "50th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 1977,
-   "anniversaryYears": 50,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2027-10-17",
-   "time": null,
-   "title": "Joseph Papp's Public Theater opens with \"Hair\" — 60th anniversary",
-   "note": "Joseph Papp opened his year-round Public Theater in the former Astor Library on Lafayette Street, launching it with the rock musical \"Hair,\" the first production in its new home.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.villagepreservation.org/2016/10/17/ground-breaking-musical-hair-premiers-at-the-public-theater-october-17-1967/",
-   "significance": 65,
-   "importance": 2,
-   "why": [
-    "60th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 1967,
-   "anniversaryYears": 60,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2027-10-19",
-   "time": null,
-   "title": "Prospect Park opens in Brooklyn — 160th anniversary",
-   "note": "The first section of Prospect Park, designed by Olmsted and Vaux, opened to the public in Brooklyn.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.prospectpark.org/creation-prospect-park/",
-   "significance": 58,
-   "importance": 2,
-   "why": [
-    "160th anniversary"
-   ],
-   "historyYear": 1867,
-   "anniversaryYears": 160,
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2027-10-31",
-   "time": null,
-   "title": "Truck attack on Hudson River bike path — 10th anniversary",
-   "note": "A man drove a rented truck down a Lower Manhattan bike path, killing eight people and injuring many others. It was the city's deadliest terrorist attack since 9/11.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.justice.gov/archives/opa/pr/sayfullo-saipov-charged-terrorism-and-murder-aid-racketeering-connection-lower-manhattan",
-   "significance": 72,
-   "importance": 3,
-   "why": [
-    "10th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 2017,
-   "anniversaryYears": 10,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2027-11-02",
-   "time": null,
-   "title": "The African Free School opens — 240th anniversary",
-   "note": "The Manumission Society opened the African Free School, the first school in New York for the children of enslaved and free Black families.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://en.wikipedia.org/wiki/African_Free_School",
-   "significance": 68,
-   "importance": 3,
-   "why": [
-    "240th anniversary"
-   ],
-   "historyYear": 1787,
-   "anniversaryYears": 240,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2027-11-06",
-   "time": null,
-   "title": "New York men vote for women's suffrage — 110th anniversary",
-   "note": "New York became the first major eastern state to grant women the vote when male voters approved a suffrage referendum.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.loc.gov/collections/women-of-protest/articles-and-essays/tactics-and-techniques-of-the-national-womans-party-suffrage-campaign/",
-   "significance": 64,
-   "importance": 3,
-   "why": [
-    "110th anniversary"
-   ],
-   "historyYear": 1917,
-   "anniversaryYears": 110,
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2027-11-08",
-   "time": null,
-   "title": "Ed Koch is elected mayor — 50th anniversary",
-   "note": "The brash congressman won the mayoralty, beginning three terms that spanned the city's recovery from fiscal collapse.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.britannica.com/biography/Ed-Koch",
-   "significance": 68,
-   "importance": 2,
-   "why": [
-    "50th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 1977,
-   "anniversaryYears": 50,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2027-11-13",
-   "time": null,
-   "title": "Times Square is reborn — 30th anniversary",
-   "note": "Disney's The Lion King opened at the restored New Amsterdam Theatre, symbolizing the transformation of a once-seedy Times Square into a family tourist mecca.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.mcny.org/",
-   "significance": 65,
-   "importance": 2,
-   "why": [
-    "30th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 1997,
-   "anniversaryYears": 30,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2027-11-13",
-   "time": null,
-   "title": "Holland Tunnel opens under the Hudson — 100th anniversary",
-   "note": "The Holland Tunnel opened as the first mechanically ventilated underwater vehicular tunnel in the world, linking Manhattan and Jersey City.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/holland-tunnel",
-   "significance": 64,
-   "importance": 2,
-   "why": [
-    "100th anniversary"
-   ],
-   "historyYear": 1927,
-   "anniversaryYears": 100,
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2027-12-13",
-   "time": null,
-   "title": "Delmonico's opens — 200th anniversary",
-   "note": "The Swiss-born Delmonico brothers opened a small café on William Street that grew into America's pioneering fine-dining restaurant.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://en.wikipedia.org/wiki/Delmonico's",
-   "significance": 68,
-   "importance": 2,
-   "why": [
-    "200th anniversary"
-   ],
-   "historyYear": 1827,
-   "anniversaryYears": 200,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2027-12-22",
-   "time": null,
-   "title": "The Natural History Museum opens its home — 150th anniversary",
-   "note": "The American Museum of Natural History's first purpose-built building opened on the Upper West Side.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://data.library.amnh.org/archives-authorities/id/amnhc_7000001",
-   "significance": 66,
-   "importance": 2,
-   "why": [
-    "150th anniversary"
-   ],
-   "historyYear": 1877,
-   "anniversaryYears": 150,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2027-12-22",
-   "time": null,
-   "title": "Lincoln Tunnel's first tube opens — 90th anniversary",
-   "note": "The first tube of the Lincoln Tunnel opened beneath the Hudson River, adding a second vehicular crossing to New Jersey.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/lincoln-tunnel",
-   "significance": 57,
-   "importance": 2,
-   "why": [
-    "90th anniversary"
-   ],
-   "historyYear": 1937,
-   "anniversaryYears": 90,
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2027-12-27",
-   "time": null,
-   "title": "The Flushing Remonstrance defends religious liberty — 370th anniversary",
-   "note": "On Dec. 27, 1657, residents of Vlissingen (Flushing, Queens) signed a petition protesting Stuyvesant's ban on Quakers. The Flushing Remonstrance is celebrated as an early American statement of religious freedom.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.bownehouse.org/trials-of-john-bowne/live-blogging-john-bownes-trial",
-   "significance": 74,
-   "importance": 4,
-   "why": [
-    "370th anniversary"
-   ],
-   "historyYear": 1657,
-   "anniversaryYears": 370,
-   "live": true,
-   "tier": "major"
-  },
-  {
-   "date": "2027-12-27",
-   "time": null,
-   "title": "\"Show Boat\" premieres and reinvents the musical — 100th anniversary",
-   "note": "Jerome Kern and Oscar Hammerstein II's \"Show Boat\" opened at the Ziegfeld Theatre, weaving serious themes of race and heartbreak into a Broadway musical for the first time. It ran 572 performances.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.pbs.org/wnet/broadway/shows/show-boat/",
-   "significance": 64,
-   "importance": 2,
-   "why": [
-    "100th anniversary"
-   ],
-   "historyYear": 1927,
-   "anniversaryYears": 100,
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2027-12-30",
-   "time": null,
-   "title": "Smoke-Free Air Act signed, effective 2003 — 25th anniversary",
-   "note": "Mayor Bloomberg signed a sweeping expansion of the Smoke-Free Air Act, banning smoking in nearly all bars and restaurants. The ban took effect March 30, 2003.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.nyc.gov/site/doh/business/permits-and-licenses/smoke-free-air-act-exemptions-and-registrations.page",
-   "significance": 64,
-   "importance": 2,
-   "why": [
-    "25th anniversary",
-    "within living memory"
-   ],
-   "historyYear": 2002,
-   "anniversaryYears": 25,
-   "live": true,
-   "tier": "notable"
-  },
-  {
-   "date": "2027-12-31",
-   "time": null,
-   "title": "First New Year's Eve ball drops in Times Square — 120th anniversary",
-   "note": "A lighted iron-and-wood ball descended the Times Tower flagpole to ring in 1908, launching an enduring New Year's tradition.",
-   "strand": "anniversary",
-   "source": "New York, in Time",
-   "sourceUrl": "https://www.timessquarenyc.org/history-of-the-ball",
-   "significance": 58,
-   "importance": 2,
-   "why": [
-    "120th anniversary"
-   ],
-   "historyYear": 1907,
-   "anniversaryYears": 120,
-   "live": true,
-   "tier": "notable"
   }
  ]
 }
