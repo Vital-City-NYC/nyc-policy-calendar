@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T03:52:51.637Z",
+ "generated": "2026-11-27T19:13:46.215Z",
  "window": {
   "start": "2026-11-13",
   "end": "2028-01-01"
@@ -17,33 +17,33 @@
    "name": "Anniversaries",
    "ok": true,
    "count": 3,
-   "ms": 5,
+   "ms": 6,
+   "note": null
+  },
+  {
+   "name": "City Record",
+   "ok": true,
+   "count": 58,
+   "ms": 534,
    "note": null
   },
   {
    "name": "City Council",
    "ok": true,
    "count": 90,
-   "ms": 851,
-   "note": null
-  },
-  {
-   "name": "City Record",
-   "ok": true,
-   "count": 55,
-   "ms": 907,
+   "ms": 1061,
    "note": null
   },
   {
    "name": "Albany",
    "ok": true,
    "count": 0,
-   "ms": 4692,
+   "ms": 9506,
    "note": "the Legislature is out of session"
   }
  ],
  "counts": {
-  "routine": 144,
+  "routine": 147,
   "notable": 36,
   "major": 11,
   "marquee": 1
@@ -1012,6 +1012,19 @@
    "tier": "routine"
   },
   {
+   "date": "2026-11-30",
+   "time": null,
+   "title": "Design Commission Special Meeting Agenda, Monday, November 30, 2026",
+   "note": "Public Design Commission · City Hall Park",
+   "strand": "hearings",
+   "source": "Public Design Commission",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
    "date": "2026-12-01",
    "time": null,
    "title": "New York, 1860, by Joshua K. Leon",
@@ -1462,6 +1475,19 @@
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22837&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22837_A_Subcommittee_on_Zoning_and_Franchises_26-12-08_Committee_Agenda.pdf",
    "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-08",
+   "time": null,
+   "title": "The Stemma - ELURP Application: HPD260002PPX 1388-1400 Stebbins Avenue",
+   "note": "Community Boards",
+   "strand": "hearings",
+   "source": "Community Boards",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
    "why": [],
    "live": true,
    "tier": "routine"
@@ -2221,6 +2247,19 @@
    "sourceUrl": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22863&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
    "agendaUrl": "https://nyc.legistar1.com/nyc/meetings/2026/12/22863_A_Committee_on_Economic_Development_26-12-16_Committee_Agenda.pdf",
    "significance": 22,
+   "why": [],
+   "live": true,
+   "tier": "routine"
+  },
+  {
+   "date": "2026-12-16",
+   "time": null,
+   "title": "NEW YORK CITY DEPARTMENT OF TRANSPORTATION",
+   "note": "Transportation · 55 Water Street",
+   "strand": "hearings",
+   "source": "Transportation",
+   "sourceUrl": "https://a856-cityrecord.nyc.gov/",
+   "significance": 20,
    "why": [],
    "live": true,
    "tier": "routine"
